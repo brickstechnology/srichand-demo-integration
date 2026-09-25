@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "code": "srichand_store_api",
+  "name": "srichand.com public WooCommerce Store API",
+  "url": "https://srichand.com/wp-json/wc/store/v1/products",
+  "source_type": "official",
+  "accessed_at": "2026-09-18T11:12:00Z",
+  "notes": "All 345 listings and 1,339 variations: names, SKUs, list/sale prices, stock flags, descriptions, images. Raw snapshot in research/raw/."
+ },
+ {
+  "id": 2,
+  "code": "srichand_product_pages",
+  "name": "srichand.com product pages (ingredient + how-to-use tabs)",
+  "url": "https://srichand.com/shop/",
+  "source_type": "official",
+  "accessed_at": "2026-09-18T11:12:00Z",
+  "notes": "Full INCI lists and usage directions published by the brand on each product page."
+ },
+ {
+  "id": 3,
+  "code": "third_party_inci_db",
+  "name": "INCIDecoder / SkinSort (third-party ingredient databases)",
+  "url": "https://incidecoder.com/brands/srichand",
+  "source_type": "third_party_db",
+  "accessed_at": "2026-09-18T11:12:00Z",
+  "notes": "Used only to cross-check official INCI lists."
+ },
+ {
+  "id": 4,
+  "code": "srichand_policies",
+  "name": "srichand.com policy, membership and campaign pages",
+  "url": "https://srichand.com/",
+  "source_type": "official",
+  "accessed_at": "2026-09-18T11:12:00Z",
+  "notes": "Srichand Rewards T&C, shipping threshold, payment methods, returns, campaigns. Details in research/findings/rewards_policies_brand.md."
+ },
+ {
+  "id": 5,
+  "code": "retailer_listings",
+  "name": "Thai retailer listings (Watsons TH, Konvy, Beautrium, Lotus's)",
+  "url": "https://www.watsons.co.th/",
+  "source_type": "retailer",
+  "accessed_at": "2026-09-18T11:12:00Z",
+  "notes": "Cross-checks and fallback where an official tab is empty."
+ },
+ {
+  "id": 6,
+  "code": "thai_regulators",
+  "name": "Thai FDA cosmetic advertising manual; Cosmetics Act B.E. 2558; PDPA B.E. 2562; PDPC notifications",
+  "url": "https://www.fda.moph.go.th/",
+  "source_type": "regulator",
+  "accessed_at": "2026-09-18T11:12:00Z",
+  "notes": "Basis for knowledge/ guideline documents. Details in research/findings/thai_regulatory.md."
+ },
+ {
+  "id": 7,
+  "code": "bricks_curation",
+  "name": "Bricks curation (cosmetic-science knowledge + reading of official copy)",
+  "url": null,
+  "source_type": "curated",
+  "accessed_at": "2026-09-18T11:12:00Z",
+  "notes": "Ingredient dictionary, concern taxonomy, routine steps, product↔concern mappings, range gaps."
+ },
+ {
+  "id": 8,
+  "code": "mock_generator",
+  "name": "scripts/04_generate_mock.py (seed 20260918)",
+  "url": null,
+  "source_type": "internal_mock",
+  "accessed_at": "2026-09-18T11:12:00Z",
+  "notes": "All operational data. Fictional people; real SKUs and prices."
+ }
+]

@@ -1,0 +1,1869 @@
+{
+ "_comment": "Parameters for scripts/04_generate_mock.py. Everything here drives MOCK data. Where a value mirrors a real srichand.com policy it is marked origin=official with the source in research/findings/rewards_policies_brand.md; otherwise origin=assumed_for_demo.",
+ "customer_count": 40,
+ "order_count": 150,
+ "image_retention_days": 1,
+ "policy_version": "advisor-privacy-notice-v0.3-demo",
+ "model_version": "advisor-vision-0.4-demo",
+ "shipping": {
+  "flat_fee": 50,
+  "free_threshold": 599,
+  "origin": "official: free shipping from ฿599 is published; the ฿50 flat fee was observed in the live cart (research/findings/rewards_policies_brand.md)"
+ },
+ "loyalty": {
+  "programme_name": "Srichand Rewards",
+  "points_valid_days": 365,
+  "baht_per_point_redeemed": 0.5,
+  "baht_per_point_redeemed_origin": "assumed_for_demo — Srichand publishes no baht value for a point ('at the company's discretion')",
+  "welcome_bonus_points": 0,
+  "tiers": [
+   {
+    "code": "MEMBER",
+    "name": "Srichand Rewards Member",
+    "min_spend": 0,
+    "baht_per_point": 25,
+    "benefits_en": "Single-level points programme: every ฿25 of net spend (after discounts and shipping) earns 1 point; remainders under ฿25 earn nothing. Points post within 17 days for srichand.com / Shopee / Lazada once the account is linked, and within 48 hours for store receipts uploaded in LINE. Points last one year; join by adding LINE @srichand1948 (or @sasidiary) and registering with SMS OTP. No tiers are published.",
+    "benefits_th": "สะสมแต้ม Srichand Rewards: ทุก 25 บาท = 1 คะแนน (คิดจากยอดชำระสุทธิ) สมัครผ่าน LINE @srichand1948",
+    "origin": "official"
+   }
+  ],
+  "rewards": [
+   {
+    "name_th": "คูปองส่วนลด 20 บาท",
+    "name_en": "฿20 discount coupon",
+    "type": "discount_coupon",
+    "points": 40,
+    "discount": 20,
+    "origin": "assumed_for_demo"
+   },
+   {
+    "name_th": "คูปองส่วนลด 50 บาท",
+    "name_en": "฿50 discount coupon",
+    "type": "discount_coupon",
+    "points": 100,
+    "discount": 50,
+    "origin": "assumed_for_demo"
+   },
+   {
+    "name_th": "คูปองส่งฟรี",
+    "name_en": "Free shipping voucher",
+    "type": "free_shipping",
+    "points": 60,
+    "origin": "assumed_for_demo"
+   },
+   {
+    "name_th": "แลกรับ ทรานส์ลูเซนท์ พาวเดอร์ 10 ก.",
+    "name_en": "Redeem: Translucent Powder 10 g",
+    "type": "free_product",
+    "points": 400,
+    "variant": [
+     "Translucent Powder",
+     10,
+     null
+    ],
+    "origin": "assumed_for_demo"
+   }
+  ]
+ },
+ "mock_coupons": [
+  {
+   "promo_code": "LINE-WELCOME",
+   "coupon_code": "WELCOME50",
+   "name_th": "ส่วนลดเพื่อนใหม่ LINE 50 บาท",
+   "name_en": "New LINE friend ฿50 off",
+   "promo_type": "coupon",
+   "mechanics_en": "฿50 off a first order of ฿300 or more placed through the LINE advisor.",
+   "min_spend": 300,
+   "discount_type": "amount",
+   "discount_value": 50
+  },
+  {
+   "promo_code": "LINE-FREESHIP",
+   "coupon_code": "FREESHIP",
+   "name_th": "โค้ดส่งฟรี",
+   "name_en": "Free shipping code",
+   "promo_type": "free_shipping",
+   "mechanics_en": "Free standard shipping, no minimum.",
+   "min_spend": 0,
+   "discount_type": "shipping",
+   "discount_value": 0
+  },
+  {
+   "promo_code": "ADVISOR-ROUTINE10",
+   "coupon_code": "ROUTINE10",
+   "name_th": "ซื้อครบรูทีนที่แอดไวเซอร์แนะนำ ลด 10%",
+   "name_en": "10% off a full advisor routine",
+   "promo_type": "coupon",
+   "mechanics_en": "10% off when a basket of ฿800+ is built from an advisor recommendation.",
+   "min_spend": 800,
+   "discount_type": "percent",
+   "discount_value": 10
+  }
+ ],
+ "scripted_low_stock": [
+  [
+   "Skin Essential Fine Smooth Cushion",
+   14,
+   "110",
+   3
+  ],
+  [
+   "Resurface Pro-Retinol Intense Serum",
+   30,
+   null,
+   5
+  ]
+ ],
+ "consent_text_th": {
+  "face_photo_analysis": "ฉันยินยอมโดยชัดแจ้งให้ศรีจันทร์ใช้ภาพถ่ายใบหน้าของฉันเพื่อวิเคราะห์ลักษณะผิวที่มองเห็นได้และแนะนำผลิตภัณฑ์เท่านั้น ไม่ใช้เพื่อระบุตัวตน ภาพจะถูกลบภายใน 24 ชั่วโมงหลังวิเคราะห์เสร็จ ฉันสามารถถอนความยินยอมหรือขอลบข้อมูลได้ทุกเมื่อโดยพิมพ์ \"ลบข้อมูลของฉัน\" การไม่ให้ความยินยอมไม่กระทบการใช้บริการอื่น (สามารถตอบแบบสอบถามแทนการส่งภาพได้)",
+  "skin_profile_storage": "ฉันยินยอมให้ศรีจันทร์เก็บข้อมูลสภาพผิว เป้าหมาย และประวัติการแพ้ที่ฉันให้ไว้ เพื่อใช้ปรับคำแนะนำให้เหมาะกับฉันในครั้งต่อไป",
+  "marketing": "ฉันยินยอมรับข่าวสาร โปรโมชั่น และสิทธิพิเศษจากศรีจันทร์ผ่าน LINE",
+  "cross_border_processing": "ฉันรับทราบว่าภาพและข้อมูลของฉันจะถูกประมวลผลโดยผู้ให้บริการระบบ AI ซึ่งอาจตั้งอยู่ในประเทศที่มีมาตรฐานการคุ้มครองข้อมูลส่วนบุคคลไม่เทียบเท่าประเทศไทย และฉันยินยอมให้ส่งข้อมูลดังกล่าวภายใต้สัญญาประมวลผลข้อมูลที่ห้ามเก็บรักษาและห้ามนำไปฝึกโมเดล"
+ },
+ "personas": [
+  {
+   "nick": "Ploy",
+   "line_name": "Ploy 🌷",
+   "age": 27,
+   "gender": "female",
+   "place": 1,
+   "brief": "Office worker in Silom. Oily T-zone, shiny by 2 pm, blackheads on the nose; light makeup daily. DEMO: photo analysis → honest BHA gap with a generic external suggestion → buys Sunlution Acne Care twin pack + Translucent Powder → asks 'where is my parcel?' (order in transit)."
+  },
+  {
+   "nick": "Mint",
+   "line_name": "มิ้นท์ ☁️",
+   "age": 17,
+   "gender": "female",
+   "place": 7,
+   "brief": "High-school student in Khon Kaen (17), breakouts on forehead and chin, budget ≈ ฿150 per item. DEMO: age gate → under-20 users get the NO-PHOTO questionnaire path by default (conservative PDPA reading), SASI Acne Sol budget routine, advisor never says a cosmetic 'treats acne' and suggests a pharmacist/dermatologist with a parent if no improvement in 8–12 weeks."
+  },
+  {
+   "nick": "Nok",
+   "line_name": "ครูนก",
+   "age": 42,
+   "gender": "female",
+   "place": 6,
+   "brief": "Teacher in Chiang Mai with melasma-type patches on both cheeks and skin that stings with strong vitamin C. DEMO: careful wording (cannot diagnose melasma from a photo), Advanced Anti-Melasma + Barrier Boost + water-resistant Rosia sunscreen, mobile-banking order already delivered, azelaic-acid gap logged."
+  },
+  {
+   "nick": "Beam",
+   "line_name": "Beam",
+   "age": 31,
+   "gender": "male",
+   "place": 2,
+   "brief": "Software engineer, first skincare routine ever, wants three steps maximum; skin is shiny yet feels tight from all-day air-con. DEMO: minimal 3-step routine; he placed an order but never scanned the PromptPay QR, so the payment window has EXPIRED — the advisor explains, the order auto-cancels on his next action (stock released, items back in the cart) and he re-orders in one step."
+  },
+  {
+   "nick": "Fern",
+   "line_name": "Fern ✨",
+   "age": 35,
+   "gender": "female",
+   "place": 0,
+   "brief": "Makeup enthusiast and the top-tier repeat buyer. DEMO: cushion shade match from a photo (110 Vanilla vs 115 Natural — 110 is down to 3 units), reorder of her usual basket, open cart from an advisor recommendation, redeems Srichand Rewards points on an order."
+  },
+  {
+   "nick": "Dao",
+   "line_name": "ป้าดาว",
+   "age": 56,
+   "gender": "female",
+   "place": 4,
+   "brief": "Retired, dry skin with fine lines, has never used a retinoid. DEMO: Timeless (bakuchiol) first, then a slow Resurface ramp-up schedule with Barrier Boost buffering; eye-care gap logged; pays by mobile banking."
+  }
+ ],
+ "persona_sessions": [
+  {
+   "customer": 1,
+   "days_ago": 6,
+   "observed_skin_type": "oily",
+   "undertone": "warm_yellow",
+   "depth": "light-medium",
+   "summary_th": "ผิวมันบริเวณทีโซนและแก้มด้านใน เห็นรูขุมขนชัดบริเวณจมูก มีสิวเสี้ยนเล็กน้อย สีผิวสม่ำเสมอดี ไม่พบรอยแดงหรือการอักเสบ",
+   "profile": {
+    "skin_type": "oily",
+    "sensitivity": "low",
+    "reactions": "None known",
+    "goals": [
+     "excess-sebum-shine",
+     "blackheads-congestion",
+     "enlarged-pores"
+    ],
+    "current_routine": "Foam cleanser + whatever sunscreen is on sale",
+    "appetite": "standard_5_steps",
+    "budget": 400,
+    "makeup": "daily",
+    "environment": "BTS commute + air-conditioned office, Bangkok"
+   },
+   "findings": [
+    [
+     "excess-sebum-shine",
+     "t_zone",
+     3,
+     "high",
+     "Marked specular shine across forehead, nose and medial cheeks in the flash set."
+    ],
+    [
+     "enlarged-pores",
+     "nose",
+     2,
+     "high",
+     "Pores clearly visible on the nose and adjacent cheek."
+    ],
+    [
+     "blackheads-congestion",
+     "nose",
+     2,
+     "medium",
+     "Dark follicular dots on the nasal alae; resolution limits certainty."
+    ],
+    [
+     "dehydration",
+     "cheeks",
+     1,
+     "low",
+     "Slight crepiness on lateral cheeks — possibly dehydration under the oil."
+    ]
+   ],
+   "recommendations": [
+    {
+     "product": "Sunlution Acne Care Sunscreen",
+     "step": "sunscreen",
+     "concern": "excess-sebum-shine",
+     "outcome": "purchased",
+     "variant": [
+      "Sunlution Acne Care Sunscreen",
+      40,
+      null,
+      [
+       "multipack"
+      ]
+     ],
+     "reason_en": "Matte SPF50+ PA++++ with oil-absorbing blur effect and encapsulated salicylic acid — built for exactly this skin in this climate.",
+     "reason_th": "กันแดดเนื้อแมตต์ SPF50+ PA++++ ช่วยดูดซับความมัน พร้อม Salicylic Acid Sphere เหมาะกับผิวมันในอากาศร้อนชื้น"
+    },
+    {
+     "product": "Translucent Powder",
+     "step": "powder",
+     "concern": "makeup-longevity-oil-control",
+     "outcome": "purchased",
+     "variant": [
+      "Translucent Powder",
+      10,
+      null
+     ],
+     "reason_en": "The heritage oil-control powder; fragrance-free, works on every skin tone, ideal for the 2 pm touch-up.",
+     "reason_th": "แป้งฝุ่นโปร่งแสงคุมมัน ปราศจากน้ำหอม ใช้ได้กับทุกสีผิว เหมาะสำหรับเติมระหว่างวัน"
+    },
+    {
+     "product": "Skin Moisture Burst Gel Cream",
+     "step": "moisturise",
+     "concern": "dehydration",
+     "outcome": "added_to_cart",
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      50,
+      null
+     ],
+     "reason_en": "Oily skin still needs water; this gel-cream hydrates without adding shine.",
+     "reason_th": "ผิวมันก็ต้องการน้ำ เจลครีมเนื้อบางเบาเติมความชุ่มชื้นโดยไม่เพิ่มความมัน"
+    },
+    {
+     "product": "Acne Sol Calming Toner Pad",
+     "step": "toner-pad",
+     "concern": "blackheads-congestion",
+     "outcome": "shown",
+     "reason_en": "Closest in-house BHA step (SASI sister brand). Strength is undisclosed, so treat it as maintenance.",
+     "reason_th": "โทนเนอร์แพดที่มี BHA จากแบรนด์ศศิ เหมาะสำหรับดูแลต่อเนื่อง"
+    }
+   ],
+   "routine": {
+    "name": "Ploy — oil control for a Bangkok office day",
+    "goal_en": "Stay matte past 2 pm and keep nose pores clear.",
+    "items": [
+     [
+      "am",
+      "cleanse",
+      "Barrier Boost Cleansing Gel Foam",
+      null,
+      "daily",
+      "Small amount, 30 seconds, lukewarm water."
+     ],
+     [
+      "am",
+      "essence",
+      "Skin Moisture Burst Essence",
+      null,
+      "daily",
+      "Pat in while skin is damp."
+     ],
+     [
+      "am",
+      "moisturise",
+      "Skin Moisture Burst Gel Cream",
+      null,
+      "daily",
+      "Thin layer."
+     ],
+     [
+      "am",
+      "sunscreen",
+      "Sunlution Acne Care Sunscreen",
+      null,
+      "daily; reapply at lunch",
+      "Two finger-lengths; doubles as primer."
+     ],
+     [
+      "am",
+      "powder",
+      "Translucent Powder",
+      null,
+      "daily + 2 pm touch-up",
+      "Press, don't sweep, on the T-zone."
+     ],
+     [
+      "pm",
+      "cleanse",
+      "Barrier Boost Cleansing Gel Foam",
+      null,
+      "daily",
+      "Second cleanse if makeup was worn."
+     ],
+     [
+      "pm",
+      "toner-pad",
+      "Acne Sol Calming Toner Pad",
+      null,
+      "3 nights/week",
+      "T-zone only to start."
+     ],
+     [
+      "pm",
+      "toner-pad",
+      null,
+      "dedicated-bha-treatment",
+      "optional upgrade",
+      "If blackheads persist after 6 weeks: a generic 2% BHA liquid 2–3 nights/week in place of the pad."
+     ],
+     [
+      "pm",
+      "moisturise",
+      "Skin Moisture Burst Gel Cream",
+      null,
+      "daily",
+      null
+     ]
+    ]
+   },
+   "gaps": [
+    [
+     "dedicated-bha-treatment",
+     "blackheads-congestion"
+    ]
+   ]
+  },
+  {
+   "customer": 2,
+   "days_ago": 12,
+   "minor": true,
+   "observed_skin_type": "acne-prone",
+   "undertone": "neutral",
+   "depth": "light",
+   "quality": null,
+   "flags": [
+    "under_20_no_photo_questionnaire_path"
+   ],
+   "summary_th": "ผู้ใช้อายุต่ำกว่า 20 ปี ระบบจึงใช้แบบสอบถามแทนการวิเคราะห์ภาพถ่าย จากคำตอบ: มีสิวบริเวณหน้าผากและคาง ผิวมันบริเวณทีโซน และมีรอยแดงจากสิวบางจุด",
+   "profile": {
+    "skin_type": "acne-prone",
+    "sensitivity": "medium",
+    "reactions": "Stings with alcohol-based toners",
+    "goals": [
+     "acne-breakouts",
+     "post-acne-marks"
+    ],
+    "current_routine": "Bar soap",
+    "appetite": "minimal_3_steps",
+    "budget": 150,
+    "makeup": "sometimes",
+    "environment": "School, outdoor sports twice a week"
+   },
+   "findings": [
+    [
+     "acne-breakouts",
+     "forehead",
+     2,
+     "low",
+     "Self-reported via questionnaire (no photo taken: under-20 path): small breakouts on forehead and chin."
+    ],
+    [
+     "excess-sebum-shine",
+     "t_zone",
+     2,
+     "low",
+     "Self-reported T-zone shine by midday."
+    ],
+    [
+     "post-acne-marks",
+     "cheeks",
+     1,
+     "low",
+     "Self-reported red marks after blemishes."
+    ]
+   ],
+   "recommendations": [
+    {
+     "product": "Barrier Boost Cleansing Gel Foam",
+     "step": "cleanse",
+     "concern": "acne-breakouts",
+     "outcome": "purchased",
+     "variant": [
+      "Barrier Boost Cleansing Gel Foam",
+      50,
+      null
+     ],
+     "reason_en": "Swap bar soap for a gentle gel cleanser — ฿49 for the 50 ml.",
+     "reason_th": "เปลี่ยนจากสบู่ก้อนมาเป็นเจลล้างหน้าสูตรอ่อนโยน ขนาด 50 มล. ราคาเพียง 49 บาท"
+    },
+    {
+     "product": "Acne Sol Comfort Sunscreen",
+     "step": "sunscreen",
+     "concern": "acne-breakouts",
+     "outcome": "purchased",
+     "variant": [
+      "Acne Sol Comfort Sunscreen",
+      15,
+      null
+     ],
+     "reason_en": "Non-clogging SPF50+ with 9-hour oil control claim at a student price.",
+     "reason_th": "กันแดดไม่อุดตัน SPF50+ คุมมัน 9 ชั่วโมง ราคานักเรียน"
+    },
+    {
+     "product": "Acne Sol Calming Toner Pad",
+     "step": "toner-pad",
+     "concern": "acne-breakouts",
+     "outcome": "shown",
+     "reason_en": "Leave-on BHA pad for blemish-prone skin; start 2 nights a week.",
+     "reason_th": "โทนเนอร์แพดสำหรับผิวที่มีแนวโน้มเป็นสิว เริ่มใช้สัปดาห์ละ 2 คืน"
+    }
+   ],
+   "routine": {
+    "name": "Mint — simple routine for blemish-prone teen skin",
+    "goal_en": "A gentle three-step habit; reassess in 8 weeks.",
+    "items": [
+     [
+      "am",
+      "cleanse",
+      "Barrier Boost Cleansing Gel Foam",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "sunscreen",
+      "Acne Sol Comfort Sunscreen",
+      null,
+      "daily; reapply before sport",
+      null
+     ],
+     [
+      "pm",
+      "cleanse",
+      "Barrier Boost Cleansing Gel Foam",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "toner-pad",
+      "Acne Sol Calming Toner Pad",
+      null,
+      "2 nights/week → alternate nights",
+      "Skip if skin stings."
+     ],
+     [
+      "pm",
+      "treatment-serum",
+      null,
+      "medical-acne-care",
+      "if no improvement in 8–12 weeks",
+      "See a pharmacist or dermatologist with a parent; cosmetics support but do not treat acne."
+     ]
+    ]
+   },
+   "gaps": [
+    [
+     "medical-acne-care",
+     "acne-breakouts"
+    ]
+   ],
+   "images": 0
+  },
+  {
+   "customer": 3,
+   "days_ago": 19,
+   "observed_skin_type": "sensitive",
+   "undertone": "warm_golden",
+   "depth": "medium",
+   "summary_th": "พบปื้นสีน้ำตาลลักษณะสมมาตรบริเวณโหนกแก้มทั้งสองข้าง ผิวค่อนข้างแห้งบริเวณแก้ม มีรอยแดงจาง ๆ รอบจมูก ทั้งนี้ไม่สามารถยืนยันได้จากภาพถ่ายว่าเป็นฝ้า แนะนำปรึกษาแพทย์ผิวหนังหากปื้นขยายหรือเข้มขึ้น",
+   "profile": {
+    "skin_type": "sensitive",
+    "sensitivity": "high",
+    "reactions": "Pure vitamin C serums sting; fragranced creams cause flushing",
+    "goals": [
+     "melasma",
+     "dark-spots-sun",
+     "sensitivity-redness"
+    ],
+    "current_routine": "Pharmacy cleanser, no sunscreen on school days",
+    "appetite": "standard_5_steps",
+    "budget": 600,
+    "makeup": "sometimes",
+    "environment": "Outdoor playground duty at midday"
+   },
+   "findings": [
+    [
+     "melasma",
+     "cheeks",
+     3,
+     "medium",
+     "Symmetric brown patches over both malar areas; pattern is melasma-like but cannot be confirmed from a photo."
+    ],
+    [
+     "dark-spots-sun",
+     "cheeks",
+     2,
+     "high",
+     "Several discrete sun spots on the upper cheeks."
+    ],
+    [
+     "sensitivity-redness",
+     "nose",
+     1,
+     "medium",
+     "Mild perinasal redness."
+    ],
+    [
+     "dryness",
+     "cheeks",
+     1,
+     "medium",
+     "Matte, slightly rough lateral cheeks."
+    ]
+   ],
+   "recommendations": [
+    {
+     "product": "Sunlution Rosia Ultra Protection Serum Sunscreen",
+     "step": "sunscreen",
+     "concern": "melasma",
+     "outcome": "purchased",
+     "variant": [
+      "Sunlution Rosia Ultra Protection Serum Sunscreen",
+      40,
+      null
+     ],
+     "reason_en": "Nothing fades patches without strict UV protection first; this one is water-resistant for outdoor duty.",
+     "reason_th": "การปกป้องผิวจากแสงแดดคือขั้นตอนแรกที่สำคัญที่สุด สูตรนี้กันน้ำ เหมาะกับการอยู่กลางแจ้ง"
+    },
+    {
+     "product": "Advanced Anti-Melasma Serum",
+     "step": "treatment-serum",
+     "concern": "melasma",
+     "outcome": "purchased",
+     "variant": [
+      "Advanced Anti-Melasma Serum",
+      30,
+      null
+     ],
+     "reason_en": "Tranexamic acid + niacinamide, positioned as gentle — avoids the vitamin C that stings her.",
+     "reason_th": "ทรานซามิก แอซิดและไนอะซินาไมด์ สูตรอ่อนโยน ช่วยให้จุดด่างดำแลดูจางลง ผลลัพธ์ขึ้นอยู่กับแต่ละบุคคล"
+    },
+    {
+     "product": "Barrier Boost Serum",
+     "step": "treatment-serum",
+     "concern": "sensitivity-redness",
+     "outcome": "purchased",
+     "variant": [
+      "Barrier Boost Serum",
+      30,
+      null
+     ],
+     "reason_en": "Fragrance-free ectoin + cica serum, irritation-tested on sensitive skin.",
+     "reason_th": "เซรั่มปราศจากน้ำหอม ผ่านการทดสอบการระคายเคืองกับกลุ่มผิวแพ้ง่าย"
+    },
+    {
+     "product": "Barrier Boost Soothing Gel Cream",
+     "step": "moisturise",
+     "concern": "compromised-barrier",
+     "outcome": "shown",
+     "reason_en": "Fragrance-free soothing moisturiser (currently out of stock online — advisor offered a restock alert).",
+     "reason_th": "เจลครีมปลอบประโลมผิว ปราศจากน้ำหอม (ขณะนี้สินค้าหมดชั่วคราว)"
+    }
+   ],
+   "routine": {
+    "name": "Nok — calm first, then fade",
+    "goal_en": "Protect daily, keep skin calm, help patches look lighter over 8–12 weeks.",
+    "items": [
+     [
+      "am",
+      "cleanse",
+      "Barrier Boost Cleansing Gel Foam",
+      null,
+      "daily",
+      "Note: this cleanser contains fragrance per its ingredient list; stop if it stings."
+     ],
+     [
+      "am",
+      "treatment-serum",
+      "Advanced Anti-Melasma Serum",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "moisturise",
+      "Barrier Boost Soothing Gel Cream",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "sunscreen",
+      "Sunlution Rosia Ultra Protection Serum Sunscreen",
+      null,
+      "daily; reapply before playground duty",
+      "Generous amount; hat when outdoors."
+     ],
+     [
+      "pm",
+      "cleanse",
+      "Barrier Boost Cleansing Gel Foam",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "treatment-serum",
+      "Barrier Boost Serum",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "treatment-serum",
+      "Advanced Anti-Melasma Serum",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "moisturise",
+      "Barrier Boost Soothing Gel Cream",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "treatment-serum",
+      null,
+      "azelaic-acid",
+      "optional",
+      "If redness and marks both persist: ask a pharmacist about azelaic acid 10%."
+     ]
+    ]
+   },
+   "gaps": [
+    [
+     "azelaic-acid",
+     "sensitivity-redness"
+    ]
+   ]
+  },
+  {
+   "customer": 4,
+   "days_ago": 1,
+   "observed_skin_type": "dehydrated-oily",
+   "undertone": "neutral",
+   "depth": "light-medium",
+   "images": 2,
+   "summary_th": "ผิวมันบริเวณทีโซนแต่มีเส้นริ้วแห้งเล็ก ๆ บริเวณแก้ม บ่งชี้ผิวมันแต่ขาดน้ำ รูขุมขนเห็นได้เล็กน้อย ไม่พบสิวอักเสบ",
+   "profile": {
+    "skin_type": "dehydrated-oily",
+    "sensitivity": "low",
+    "reactions": "None known",
+    "goals": [
+     "dehydration",
+     "excess-sebum-shine"
+    ],
+    "current_routine": "Body soap on face, nothing else",
+    "appetite": "minimal_3_steps",
+    "budget": 300,
+    "makeup": "never",
+    "environment": "Air-conditioned office 10 h/day, motorbike commute"
+   },
+   "findings": [
+    [
+     "excess-sebum-shine",
+     "t_zone",
+     2,
+     "high",
+     "Shine on nose and forehead."
+    ],
+    [
+     "dehydration",
+     "cheeks",
+     2,
+     "medium",
+     "Fine crepey lines on the cheeks despite surface oil."
+    ],
+    [
+     "enlarged-pores",
+     "nose",
+     1,
+     "medium",
+     "Mildly visible pores."
+    ]
+   ],
+   "recommendations": [
+    {
+     "product": "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+     "step": "cleanse",
+     "concern": "dehydration",
+     "outcome": "added_to_cart",
+     "variant": [
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      100,
+      null
+     ],
+     "reason_en": "Amino-acid cleanser that does not leave the tight feel body soap does.",
+     "reason_th": "เจลโฟมสูตรอะมิโนแอซิด ล้างสะอาดโดยไม่ทำให้ผิวแห้งตึง"
+    },
+    {
+     "product": "Skin Moisture Burst Gel Cream",
+     "step": "moisturise",
+     "concern": "dehydration",
+     "outcome": "added_to_cart",
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      50,
+      null
+     ],
+     "reason_en": "One light layer fixes the 'oily but tight' feeling.",
+     "reason_th": "เจลครีมเนื้อบางเบา เติมน้ำให้ผิวมันที่ขาดน้ำ"
+    },
+    {
+     "product": "Sunlution Moisture Burst Watery Sunscreen",
+     "step": "sunscreen",
+     "concern": "daily-uv-protection",
+     "outcome": "added_to_cart",
+     "variant": [
+      "Sunlution Moisture Burst Watery Sunscreen",
+      40,
+      null
+     ],
+     "reason_en": "Watery, hydrating SPF50+ that feels like nothing — best chance a first-timer keeps using it.",
+     "reason_th": "กันแดดเนื้อน้ำ บางเบา เหมาะกับผู้เริ่มต้น"
+    }
+   ],
+   "routine": {
+    "name": "Beam — three steps, no more",
+    "goal_en": "Comfortable skin with the smallest possible routine.",
+    "items": [
+     [
+      "am",
+      "cleanse",
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "moisturise",
+      "Skin Moisture Burst Gel Cream",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "sunscreen",
+      "Sunlution Moisture Burst Watery Sunscreen",
+      null,
+      "daily",
+      "Before the motorbike commute."
+     ],
+     [
+      "pm",
+      "cleanse",
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "moisturise",
+      "Skin Moisture Burst Gel Cream",
+      null,
+      "daily",
+      null
+     ]
+    ]
+   },
+   "gaps": []
+  },
+  {
+   "customer": 5,
+   "days_ago": 3,
+   "observed_skin_type": "combination",
+   "undertone": "neutral",
+   "depth": "light",
+   "summary_th": "ผิวผสม สีผิวขาวเหลืองโทนกลาง ใต้ตาคล้ำเล็กน้อยแบบเงาโครงสร้าง ผิวเรียบเนียนดี เฉดที่ใกล้เคียงที่สุดคือ 110 Vanilla โดยมี 115 Natural เป็นตัวเลือกสำรองหากผิวคล้ำขึ้นช่วงหน้าร้อน",
+   "profile": {
+    "skin_type": "combination",
+    "sensitivity": "low",
+    "reactions": "None",
+    "goals": [
+     "natural-everyday-base",
+     "makeup-longevity-oil-control",
+     "under-eye-darkness"
+    ],
+    "current_routine": "Full Srichand routine, Super C in the morning",
+    "appetite": "full_layering",
+    "budget": 800,
+    "makeup": "daily",
+    "environment": "Events and shoots; long wear needed"
+   },
+   "findings": [
+    [
+     "under-eye-darkness",
+     "under_eye",
+     2,
+     "medium",
+     "Shadow-type darkness from tear-trough structure rather than pigment."
+    ],
+    [
+     "excess-sebum-shine",
+     "t_zone",
+     1,
+     "high",
+     "Light T-zone shine."
+    ],
+    [
+     "dullness-uneven-tone",
+     "overall",
+     1,
+     "low",
+     "Minor tone variation around the mouth."
+    ]
+   ],
+   "recommendations": [
+    {
+     "product": "Skin Essential Fine Smooth Cushion",
+     "step": "base",
+     "concern": "natural-everyday-base",
+     "outcome": "added_to_cart",
+     "variant": [
+      "Skin Essential Fine Smooth Cushion",
+      14,
+      "110"
+     ],
+     "reason_en": "Shade 110 Vanilla is the closest match to the jawline in daylight; 115 Natural is the summer back-up. Only 3 left of 110.",
+     "reason_th": "เฉด 110 Vanilla ใกล้เคียงสีผิวบริเวณกรามมากที่สุด (เหลือ 3 ชิ้น) สำรองเฉด 115 Natural สำหรับช่วงผิวคล้ำขึ้น"
+    },
+    {
+     "product": "Skin Essential Fine Smooth Concealer",
+     "step": "conceal",
+     "concern": "under-eye-darkness",
+     "outcome": "added_to_cart",
+     "variant": [
+      "Skin Essential Fine Smooth Concealer",
+      4.5,
+      "105"
+     ],
+     "reason_en": "105 Pinkish counteracts shadow under the eye; honest note: there is no eye-care product in the range.",
+     "reason_th": "เฉด 105 Pinkish ช่วยแก้เงาคล้ำใต้ตา"
+    },
+    {
+     "product": "Translucent Powder",
+     "step": "powder",
+     "concern": "makeup-longevity-oil-control",
+     "outcome": "purchased",
+     "variant": [
+      "Translucent Powder",
+      30,
+      null
+     ],
+     "reason_en": "Her staple; 30 g size is better value.",
+     "reason_th": "ขนาด 30 กรัม คุ้มค่ากว่า"
+    }
+   ],
+   "routine": {
+    "name": "Fern — long-wear natural base",
+    "goal_en": "Skin-like base that lasts through a 10-hour event day.",
+    "items": [
+     [
+      "am",
+      "essence",
+      "Skin Moisture Burst Essence",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "treatment-serum",
+      "Super C Brightening Intense Serum",
+      null,
+      "daily",
+      "Contains fragrance."
+     ],
+     [
+      "am",
+      "moisturise",
+      "Skin Moisture Burst Gel Cream",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "sunscreen",
+      "Sunlution Skin Whitening Sunscreen",
+      null,
+      "daily",
+      "Works as a makeup base."
+     ],
+     [
+      "am",
+      "base",
+      "Skin Essential Fine Smooth Cushion",
+      null,
+      "daily",
+      "Shade 110 Vanilla; press with the teardrop puff."
+     ],
+     [
+      "am",
+      "conceal",
+      "Skin Essential Fine Smooth Concealer",
+      null,
+      "daily",
+      "105 Pinkish under the eye, 110 on blemishes."
+     ],
+     [
+      "am",
+      "powder",
+      "Translucent Powder",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "makeup-removal",
+      "Skin Moisture Burst Bi-Phase Cleansing Water",
+      null,
+      "daily",
+      "Currently out of stock online."
+     ],
+     [
+      "pm",
+      "cleanse",
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "treatment-serum",
+      "Resurface Pro-Retinol Intense Serum",
+      null,
+      "alternate nights",
+      null
+     ],
+     [
+      "pm",
+      "moisturise",
+      "Skin Moisture Burst Gel Cream",
+      null,
+      "daily",
+      null
+     ]
+    ]
+   },
+   "gaps": [
+    [
+     "eye-care",
+     "under-eye-darkness"
+    ]
+   ]
+  },
+  {
+   "customer": 6,
+   "days_ago": 40,
+   "observed_skin_type": "dry",
+   "undertone": "warm_yellow",
+   "depth": "light-medium",
+   "summary_th": "ผิวแห้ง พบริ้วรอยบริเวณหางตาและหน้าผากขณะพักหน้า ผิวบริเวณแก้มขาดความชุ่มชื้น สีผิวโดยรวมสม่ำเสมอ มีจุดด่างดำจากแดดเล็กน้อย",
+   "profile": {
+    "skin_type": "dry",
+    "sensitivity": "medium",
+    "reactions": "Never tried a retinoid; worried about peeling",
+    "goals": [
+     "fine-lines-wrinkles",
+     "dryness",
+     "dark-spots-sun"
+    ],
+    "current_routine": "Cold cream and the classic Srichand powder",
+    "appetite": "standard_5_steps",
+    "budget": 500,
+    "makeup": "sometimes",
+    "environment": "Mostly at home; morning market and gardening"
+   },
+   "findings": [
+    [
+     "fine-lines-wrinkles",
+     "forehead",
+     3,
+     "high",
+     "Static forehead lines and crow's feet at rest."
+    ],
+    [
+     "dryness",
+     "cheeks",
+     2,
+     "high",
+     "Matte, rough cheek texture."
+    ],
+    [
+     "dark-spots-sun",
+     "cheeks",
+     1,
+     "medium",
+     "Scattered small sun spots."
+    ],
+    [
+     "loss-of-firmness",
+     "chin_jaw",
+     2,
+     "low",
+     "Softened jawline; pose-dependent."
+    ]
+   ],
+   "recommendations": [
+    {
+     "product": "Timeless Anti-Aging Facial Serum",
+     "step": "treatment-serum",
+     "concern": "fine-lines-wrinkles",
+     "outcome": "purchased",
+     "variant": [
+      "Timeless Anti-Aging Facial Serum",
+      30,
+      null
+     ],
+     "reason_en": "Bakuchiol-based and fragrance-free — the gentle way in before any retinoid.",
+     "reason_th": "เซรั่มบาคูชิออล อ่อนโยน ปราศจากน้ำหอม เหมาะสำหรับเริ่มต้นดูแลริ้วรอย"
+    },
+    {
+     "product": "Resurface Pro-Retinol Intense Serum",
+     "step": "treatment-serum",
+     "concern": "fine-lines-wrinkles",
+     "outcome": "shown",
+     "reason_en": "Introduce after 4 weeks on Timeless: 2 nights a week, buffered with a barrier moisturiser.",
+     "reason_th": "เริ่มใช้หลังจากใช้ Timeless ครบ 4 สัปดาห์ สัปดาห์ละ 2 คืน"
+    },
+    {
+     "product": "Sunlution Moisture Burst Watery Sunscreen",
+     "step": "sunscreen",
+     "concern": "daily-uv-protection",
+     "outcome": "purchased",
+     "variant": [
+      "Sunlution Moisture Burst Watery Sunscreen",
+      40,
+      null
+     ],
+     "reason_en": "Hydrating, ceramide-rich SPF50+ suited to dry skin; essential before any retinoid.",
+     "reason_th": "กันแดดเติมความชุ่มชื้น มีเซราไมด์ เหมาะกับผิวแห้ง"
+    }
+   ],
+   "routine": {
+    "name": "Dao — gentle firming, retinoid ramp-up",
+    "goal_en": "Softer-looking lines without peeling.",
+    "items": [
+     [
+      "am",
+      "cleanse",
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "treatment-serum",
+      "Timeless Anti-Aging Facial Serum",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "moisturise",
+      "Skin Moisture Burst Gel Cream",
+      null,
+      "daily",
+      "Generous layer."
+     ],
+     [
+      "am",
+      "sunscreen",
+      "Sunlution Moisture Burst Watery Sunscreen",
+      null,
+      "daily",
+      "Before the morning market."
+     ],
+     [
+      "pm",
+      "cleanse",
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "essence",
+      "Barrier Boost Essence",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "treatment-serum",
+      "Resurface Pro-Retinol Intense Serum",
+      null,
+      "from week 5: 2 nights/week → alternate nights by week 12",
+      "Pea-sized amount; avoid eye corners. Contains alcohol per its ingredient list."
+     ],
+     [
+      "pm",
+      "moisturise",
+      "Skin Moisture Burst Gel Cream",
+      null,
+      "daily",
+      "Sleeping-mask thickness on retinoid nights."
+     ]
+    ]
+   },
+   "gaps": [
+    [
+     "eye-care",
+     "fine-lines-wrinkles"
+    ]
+   ]
+  },
+  {
+   "customer": 41,
+   "days_ago": 3,
+   "observed_skin_type": "combination",
+   "undertone": "warm_yellow",
+   "depth": "medium",
+   "summary_th": "ผิวผสม บริเวณทีโซนดูมีความมัน แก้มค่อนข้างปกติ พบรอยดำจากสิวบริเวณแนวกรามและแก้มด้านล่าง มีจุดด่างดำจากแดดเล็กน้อยบริเวณโหนกแก้ม และมีรอยแดงจาง ๆ ตามแนวกรามซึ่งอาจสัมพันธ์กับการโกนหนวด (เป็นการสังเกตจากภาพ ไม่ใช่การวินิจฉัย)",
+   "profile": {
+    "skin_type": "combination",
+    "sensitivity": "medium",
+    "reactions": "Alcohol aftershave and fragranced products sting after shaving",
+    "goals": [
+     "post-acne-marks",
+     "dark-spots-sun",
+     "daily-uv-protection"
+    ],
+    "current_routine": "Face wash; sunscreen only on race days",
+    "appetite": "standard_5_steps",
+    "budget": 500,
+    "makeup": "never",
+    "environment": "Runs 5 mornings a week (06:00–08:00) and cycles on weekends; air-conditioned office otherwise"
+   },
+   "findings": [
+    [
+     "post-acne-marks",
+     "chin_jaw",
+     2,
+     "high",
+     "Flat brown marks along the jawline and lower cheeks where blemishes have healed."
+    ],
+    [
+     "dark-spots-sun",
+     "cheeks",
+     2,
+     "medium",
+     "A few discrete sun spots on the upper cheeks, consistent with regular outdoor exposure."
+    ],
+    [
+     "excess-sebum-shine",
+     "t_zone",
+     2,
+     "high",
+     "Shine on forehead and nose; cheeks look balanced."
+    ],
+    [
+     "sensitivity-redness",
+     "chin_jaw",
+     1,
+     "medium",
+     "Faint redness along the jaw and neck line; pattern matches the shaving area."
+    ]
+   ],
+   "recommendations": [
+    {
+     "product": "Sunlution Rosia Ultra Protection Serum Sunscreen",
+     "step": "sunscreen",
+     "concern": "daily-uv-protection",
+     "outcome": "purchased",
+     "variant": [
+      "Sunlution Rosia Ultra Protection Serum Sunscreen",
+      40,
+      null,
+      [
+       "multipack"
+      ]
+     ],
+     "reason_en": "Official copy: water-resistant up to 80 minutes, 8-hour oil control, washes off with a normal cleanser — the sunscreen in the range built for a morning run. Marks will not look lighter without daily UV protection.",
+     "reason_th": "กันแดดเนื้อเซรั่ม กันน้ำได้นานสูงสุด 80 นาที คุมมัน 8 ชั่วโมง ล้างออกง่าย เหมาะกับการออกกำลังกายกลางแจ้ง"
+    },
+    {
+     "product": "Phyto Camellia PDRN Bright Glowing Serum",
+     "step": "treatment-serum",
+     "concern": "post-acne-marks",
+     "outcome": "purchased",
+     "variant": [
+      "Phyto Camellia PDRN Bright Glowing Serum",
+      30,
+      null
+     ],
+     "reason_en": "5% niacinamide + 0.1% alpha-arbutin (disclosed) and no fragrance on the INCI — chosen over Super C Intense Serum, which lists fragrance and would likely sting after shaving.",
+     "reason_th": "ไนอะซินาไมด์ 5% และอัลฟ่า อาร์บูติน 0.1% ไม่มีน้ำหอมในส่วนประกอบ ช่วยให้รอยดำจากสิวแลดูจางลง ผลลัพธ์ขึ้นอยู่กับสภาพผิวของแต่ละบุคคล"
+    },
+    {
+     "product": "Barrier Boost Serum",
+     "step": "treatment-serum",
+     "concern": "sensitivity-redness",
+     "outcome": "purchased",
+     "variant": [
+      "Barrier Boost Serum",
+      30,
+      null
+     ],
+     "reason_en": "Fragrance-free, alcohol-free ectoin + cica serum, irritation-tested on sensitive skin — the after-shave step.",
+     "reason_th": "เซรั่มปราศจากน้ำหอมและแอลกอฮอล์ ผ่านการทดสอบการระคายเคืองกับกลุ่มผิวแพ้ง่าย ใช้หลังโกนหนวดเพื่อให้ผิวรู้สึกสบาย"
+    },
+    {
+     "product": "Skin Moisture Burst Gel Cream",
+     "step": "moisturise",
+     "concern": "excess-sebum-shine",
+     "outcome": "added_to_cart",
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      50,
+      null
+     ],
+     "reason_en": "Light gel-cream; hydrates without adding shine to the T-zone.",
+     "reason_th": "เจลครีมเนื้อบางเบา เติมความชุ่มชื้นโดยไม่เพิ่มความมัน"
+    }
+   ],
+   "routine": {
+    "name": "Por — two-minute routine for an outdoor runner",
+    "goal_en": "Protect every morning, keep the shaving area calm, help marks look lighter over 8–12 weeks.",
+    "items": [
+     [
+      "am",
+      "cleanse",
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      null,
+      "daily",
+      "After the run, lukewarm water."
+     ],
+     [
+      "am",
+      "treatment-serum",
+      "Phyto Camellia PDRN Bright Glowing Serum",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "am",
+      "sunscreen",
+      "Sunlution Rosia Ultra Protection Serum Sunscreen",
+      null,
+      "daily, 15 minutes before heading out; reapply after 80 minutes of sweating",
+      "Two finger-lengths for face and neck; don't forget ears."
+     ],
+     [
+      "am",
+      "sunscreen",
+      null,
+      "body-sun-care",
+      "on long runs and rides",
+      "Arms, legs and the back of the neck need a body sunscreen — Srichand has none; any water-resistant SPF50+ PA++++ in a 100 ml+ size will do."
+     ],
+     [
+      "pm",
+      "cleanse",
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "treatment-serum",
+      "Barrier Boost Serum",
+      null,
+      "on shaving days, straight after shaving",
+      "Pat on; no alcohol aftershave."
+     ],
+     [
+      "pm",
+      "treatment-serum",
+      "Phyto Camellia PDRN Bright Glowing Serum",
+      null,
+      "daily",
+      null
+     ],
+     [
+      "pm",
+      "moisturise",
+      "Skin Moisture Burst Gel Cream",
+      null,
+      "daily",
+      "Thin layer."
+     ]
+    ]
+   },
+   "gaps": [
+    [
+     "body-sun-care",
+     "daily-uv-protection"
+    ]
+   ]
+  }
+ ],
+ "persona_orders": [
+  {
+   "customer": 1,
+   "days_ago": 5,
+   "status": "shipped",
+   "method": "promptpay_qr",
+   "coupon": "WELCOME50",
+   "from_session": 1,
+   "lines": [
+    {
+     "variant": [
+      "Sunlution Acne Care Sunscreen",
+      40,
+      null,
+      [
+       "multipack"
+      ]
+     ]
+    },
+    {
+     "variant": [
+      "Translucent Powder",
+      10,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 1,
+   "days_ago": 1,
+   "hours_ago": 20,
+   "status": "shipped",
+   "method": "promptpay_qr",
+   "lines": [
+    {
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      50,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Skin Moisture Burst Essence",
+      150,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 2,
+   "days_ago": 11,
+   "status": "delivered",
+   "method": "mobile_banking",
+   "from_session": 2,
+   "lines": [
+    {
+     "variant": [
+      "Barrier Boost Cleansing Gel Foam",
+      50,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Acne Sol Comfort Sunscreen",
+      15,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 3,
+   "days_ago": 18,
+   "status": "delivered",
+   "method": "mobile_banking",
+   "from_session": 3,
+   "lines": [
+    {
+     "variant": [
+      "Sunlution Rosia Ultra Protection Serum Sunscreen",
+      40,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Advanced Anti-Melasma Serum",
+      30,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Barrier Boost Serum",
+      30,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 4,
+   "days_ago": 0,
+   "hours_ago": 0,
+   "status": "pending_payment",
+   "method": "promptpay_qr",
+   "from_session": 4,
+   "lines": [
+    {
+     "variant": [
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      100,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      50,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Sunlution Moisture Burst Watery Sunscreen",
+      40,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 5,
+   "days_ago": 95,
+   "status": "delivered",
+   "method": "credit_card",
+   "lines": [
+    {
+     "variant": [
+      "Skin Essential Fine Smooth Cushion",
+      14,
+      "110"
+     ]
+    },
+    {
+     "variant": [
+      "Translucent Powder",
+      30,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Super C Brightening Intense Serum",
+      30,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Resurface Pro-Retinol Intense Serum",
+      30,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 5,
+   "days_ago": 61,
+   "status": "delivered",
+   "method": "credit_card",
+   "coupon": "ROUTINE10",
+   "lines": [
+    {
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      120,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Skin Moisture Burst Essence",
+      150,
+      null
+     ],
+     "qty": 2
+    },
+    {
+     "variant": [
+      "Sunlution Skin Whitening Sunscreen",
+      40,
+      null
+     ],
+     "qty": 2
+    },
+    {
+     "variant": [
+      "Enchanted Charming Satin Matte Lipstick",
+      null,
+      null
+     ],
+     "qty": 2
+    }
+   ]
+  },
+  {
+   "customer": 5,
+   "days_ago": 30,
+   "status": "delivered",
+   "method": "credit_card",
+   "lines": [
+    {
+     "variant": [
+      "Skin Essential Fine Smooth Foundation",
+      30,
+      "110"
+     ]
+    },
+    {
+     "variant": [
+      "Skin Essential Fine Smooth Concealer",
+      4.5,
+      "110"
+     ]
+    },
+    {
+     "variant": [
+      "Day to Glow Plumping Lip Balm",
+      null,
+      null
+     ],
+     "qty": 3
+    },
+    {
+     "variant": [
+      "Phyto Camellia PDRN Bright Glowing Serum",
+      30,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Phyto Camellia PDRN Bright Glowing Gel Cream",
+      50,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 5,
+   "days_ago": 3,
+   "status": "packing",
+   "method": "credit_card",
+   "from_session": 5,
+   "lines": [
+    {
+     "variant": [
+      "Translucent Powder",
+      30,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Super C Brightening Essence",
+      150,
+      null
+     ]
+    }
+   ],
+   "redeem_points": 100
+  },
+  {
+   "customer": 6,
+   "days_ago": 39,
+   "status": "delivered",
+   "method": "mobile_banking",
+   "from_session": 6,
+   "lines": [
+    {
+     "variant": [
+      "Timeless Anti-Aging Facial Serum",
+      30,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Sunlution Moisture Burst Watery Sunscreen",
+      40,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 6,
+   "days_ago": 9,
+   "status": "delivered",
+   "method": "mobile_banking",
+   "lines": [
+    {
+     "variant": [
+      "Resurface Pro-Retinol Intense Serum",
+      30,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Barrier Boost Essence",
+      150,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      120,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 41,
+   "days_ago": 70,
+   "status": "delivered",
+   "method": "promptpay_qr",
+   "lines": [
+    {
+     "variant": [
+      "Sunlution Rosia Ultra Protection Serum Sunscreen",
+      40,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Phyto Camellia PDRN Bright Glowing Cleansing Gel Foam",
+      100,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 41,
+   "days_ago": 34,
+   "status": "delivered",
+   "method": "credit_card",
+   "lines": [
+    {
+     "variant": [
+      "Phyto Camellia PDRN Bright Glowing Serum",
+      30,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      50,
+      null
+     ]
+    },
+    {
+     "variant": [
+      "Sunlution Rosia Ultra Protection Serum Sunscreen",
+      40,
+      null
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 41,
+   "days_ago": 2,
+   "status": "shipped",
+   "method": "promptpay_qr",
+   "coupon": "SEP30",
+   "from_session": "own",
+   "lines": [
+    {
+     "variant": [
+      "Sunlution Rosia Ultra Protection Serum Sunscreen",
+      40,
+      null,
+      [
+       "multipack"
+      ]
+     ]
+    },
+    {
+     "variant": [
+      "Barrier Boost Serum",
+      30,
+      null
+     ]
+    }
+   ]
+  }
+ ],
+ "persona_carts": [
+  {
+   "customer": 5,
+   "hours_ago": 2,
+   "lines": [
+    {
+     "variant": [
+      "Skin Essential Fine Smooth Cushion",
+      14,
+      "110"
+     ]
+    },
+    {
+     "variant": [
+      "Skin Essential Fine Smooth Concealer",
+      4.5,
+      "105"
+     ]
+    }
+   ]
+  },
+  {
+   "customer": 1,
+   "hours_ago": 26,
+   "lines": [
+    {
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      50,
+      null
+     ],
+     "from": "advisor_recommendation"
+    }
+   ]
+  },
+  {
+   "customer": 41,
+   "hours_ago": 5,
+   "lines": [
+    {
+     "variant": [
+      "Skin Moisture Burst Gel Cream",
+      50,
+      null
+     ],
+     "from": "advisor_recommendation"
+    }
+   ]
+  }
+ ],
+ "payment_methods": {
+  "weights": {
+   "promptpay_qr": 45,
+   "credit_card": 30,
+   "mobile_banking": 17,
+   "truemoney": 8
+  },
+  "note": "srichand.com offers mobile banking, credit/debit card, TrueMoney and PromptPay. Cash on delivery is NOT offered, so the mock data contains none."
+ },
+ "observed_coupons": [
+  {
+   "promo_code": "WEB-SEP26-30",
+   "coupon_code": "SEP30",
+   "name_th": "คูปองหน้าเว็บ ลด 30 บาท เมื่อซื้อครบ 399",
+   "name_en": "Website coupon ฿30 off ฿399",
+   "min_spend": 399,
+   "discount_value": 30
+  },
+  {
+   "promo_code": "WEB-SEP26-70",
+   "coupon_code": "SEP70",
+   "name_th": "คูปองหน้าเว็บ ลด 70 บาท เมื่อซื้อครบ 699",
+   "name_en": "Website coupon ฿70 off ฿699",
+   "min_spend": 699,
+   "discount_value": 70
+  },
+  {
+   "promo_code": "WEB-SEP26-150",
+   "coupon_code": "SEP150",
+   "name_th": "คูปองหน้าเว็บ ลด 150 บาท เมื่อซื้อครบ 1,299",
+   "name_en": "Website coupon ฿150 off ฿1,299",
+   "min_spend": 1299,
+   "discount_value": 150
+  }
+ ],
+ "_observed_coupons_note": "Discount tiers and dates (1–30 Sep 2026) are real, read from srichand.com campaign images. The coupon CODE strings (SEP30…) are placeholders: the site applies them as collectable coupons and publishes no code.",
+ "_image_retention_note": "Conservative PDPA design: the raw photo is deleted within 24 hours of analysis; only derived skin attributes are kept, under separate consent. See hub/knowledge/privacy-consent-and-data-rules.md.",
+ "anonymous_gap_events": 130,
+ "late_personas": [
+  {
+   "nick": "Por",
+   "line_name": "Por 🏃",
+   "age": 33,
+   "gender": "male",
+   "place": 3,
+   "brief": "Runner and weekend cyclist in Bang Na, 33. Combination skin, post-blemish marks along the jaw, a few sun spots, and skin that stings with alcohol aftershave or fragranced products after shaving. Never wears makeup; wants a routine he can do in two minutes. DEMO: a men's routine built from fragrance-free picks (INCI-checked), water-resistant sunscreen for outdoor training, the BODY-SUNSCREEN gap handled honestly, a parcel in transit with a free gift, an open cart, and a sunscreen reorder."
+  }
+ ]
+}

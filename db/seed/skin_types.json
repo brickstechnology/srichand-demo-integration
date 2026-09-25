@@ -1,0 +1,51 @@
+[
+ {
+  "id": 1,
+  "slug": "oily",
+  "name_en": "Oily",
+  "name_th": "ผิวมัน",
+  "description_en": "Visible shine across the face within a few hours of cleansing; larger-looking pores."
+ },
+ {
+  "id": 2,
+  "slug": "combination",
+  "name_en": "Combination",
+  "name_th": "ผิวผสม",
+  "description_en": "Oily T-zone with normal-to-dry cheeks."
+ },
+ {
+  "id": 3,
+  "slug": "normal",
+  "name_en": "Normal",
+  "name_th": "ผิวธรรมดา",
+  "description_en": "Balanced; little shine or tightness."
+ },
+ {
+  "id": 4,
+  "slug": "dry",
+  "name_en": "Dry",
+  "name_th": "ผิวแห้ง",
+  "description_en": "Tightness, flaking or dull rough patches; little visible oil."
+ },
+ {
+  "id": 5,
+  "slug": "sensitive",
+  "name_en": "Sensitive",
+  "name_th": "ผิวแพ้ง่าย",
+  "description_en": "Stings, flushes or itches easily with new products or heat."
+ },
+ {
+  "id": 6,
+  "slug": "acne-prone",
+  "name_en": "Acne-prone",
+  "name_th": "ผิวเป็นสิวง่าย",
+  "description_en": "Breaks out or clogs easily, usually alongside oily or combination skin."
+ },
+ {
+  "id": 7,
+  "slug": "dehydrated-oily",
+  "name_en": "Oily but dehydrated",
+  "name_th": "ผิวมันแต่ขาดน้ำ",
+  "description_en": "Shiny surface yet feels tight; common in air-conditioned, humid climates."
+ }
+]

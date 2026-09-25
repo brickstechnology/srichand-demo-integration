@@ -1,0 +1,1170 @@
+[
+ {
+  "product_id": 128,
+  "step_id": 4,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "Pat into damp skin straight after cleansing."
+ },
+ {
+  "product_id": 129,
+  "step_id": 5,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "Hydration layer; can sit under any treatment serum."
+ },
+ {
+  "product_id": 39,
+  "step_id": 6,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "Thin layer AM; can be applied thickly as a sleeping mask PM."
+ },
+ {
+  "product_id": 136,
+  "step_id": 1,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": "on makeup / water-resistant sunscreen days",
+  "usage_note_en": "Shake, soak a cotton pad, hold on the eye for 10 seconds before wiping. Follow with a cleanser."
+ },
+ {
+  "product_id": 33,
+  "step_id": 7,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": "1–3× weekly",
+  "usage_note_en": "15–20 minutes after essence; pat in the remainder."
+ },
+ {
+  "product_id": 83,
+  "step_id": 2,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "Second cleanse in the evening after makeup removal. Contains fragrance."
+ },
+ {
+  "product_id": 5,
+  "step_id": 4,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "Ideal buffer layer on retinoid or exfoliant nights."
+ },
+ {
+  "product_id": 6,
+  "step_id": 5,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily, or as the recovery serum on nights off actives",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 4,
+  "step_id": 6,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "Best buffer moisturiser for Resurface nights."
+ },
+ {
+  "product_id": 49,
+  "step_id": 2,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 47,
+  "step_id": 4,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 46,
+  "step_id": 5,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 48,
+  "step_id": 6,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 111,
+  "step_id": 4,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "AM use under sunscreen gets the most from the antioxidant."
+ },
+ {
+  "product_id": 127,
+  "step_id": 5,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily; alternate nights with Resurface",
+  "usage_note_en": "Best in the morning under sunscreen."
+ },
+ {
+  "product_id": 51,
+  "step_id": 6,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "Contains a low level of glycolic acid; if skin is sensitised by Resurface, use a Barrier Boost moisturiser on retinoid nights."
+ },
+ {
+  "product_id": 34,
+  "step_id": 7,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": "1–3× weekly",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 104,
+  "step_id": 5,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": "2–3 nights/week for 2 weeks, then every other night, then nightly if comfortable",
+  "usage_note_en": "PM only. Skip AHA/BHA on the same night. Daily sunscreen. Not for use in pregnancy."
+ },
+ {
+  "product_id": 52,
+  "step_id": 5,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "The retinoid-free option: suitable for mornings and for people who cannot tolerate Resurface."
+ },
+ {
+  "product_id": 90,
+  "step_id": 5,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "Results depend on strict daily sunscreen."
+ },
+ {
+  "product_id": 53,
+  "step_id": 7,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": "1–2× weekly",
+  "usage_note_en": "Mix with water to a paste, leave 10–15 minutes on the T-zone, rinse."
+ },
+ {
+  "product_id": 116,
+  "step_id": 8,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": "every morning; reapply midday",
+  "usage_note_en": "Two finger-lengths for face and neck. Doubles as a primer."
+ },
+ {
+  "product_id": 117,
+  "step_id": 8,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": "every morning; reapply midday",
+  "usage_note_en": "Works as a makeup base."
+ },
+ {
+  "product_id": 22,
+  "step_id": 8,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": "every morning; the pick for outdoor / sweaty days",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 23,
+  "step_id": 8,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": "every morning; reapply midday",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 24,
+  "step_id": 8,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": "every morning",
+  "usage_note_en": "Tone-up tint suits light-to-medium skin best; check on deeper tones."
+ },
+ {
+  "product_id": 176,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": "daily + midday touch-up",
+  "usage_note_en": "Press onto the T-zone with a puff; dust the rest with a brush."
+ },
+ {
+  "product_id": 28,
+  "step_id": 3,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": "3 nights/week, building to nightly if comfortable",
+  "usage_note_en": "Swipe over T-zone after cleansing. Not on Resurface nights at first. BHA concentration is not disclosed."
+ },
+ {
+  "product_id": 26,
+  "step_id": 3,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": "3 nights/week, building up",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 107,
+  "step_id": 2,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": "daily",
+  "usage_note_en": "Removes light makeup in one step."
+ },
+ {
+  "product_id": 143,
+  "step_id": 1,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": "on makeup days",
+  "usage_note_en": null
+ },
+ {
+  "product_id": 145,
+  "step_id": 8,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": "every morning",
+  "usage_note_en": "Budget teen-friendly option (15 ml)."
+ },
+ {
+  "product_id": 14,
+  "step_id": 8,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": "every morning",
+  "usage_note_en": "Sachet format (5 ml)."
+ },
+ {
+  "product_id": 9,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 10,
+  "step_id": 11,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 11,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 13,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 15,
+  "step_id": 11,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 19,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 20,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 21,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 25,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 37,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 38,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 40,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 41,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 42,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 43,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 44,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 54,
+  "step_id": 15,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 55,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 56,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 57,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 58,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 59,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 60,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 61,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 63,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 64,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 65,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 66,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 68,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 69,
+  "step_id": 11,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 70,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 71,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 81,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 85,
+  "step_id": 11,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 86,
+  "step_id": 11,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 87,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 88,
+  "step_id": 16,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 89,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 92,
+  "step_id": 9,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 93,
+  "step_id": 9,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 96,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 97,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 99,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 100,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 101,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 103,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 105,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 106,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 108,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 110,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 112,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 113,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 114,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 115,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 118,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 119,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 120,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 124,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 125,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 126,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 130,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 131,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 132,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 133,
+  "step_id": 10,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 134,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 135,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 137,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 138,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 139,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 140,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 141,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 142,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 144,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 146,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 147,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 148,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 149,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 150,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 151,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 152,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 153,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 154,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 155,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 156,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 157,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 158,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 159,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 160,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 163,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 164,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 165,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 166,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 167,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 168,
+  "step_id": 11,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 169,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 172,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 173,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 174,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 175,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 177,
+  "step_id": 16,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 178,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 179,
+  "step_id": 14,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 180,
+  "step_id": 8,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 181,
+  "step_id": 8,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 182,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 183,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 184,
+  "step_id": 1,
+  "use_am": 0,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 185,
+  "step_id": 12,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 186,
+  "step_id": 5,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 187,
+  "step_id": 5,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 188,
+  "step_id": 5,
+  "use_am": 1,
+  "use_pm": 1,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 189,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ },
+ {
+  "product_id": 190,
+  "step_id": 13,
+  "use_am": 1,
+  "use_pm": 0,
+  "frequency_en": null,
+  "usage_note_en": null
+ }
+]

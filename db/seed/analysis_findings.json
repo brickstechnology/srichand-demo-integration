@@ -1,0 +1,605 @@
+[
+ {
+  "id": 1,
+  "session_id": 1,
+  "concern_id": 1,
+  "face_zone": "t_zone",
+  "severity": 3,
+  "confidence": "high",
+  "observation_en": "Marked specular shine across forehead, nose and medial cheeks in the flash set."
+ },
+ {
+  "id": 2,
+  "session_id": 1,
+  "concern_id": 2,
+  "face_zone": "nose",
+  "severity": 2,
+  "confidence": "high",
+  "observation_en": "Pores clearly visible on the nose and adjacent cheek."
+ },
+ {
+  "id": 3,
+  "session_id": 1,
+  "concern_id": 3,
+  "face_zone": "nose",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": "Dark follicular dots on the nasal alae; resolution limits certainty."
+ },
+ {
+  "id": 4,
+  "session_id": 1,
+  "concern_id": 13,
+  "face_zone": "cheeks",
+  "severity": 1,
+  "confidence": "low",
+  "observation_en": "Slight crepiness on lateral cheeks — possibly dehydration under the oil."
+ },
+ {
+  "id": 5,
+  "session_id": 2,
+  "concern_id": 4,
+  "face_zone": "forehead",
+  "severity": 2,
+  "confidence": "low",
+  "observation_en": "Self-reported via questionnaire (no photo taken: under-20 path): small breakouts on forehead and chin."
+ },
+ {
+  "id": 6,
+  "session_id": 2,
+  "concern_id": 1,
+  "face_zone": "t_zone",
+  "severity": 2,
+  "confidence": "low",
+  "observation_en": "Self-reported T-zone shine by midday."
+ },
+ {
+  "id": 7,
+  "session_id": 2,
+  "concern_id": 5,
+  "face_zone": "cheeks",
+  "severity": 1,
+  "confidence": "low",
+  "observation_en": "Self-reported red marks after blemishes."
+ },
+ {
+  "id": 8,
+  "session_id": 3,
+  "concern_id": 7,
+  "face_zone": "cheeks",
+  "severity": 3,
+  "confidence": "medium",
+  "observation_en": "Symmetric brown patches over both malar areas; pattern is melasma-like but cannot be confirmed from a photo."
+ },
+ {
+  "id": 9,
+  "session_id": 3,
+  "concern_id": 6,
+  "face_zone": "cheeks",
+  "severity": 2,
+  "confidence": "high",
+  "observation_en": "Several discrete sun spots on the upper cheeks."
+ },
+ {
+  "id": 10,
+  "session_id": 3,
+  "concern_id": 16,
+  "face_zone": "nose",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": "Mild perinasal redness."
+ },
+ {
+  "id": 11,
+  "session_id": 3,
+  "concern_id": 14,
+  "face_zone": "cheeks",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": "Matte, slightly rough lateral cheeks."
+ },
+ {
+  "id": 12,
+  "session_id": 4,
+  "concern_id": 1,
+  "face_zone": "t_zone",
+  "severity": 2,
+  "confidence": "high",
+  "observation_en": "Shine on nose and forehead."
+ },
+ {
+  "id": 13,
+  "session_id": 4,
+  "concern_id": 13,
+  "face_zone": "cheeks",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": "Fine crepey lines on the cheeks despite surface oil."
+ },
+ {
+  "id": 14,
+  "session_id": 4,
+  "concern_id": 2,
+  "face_zone": "nose",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": "Mildly visible pores."
+ },
+ {
+  "id": 15,
+  "session_id": 5,
+  "concern_id": 9,
+  "face_zone": "under_eye",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": "Shadow-type darkness from tear-trough structure rather than pigment."
+ },
+ {
+  "id": 16,
+  "session_id": 5,
+  "concern_id": 1,
+  "face_zone": "t_zone",
+  "severity": 1,
+  "confidence": "high",
+  "observation_en": "Light T-zone shine."
+ },
+ {
+  "id": 17,
+  "session_id": 5,
+  "concern_id": 8,
+  "face_zone": "overall",
+  "severity": 1,
+  "confidence": "low",
+  "observation_en": "Minor tone variation around the mouth."
+ },
+ {
+  "id": 18,
+  "session_id": 6,
+  "concern_id": 10,
+  "face_zone": "forehead",
+  "severity": 3,
+  "confidence": "high",
+  "observation_en": "Static forehead lines and crow's feet at rest."
+ },
+ {
+  "id": 19,
+  "session_id": 6,
+  "concern_id": 14,
+  "face_zone": "cheeks",
+  "severity": 2,
+  "confidence": "high",
+  "observation_en": "Matte, rough cheek texture."
+ },
+ {
+  "id": 20,
+  "session_id": 6,
+  "concern_id": 6,
+  "face_zone": "cheeks",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": "Scattered small sun spots."
+ },
+ {
+  "id": 21,
+  "session_id": 6,
+  "concern_id": 11,
+  "face_zone": "chin_jaw",
+  "severity": 2,
+  "confidence": "low",
+  "observation_en": "Softened jawline; pose-dependent."
+ },
+ {
+  "id": 22,
+  "session_id": 7,
+  "concern_id": 1,
+  "face_zone": "chin_jaw",
+  "severity": 3,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 23,
+  "session_id": 7,
+  "concern_id": 2,
+  "face_zone": "nose",
+  "severity": 2,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 24,
+  "session_id": 7,
+  "concern_id": 3,
+  "face_zone": "chin_jaw",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 25,
+  "session_id": 8,
+  "concern_id": 1,
+  "face_zone": "cheeks",
+  "severity": 3,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 26,
+  "session_id": 8,
+  "concern_id": 8,
+  "face_zone": "chin_jaw",
+  "severity": 1,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 27,
+  "session_id": 9,
+  "concern_id": 8,
+  "face_zone": "chin_jaw",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 28,
+  "session_id": 9,
+  "concern_id": 10,
+  "face_zone": "chin_jaw",
+  "severity": 2,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 29,
+  "session_id": 10,
+  "concern_id": 4,
+  "face_zone": "forehead",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 30,
+  "session_id": 10,
+  "concern_id": 5,
+  "face_zone": "chin_jaw",
+  "severity": 3,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 31,
+  "session_id": 10,
+  "concern_id": 3,
+  "face_zone": "overall",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 32,
+  "session_id": 11,
+  "concern_id": 8,
+  "face_zone": "nose",
+  "severity": 2,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 33,
+  "session_id": 11,
+  "concern_id": 10,
+  "face_zone": "cheeks",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 34,
+  "session_id": 12,
+  "concern_id": 1,
+  "face_zone": "nose",
+  "severity": 3,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 35,
+  "session_id": 12,
+  "concern_id": 8,
+  "face_zone": "t_zone",
+  "severity": 1,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 36,
+  "session_id": 12,
+  "concern_id": 2,
+  "face_zone": "chin_jaw",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 37,
+  "session_id": 13,
+  "concern_id": 1,
+  "face_zone": "nose",
+  "severity": 3,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 38,
+  "session_id": 13,
+  "concern_id": 8,
+  "face_zone": "chin_jaw",
+  "severity": 2,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 39,
+  "session_id": 13,
+  "concern_id": 2,
+  "face_zone": "overall",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 40,
+  "session_id": 14,
+  "concern_id": 1,
+  "face_zone": "overall",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 41,
+  "session_id": 14,
+  "concern_id": 2,
+  "face_zone": "nose",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 42,
+  "session_id": 15,
+  "concern_id": 8,
+  "face_zone": "forehead",
+  "severity": 1,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 43,
+  "session_id": 15,
+  "concern_id": 10,
+  "face_zone": "t_zone",
+  "severity": 1,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 44,
+  "session_id": 16,
+  "concern_id": 13,
+  "face_zone": "chin_jaw",
+  "severity": 3,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 45,
+  "session_id": 16,
+  "concern_id": 1,
+  "face_zone": "nose",
+  "severity": 3,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 46,
+  "session_id": 17,
+  "concern_id": 8,
+  "face_zone": "cheeks",
+  "severity": 1,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 47,
+  "session_id": 17,
+  "concern_id": 10,
+  "face_zone": "forehead",
+  "severity": 1,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 48,
+  "session_id": 18,
+  "concern_id": 14,
+  "face_zone": "forehead",
+  "severity": 1,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 49,
+  "session_id": 18,
+  "concern_id": 10,
+  "face_zone": "forehead",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 50,
+  "session_id": 19,
+  "concern_id": 1,
+  "face_zone": "nose",
+  "severity": 2,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 51,
+  "session_id": 19,
+  "concern_id": 2,
+  "face_zone": "t_zone",
+  "severity": 3,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 52,
+  "session_id": 20,
+  "concern_id": 13,
+  "face_zone": "nose",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 53,
+  "session_id": 20,
+  "concern_id": 1,
+  "face_zone": "t_zone",
+  "severity": 2,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 54,
+  "session_id": 21,
+  "concern_id": 1,
+  "face_zone": "forehead",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 55,
+  "session_id": 21,
+  "concern_id": 2,
+  "face_zone": "chin_jaw",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 56,
+  "session_id": 22,
+  "concern_id": 1,
+  "face_zone": "forehead",
+  "severity": 3,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 57,
+  "session_id": 22,
+  "concern_id": 8,
+  "face_zone": "t_zone",
+  "severity": 1,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 58,
+  "session_id": 23,
+  "concern_id": 1,
+  "face_zone": "overall",
+  "severity": 1,
+  "confidence": "high",
+  "observation_en": null
+ },
+ {
+  "id": 59,
+  "session_id": 23,
+  "concern_id": 8,
+  "face_zone": "forehead",
+  "severity": 3,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 60,
+  "session_id": 24,
+  "concern_id": 13,
+  "face_zone": "cheeks",
+  "severity": 1,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 61,
+  "session_id": 24,
+  "concern_id": 1,
+  "face_zone": "forehead",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 62,
+  "session_id": 25,
+  "concern_id": 4,
+  "face_zone": "nose",
+  "severity": 2,
+  "confidence": "low",
+  "observation_en": null
+ },
+ {
+  "id": 63,
+  "session_id": 25,
+  "concern_id": 5,
+  "face_zone": "forehead",
+  "severity": 3,
+  "confidence": "medium",
+  "observation_en": null
+ },
+ {
+  "id": 64,
+  "session_id": 26,
+  "concern_id": 5,
+  "face_zone": "chin_jaw",
+  "severity": 2,
+  "confidence": "high",
+  "observation_en": "Flat brown marks along the jawline and lower cheeks where blemishes have healed."
+ },
+ {
+  "id": 65,
+  "session_id": 26,
+  "concern_id": 6,
+  "face_zone": "cheeks",
+  "severity": 2,
+  "confidence": "medium",
+  "observation_en": "A few discrete sun spots on the upper cheeks, consistent with regular outdoor exposure."
+ },
+ {
+  "id": 66,
+  "session_id": 26,
+  "concern_id": 1,
+  "face_zone": "t_zone",
+  "severity": 2,
+  "confidence": "high",
+  "observation_en": "Shine on forehead and nose; cheeks look balanced."
+ },
+ {
+  "id": 67,
+  "session_id": 26,
+  "concern_id": 16,
+  "face_zone": "chin_jaw",
+  "severity": 1,
+  "confidence": "medium",
+  "observation_en": "Faint redness along the jaw and neck line; pattern matches the shaving area."
+ }
+]

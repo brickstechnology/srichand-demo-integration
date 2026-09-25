@@ -1,0 +1,1442 @@
+[
+ {
+  "product_id": 128,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 128,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 128,
+  "skin_type_id": 7,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 128,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 128,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 128,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 129,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 129,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 129,
+  "skin_type_id": 7,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 129,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 129,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 129,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 39,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 39,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 39,
+  "skin_type_id": 7,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 39,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 39,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 39,
+  "skin_type_id": 4,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 136,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 136,
+  "skin_type_id": 4,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 136,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 136,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 136,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 33,
+  "skin_type_id": 4,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 33,
+  "skin_type_id": 7,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 33,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 33,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 33,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 33,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 83,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 83,
+  "skin_type_id": 4,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 83,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 83,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 83,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 83,
+  "skin_type_id": 6,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 5,
+  "skin_type_id": 5,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 5,
+  "skin_type_id": 4,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 5,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 5,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 5,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 5,
+  "skin_type_id": 6,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 6,
+  "skin_type_id": 5,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 6,
+  "skin_type_id": 4,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 6,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 6,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 6,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 6,
+  "skin_type_id": 6,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 4,
+  "skin_type_id": 5,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 4,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 4,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 4,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 4,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 4,
+  "skin_type_id": 6,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 49,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 49,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 49,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 49,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 49,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 47,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 47,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 47,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 47,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 47,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 46,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 46,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 46,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 46,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 46,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 48,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 48,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 48,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 48,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 48,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 111,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 111,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 111,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 111,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 111,
+  "skin_type_id": 5,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 127,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 127,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 127,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 127,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 127,
+  "skin_type_id": 5,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 51,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 51,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 51,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 51,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 51,
+  "skin_type_id": 5,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 34,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 34,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 34,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 34,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 34,
+  "skin_type_id": 5,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 104,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 104,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 104,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 104,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 104,
+  "skin_type_id": 5,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 52,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 52,
+  "skin_type_id": 4,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 52,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 52,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 52,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 90,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 90,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 90,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 90,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 90,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 53,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 53,
+  "skin_type_id": 6,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 53,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 53,
+  "skin_type_id": 4,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 53,
+  "skin_type_id": 5,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 116,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 116,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 116,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 116,
+  "skin_type_id": 3,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 116,
+  "skin_type_id": 4,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 117,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 117,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 117,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 117,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 22,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 22,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 22,
+  "skin_type_id": 4,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 22,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 22,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 23,
+  "skin_type_id": 4,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 23,
+  "skin_type_id": 7,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 23,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 23,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 23,
+  "skin_type_id": 5,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 23,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 24,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 24,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 24,
+  "skin_type_id": 1,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 24,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 176,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 176,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 176,
+  "skin_type_id": 6,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 176,
+  "skin_type_id": 3,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 176,
+  "skin_type_id": 4,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 28,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 28,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 28,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 28,
+  "skin_type_id": 3,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 28,
+  "skin_type_id": 4,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 28,
+  "skin_type_id": 5,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 26,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 26,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 26,
+  "skin_type_id": 3,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 26,
+  "skin_type_id": 6,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 26,
+  "skin_type_id": 4,
+  "suitability": "good",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 26,
+  "skin_type_id": 5,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 107,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 107,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 107,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 107,
+  "skin_type_id": 5,
+  "suitability": "caution",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 143,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 143,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 143,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 145,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 145,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 145,
+  "skin_type_id": 2,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 14,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 14,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 14,
+  "skin_type_id": 3,
+  "suitability": "good",
+  "basis": "ingredient_inference"
+ },
+ {
+  "product_id": 9,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 9,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 11,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 11,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 13,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 13,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 15,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 25,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 25,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 25,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 38,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 38,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 43,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 43,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 44,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 44,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 55,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 55,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 56,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 56,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 57,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 57,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 63,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 63,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 64,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 64,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 66,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 66,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 68,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 68,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 70,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 70,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 87,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 87,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 92,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 92,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 96,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 96,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 106,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 106,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 106,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 119,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 119,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 124,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 124,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 125,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 125,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 130,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 130,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 133,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 133,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 142,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 144,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 144,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 144,
+  "skin_type_id": 6,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 146,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 146,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 151,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 151,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 152,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 152,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 157,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 157,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 166,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 166,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 173,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 173,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 174,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 174,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 178,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 178,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 182,
+  "skin_type_id": 1,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ },
+ {
+  "product_id": 182,
+  "skin_type_id": 2,
+  "suitability": "ideal",
+  "basis": "official_positioning"
+ }
+]

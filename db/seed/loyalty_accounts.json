@@ -1,0 +1,412 @@
+[
+ {
+  "customer_id": 1,
+  "member_number": "SCR0260001",
+  "tier_id": 1,
+  "points_balance": 134,
+  "lifetime_points": 134,
+  "spend_this_period": 3603.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-03-07T11:00:00Z"
+ },
+ {
+  "customer_id": 2,
+  "member_number": "SCR0260002",
+  "tier_id": 1,
+  "points_balance": 130,
+  "lifetime_points": 130,
+  "spend_this_period": 3401.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-11-07T11:00:00Z"
+ },
+ {
+  "customer_id": 3,
+  "member_number": "SCR0260003",
+  "tier_id": 1,
+  "points_balance": 166,
+  "lifetime_points": 166,
+  "spend_this_period": 4423.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-08-16T11:00:00Z"
+ },
+ {
+  "customer_id": 4,
+  "member_number": "SCR0260004",
+  "tier_id": 1,
+  "points_balance": 246,
+  "lifetime_points": 246,
+  "spend_this_period": 6525.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-02-20T11:00:00Z"
+ },
+ {
+  "customer_id": 5,
+  "member_number": "SCR0260005",
+  "tier_id": 1,
+  "points_balance": 298,
+  "lifetime_points": 398,
+  "spend_this_period": 10178.1,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-17T11:00:00Z"
+ },
+ {
+  "customer_id": 6,
+  "member_number": "SCR0260006",
+  "tier_id": 1,
+  "points_balance": 162,
+  "lifetime_points": 162,
+  "spend_this_period": 4222.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-08-24T11:00:00Z"
+ },
+ {
+  "customer_id": 7,
+  "member_number": "SCR0260007",
+  "tier_id": 1,
+  "points_balance": 115,
+  "lifetime_points": 115,
+  "spend_this_period": 3223.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-01-06T11:00:00Z"
+ },
+ {
+  "customer_id": 8,
+  "member_number": "SCR0260008",
+  "tier_id": 1,
+  "points_balance": 163,
+  "lifetime_points": 163,
+  "spend_this_period": 4317.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-14T11:00:00Z"
+ },
+ {
+  "customer_id": 9,
+  "member_number": "SCR0260009",
+  "tier_id": 1,
+  "points_balance": 153,
+  "lifetime_points": 153,
+  "spend_this_period": 3991.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-11-05T11:00:00Z"
+ },
+ {
+  "customer_id": 10,
+  "member_number": "SCR0260010",
+  "tier_id": 1,
+  "points_balance": 124,
+  "lifetime_points": 124,
+  "spend_this_period": 3406.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-30T11:00:00Z"
+ },
+ {
+  "customer_id": 11,
+  "member_number": "SCR0260011",
+  "tier_id": 1,
+  "points_balance": 68,
+  "lifetime_points": 68,
+  "spend_this_period": 1887.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-29T11:00:00Z"
+ },
+ {
+  "customer_id": 12,
+  "member_number": "SCR0260012",
+  "tier_id": 1,
+  "points_balance": 220,
+  "lifetime_points": 220,
+  "spend_this_period": 5874.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-16T11:00:00Z"
+ },
+ {
+  "customer_id": 13,
+  "member_number": "SCR0260013",
+  "tier_id": 1,
+  "points_balance": 74,
+  "lifetime_points": 74,
+  "spend_this_period": 1943.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-12-30T11:00:00Z"
+ },
+ {
+  "customer_id": 14,
+  "member_number": "SCR0260014",
+  "tier_id": 1,
+  "points_balance": 0,
+  "lifetime_points": 0,
+  "spend_this_period": 0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-08-27T11:00:00Z"
+ },
+ {
+  "customer_id": 15,
+  "member_number": "SCR0260015",
+  "tier_id": 1,
+  "points_balance": 78,
+  "lifetime_points": 78,
+  "spend_this_period": 2286.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-12-07T11:00:00Z"
+ },
+ {
+  "customer_id": 16,
+  "member_number": "SCR0260016",
+  "tier_id": 1,
+  "points_balance": 35,
+  "lifetime_points": 35,
+  "spend_this_period": 876.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-07T11:00:00Z"
+ },
+ {
+  "customer_id": 17,
+  "member_number": "SCR0260017",
+  "tier_id": 1,
+  "points_balance": 35,
+  "lifetime_points": 35,
+  "spend_this_period": 877.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-01-20T11:00:00Z"
+ },
+ {
+  "customer_id": 18,
+  "member_number": "SCR0260018",
+  "tier_id": 1,
+  "points_balance": 20,
+  "lifetime_points": 20,
+  "spend_this_period": 652.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-09-18T11:00:00Z"
+ },
+ {
+  "customer_id": 19,
+  "member_number": "SCR0260019",
+  "tier_id": 1,
+  "points_balance": 61,
+  "lifetime_points": 61,
+  "spend_this_period": 1664.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-01-05T11:00:00Z"
+ },
+ {
+  "customer_id": 20,
+  "member_number": "SCR0260020",
+  "tier_id": 1,
+  "points_balance": 14,
+  "lifetime_points": 14,
+  "spend_this_period": 427.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-02-28T11:00:00Z"
+ },
+ {
+  "customer_id": 21,
+  "member_number": "SCR0260021",
+  "tier_id": 1,
+  "points_balance": 0,
+  "lifetime_points": 0,
+  "spend_this_period": 0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-10-04T11:00:00Z"
+ },
+ {
+  "customer_id": 22,
+  "member_number": "SCR0260022",
+  "tier_id": 1,
+  "points_balance": 0,
+  "lifetime_points": 0,
+  "spend_this_period": 0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-04-05T11:00:00Z"
+ },
+ {
+  "customer_id": 23,
+  "member_number": "SCR0260023",
+  "tier_id": 1,
+  "points_balance": 115,
+  "lifetime_points": 115,
+  "spend_this_period": 3099.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-08-14T11:00:00Z"
+ },
+ {
+  "customer_id": 24,
+  "member_number": "SCR0260024",
+  "tier_id": 1,
+  "points_balance": 44,
+  "lifetime_points": 44,
+  "spend_this_period": 1246.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-09-15T11:00:00Z"
+ },
+ {
+  "customer_id": 25,
+  "member_number": "SCR0260025",
+  "tier_id": 1,
+  "points_balance": 0,
+  "lifetime_points": 0,
+  "spend_this_period": 0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-08-11T11:00:00Z"
+ },
+ {
+  "customer_id": 26,
+  "member_number": "SCR0260026",
+  "tier_id": 1,
+  "points_balance": 20,
+  "lifetime_points": 20,
+  "spend_this_period": 632.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-17T11:00:00Z"
+ },
+ {
+  "customer_id": 27,
+  "member_number": "SCR0260027",
+  "tier_id": 1,
+  "points_balance": 0,
+  "lifetime_points": 0,
+  "spend_this_period": 0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-04-08T11:00:00Z"
+ },
+ {
+  "customer_id": 28,
+  "member_number": "SCR0260028",
+  "tier_id": 1,
+  "points_balance": 174,
+  "lifetime_points": 174,
+  "spend_this_period": 4555.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-03-20T11:00:00Z"
+ },
+ {
+  "customer_id": 29,
+  "member_number": "SCR0260029",
+  "tier_id": 1,
+  "points_balance": 56,
+  "lifetime_points": 56,
+  "spend_this_period": 1529.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-10-11T11:00:00Z"
+ },
+ {
+  "customer_id": 30,
+  "member_number": "SCR0260030",
+  "tier_id": 1,
+  "points_balance": 5,
+  "lifetime_points": 5,
+  "spend_this_period": 199.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-04-10T11:00:00Z"
+ },
+ {
+  "customer_id": 31,
+  "member_number": "SCR0260031",
+  "tier_id": 1,
+  "points_balance": 127,
+  "lifetime_points": 127,
+  "spend_this_period": 3507.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-03-29T11:00:00Z"
+ },
+ {
+  "customer_id": 32,
+  "member_number": "SCR0260032",
+  "tier_id": 1,
+  "points_balance": 121,
+  "lifetime_points": 121,
+  "spend_this_period": 3141.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-06T11:00:00Z"
+ },
+ {
+  "customer_id": 33,
+  "member_number": "SCR0260033",
+  "tier_id": 1,
+  "points_balance": 48,
+  "lifetime_points": 48,
+  "spend_this_period": 1348.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-11-17T11:00:00Z"
+ },
+ {
+  "customer_id": 34,
+  "member_number": "SCR0260034",
+  "tier_id": 1,
+  "points_balance": 26,
+  "lifetime_points": 26,
+  "spend_this_period": 716.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-11-06T11:00:00Z"
+ },
+ {
+  "customer_id": 35,
+  "member_number": "SCR0260035",
+  "tier_id": 1,
+  "points_balance": 64,
+  "lifetime_points": 64,
+  "spend_this_period": 1672.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-08-16T11:00:00Z"
+ },
+ {
+  "customer_id": 36,
+  "member_number": "SCR0260036",
+  "tier_id": 1,
+  "points_balance": 102,
+  "lifetime_points": 102,
+  "spend_this_period": 2563.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-09-10T11:00:00Z"
+ },
+ {
+  "customer_id": 37,
+  "member_number": "SCR0260037",
+  "tier_id": 1,
+  "points_balance": 31,
+  "lifetime_points": 31,
+  "spend_this_period": 777.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2025-12-25T11:00:00Z"
+ },
+ {
+  "customer_id": 38,
+  "member_number": "SCR0260038",
+  "tier_id": 1,
+  "points_balance": 28,
+  "lifetime_points": 28,
+  "spend_this_period": 826.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-09T11:00:00Z"
+ },
+ {
+  "customer_id": 39,
+  "member_number": "SCR0260039",
+  "tier_id": 1,
+  "points_balance": 11,
+  "lifetime_points": 11,
+  "spend_this_period": 349.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-01-07T11:00:00Z"
+ },
+ {
+  "customer_id": 40,
+  "member_number": "SCR0260040",
+  "tier_id": 1,
+  "points_balance": 12,
+  "lifetime_points": 12,
+  "spend_this_period": 369.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-04-07T11:00:00Z"
+ },
+ {
+  "customer_id": 41,
+  "member_number": "SCR0260041",
+  "tier_id": 1,
+  "points_balance": 68,
+  "lifetime_points": 68,
+  "spend_this_period": 1776.0,
+  "tier_expires_on": "2026-12-31",
+  "joined_at": "2026-05-12T11:00:00Z"
+ }
+]

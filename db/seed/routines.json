@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1,
+  "customer_id": 1,
+  "session_id": 1,
+  "name": "Ploy — oil control for a Bangkok office day",
+  "goal_en": "Stay matte past 2 pm and keep nose pores clear.",
+  "is_active": 1,
+  "review_after": "2026-10-10",
+  "created_at": "2026-09-12T09:00:00Z"
+ },
+ {
+  "id": 2,
+  "customer_id": 2,
+  "session_id": 2,
+  "name": "Mint — simple routine for blemish-prone teen skin",
+  "goal_en": "A gentle three-step habit; reassess in 8 weeks.",
+  "is_active": 1,
+  "review_after": "2026-10-04",
+  "created_at": "2026-09-06T09:00:00Z"
+ },
+ {
+  "id": 3,
+  "customer_id": 3,
+  "session_id": 3,
+  "name": "Nok — calm first, then fade",
+  "goal_en": "Protect daily, keep skin calm, help patches look lighter over 8–12 weeks.",
+  "is_active": 1,
+  "review_after": "2026-09-27",
+  "created_at": "2026-08-30T09:00:00Z"
+ },
+ {
+  "id": 4,
+  "customer_id": 4,
+  "session_id": 4,
+  "name": "Beam — three steps, no more",
+  "goal_en": "Comfortable skin with the smallest possible routine.",
+  "is_active": 1,
+  "review_after": "2026-10-15",
+  "created_at": "2026-09-17T09:00:00Z"
+ },
+ {
+  "id": 5,
+  "customer_id": 5,
+  "session_id": 5,
+  "name": "Fern — long-wear natural base",
+  "goal_en": "Skin-like base that lasts through a 10-hour event day.",
+  "is_active": 1,
+  "review_after": "2026-10-13",
+  "created_at": "2026-09-15T09:00:00Z"
+ },
+ {
+  "id": 6,
+  "customer_id": 6,
+  "session_id": 6,
+  "name": "Dao — gentle firming, retinoid ramp-up",
+  "goal_en": "Softer-looking lines without peeling.",
+  "is_active": 1,
+  "review_after": "2026-09-06",
+  "created_at": "2026-08-09T09:00:00Z"
+ },
+ {
+  "id": 7,
+  "customer_id": 41,
+  "session_id": 26,
+  "name": "Por — two-minute routine for an outdoor runner",
+  "goal_en": "Protect every morning, keep the shaving area calm, help marks look lighter over 8–12 weeks.",
+  "is_active": 1,
+  "review_after": "2026-10-13",
+  "created_at": "2026-09-15T09:00:00Z"
+ }
+]

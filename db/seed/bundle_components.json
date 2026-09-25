@@ -1,0 +1,610 @@
+[
+ {
+  "bundle_variant_id": 1,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 2,
+  "component_variant_id": 7,
+  "component_product_id": 4,
+  "component_label": "Barrier Boost Soothing Gel Cream 50ml",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 2,
+  "component_variant_id": 270,
+  "component_product_id": 83,
+  "component_label": "Barrier Boost Cleansing Gel Foam 50ml",
+  "quantity": 1,
+  "is_free_gift": 1
+ },
+ {
+  "bundle_variant_id": 2,
+  "component_variant_id": 15,
+  "component_product_id": 6,
+  "component_label": "Barrier Boost Serum 30ml",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 3,
+  "component_variant_id": 99,
+  "component_product_id": 33,
+  "component_label": "Skin Moisture Burst 15X Ampoule Mask 18ml",
+  "quantity": 2,
+  "is_free_gift": 1
+ },
+ {
+  "bundle_variant_id": 3,
+  "component_variant_id": 121,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream 120ml",
+  "quantity": 2,
+  "is_free_gift": 1
+ },
+ {
+  "bundle_variant_id": 16,
+  "component_variant_id": 410,
+  "component_product_id": 127,
+  "component_label": "Super C Brightening Intense Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 16,
+  "component_variant_id": null,
+  "component_product_id": 117,
+  "component_label": "Sunlution Skin Whitening Sunscreen",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 16,
+  "component_variant_id": 338,
+  "component_product_id": 111,
+  "component_label": "Super C Brightening Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 17,
+  "component_variant_id": 99,
+  "component_product_id": 33,
+  "component_label": "Skin Moisture Burst 15X Ampoule Mask",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 47,
+  "component_variant_id": 84,
+  "component_product_id": 24,
+  "component_label": "Sunlution Tone Up Serum Sunscreen",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 48,
+  "component_variant_id": 82,
+  "component_product_id": 23,
+  "component_label": "Sunlution Moisture Burst Watery Sunscreen",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 49,
+  "component_variant_id": 82,
+  "component_product_id": 23,
+  "component_label": "Sunlution Moisture Burst Watery Sunscreen",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 49,
+  "component_variant_id": 84,
+  "component_product_id": 24,
+  "component_label": "Sunlution Tone Up Serum Sunscreen",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 93,
+  "component_variant_id": null,
+  "component_product_id": 26,
+  "component_label": "Whitening Moisture Toner Pad",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 93,
+  "component_variant_id": null,
+  "component_product_id": 28,
+  "component_label": "Acne Sol Calming Toner Pad",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 95,
+  "component_variant_id": 100,
+  "component_product_id": 34,
+  "component_label": "Super C Brightening 15X Ampoule Mask",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 95,
+  "component_variant_id": 99,
+  "component_product_id": 33,
+  "component_label": "Skin Moisture Burst 15X Ampoule Mask",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 96,
+  "component_variant_id": 100,
+  "component_product_id": 34,
+  "component_label": "Super C Brightening 15X Ampoule Mask",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 96,
+  "component_variant_id": 99,
+  "component_product_id": 33,
+  "component_label": "Skin Moisture Burst 15X Ampoule Mask",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 98,
+  "component_variant_id": 100,
+  "component_product_id": 34,
+  "component_label": "Super C Brightening 15X Ampoule Mask",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 98,
+  "component_variant_id": 99,
+  "component_product_id": 33,
+  "component_label": "Skin Moisture Burst 15X Ampoule Mask",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 192,
+  "component_variant_id": null,
+  "component_product_id": 68,
+  "component_label": "Enchanted Cover Perfect Foundation",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 192,
+  "component_variant_id": null,
+  "component_product_id": 69,
+  "component_label": "Enchanted Cover Perfect Concealer",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 216,
+  "component_variant_id": null,
+  "component_product_id": 71,
+  "component_label": "Superstar Glow Lip Tint",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 253,
+  "component_variant_id": 526,
+  "component_product_id": 162,
+  "component_label": "Baby Newborn Powder 150g",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 253,
+  "component_variant_id": 525,
+  "component_product_id": 161,
+  "component_label": "Baby Powder 50g",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 254,
+  "component_variant_id": 79,
+  "component_product_id": 22,
+  "component_label": "Sunlution Rosia Ultra Protection Serum Sunscreen",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 255,
+  "component_variant_id": 314,
+  "component_product_id": 104,
+  "component_label": "Resurface Pro-Retinol Intense Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 255,
+  "component_variant_id": 168,
+  "component_product_id": 52,
+  "component_label": "Timeless Anti-Aging Facial Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 255,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 255,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 255,
+  "component_variant_id": 414,
+  "component_product_id": 129,
+  "component_label": "Skin Moisture Burst Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 256,
+  "component_variant_id": 314,
+  "component_product_id": 104,
+  "component_label": "Resurface Pro-Retinol Intense Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 256,
+  "component_variant_id": 168,
+  "component_product_id": 52,
+  "component_label": "Timeless Anti-Aging Facial Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 256,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 256,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 257,
+  "component_variant_id": 314,
+  "component_product_id": 104,
+  "component_label": "Resurface Pro-Retinol Intense Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 257,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 257,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 258,
+  "component_variant_id": 168,
+  "component_product_id": 52,
+  "component_label": "Timeless Anti-Aging Facial Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 258,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 258,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 258,
+  "component_variant_id": 414,
+  "component_product_id": 129,
+  "component_label": "Skin Moisture Burst Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 259,
+  "component_variant_id": 410,
+  "component_product_id": 127,
+  "component_label": "Super C Brightening Intense Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 259,
+  "component_variant_id": 314,
+  "component_product_id": 104,
+  "component_label": "Resurface Pro-Retinol Intense Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 259,
+  "component_variant_id": 338,
+  "component_product_id": 111,
+  "component_label": "Super C Brightening Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 259,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 259,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 259,
+  "component_variant_id": 414,
+  "component_product_id": 129,
+  "component_label": "Skin Moisture Burst Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 260,
+  "component_variant_id": 410,
+  "component_product_id": 127,
+  "component_label": "Super C Brightening Intense Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 260,
+  "component_variant_id": 314,
+  "component_product_id": 104,
+  "component_label": "Resurface Pro-Retinol Intense Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 260,
+  "component_variant_id": 168,
+  "component_product_id": 52,
+  "component_label": "Timeless Anti-Aging Facial Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 260,
+  "component_variant_id": 338,
+  "component_product_id": 111,
+  "component_label": "Super C Brightening Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 260,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 260,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 260,
+  "component_variant_id": 414,
+  "component_product_id": 129,
+  "component_label": "Skin Moisture Burst Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 261,
+  "component_variant_id": 7,
+  "component_product_id": 4,
+  "component_label": "Barrier Boost Soothing Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 261,
+  "component_variant_id": null,
+  "component_product_id": 83,
+  "component_label": "Barrier Boost Cleansing Gel Foam",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 261,
+  "component_variant_id": 15,
+  "component_product_id": 6,
+  "component_label": "Barrier Boost Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 268,
+  "component_variant_id": 7,
+  "component_product_id": 4,
+  "component_label": "Barrier Boost Soothing Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 271,
+  "component_variant_id": 7,
+  "component_product_id": 4,
+  "component_label": "Barrier Boost Soothing Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 271,
+  "component_variant_id": null,
+  "component_product_id": 83,
+  "component_label": "Barrier Boost Cleansing Gel Foam",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 271,
+  "component_variant_id": 15,
+  "component_product_id": 6,
+  "component_label": "Barrier Boost Serum",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 292,
+  "component_variant_id": 291,
+  "component_product_id": 97,
+  "component_label": "BamBam x SRICHAND Pure Kiss Brightening Lip Balm",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 292,
+  "component_variant_id": 293,
+  "component_product_id": 99,
+  "component_label": "BamBam x SRICHAND First Kiss Plumping Lip Balm",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 302,
+  "component_variant_id": 338,
+  "component_product_id": 111,
+  "component_label": "Super C Brightening Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 302,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 324,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 384,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 384,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 384,
+  "component_variant_id": 414,
+  "component_product_id": 129,
+  "component_label": "Skin Moisture Burst Serum 50ml",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 385,
+  "component_variant_id": 412,
+  "component_product_id": 128,
+  "component_label": "Skin Moisture Burst Essence 150ml",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 385,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 386,
+  "component_variant_id": null,
+  "component_product_id": 39,
+  "component_label": "Skin Moisture Burst Gel Cream",
+  "quantity": 1,
+  "is_free_gift": 0
+ },
+ {
+  "bundle_variant_id": 386,
+  "component_variant_id": 414,
+  "component_product_id": 129,
+  "component_label": "Skin Moisture Burst Serum 50ml",
+  "quantity": 1,
+  "is_free_gift": 0
+ }
+]

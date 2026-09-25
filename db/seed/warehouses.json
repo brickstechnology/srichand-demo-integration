@@ -1,0 +1,23 @@
+[
+ {
+  "id": 1,
+  "code": "BKK-DC",
+  "name": "Bangkok Distribution Centre (Bang Phli)",
+  "province": "Samut Prakan",
+  "serves": "online_orders"
+ },
+ {
+  "id": 2,
+  "code": "NBI-FC",
+  "name": "Nonthaburi E-commerce Fulfilment",
+  "province": "Nonthaburi",
+  "serves": "online_orders"
+ },
+ {
+  "id": 3,
+  "code": "CNX-RDC",
+  "name": "Chiang Mai Regional Depot",
+  "province": "Chiang Mai",
+  "serves": "retail_replenishment"
+ }
+]

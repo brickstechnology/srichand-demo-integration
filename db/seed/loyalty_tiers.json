@@ -1,0 +1,12 @@
+[
+ {
+  "id": 1,
+  "code": "MEMBER",
+  "name": "Srichand Rewards Member",
+  "min_annual_spend": 0,
+  "earn_rate_baht_per_point": 25,
+  "benefits_en": "Single-level points programme: every ฿25 of net spend (after discounts and shipping) earns 1 point; remainders under ฿25 earn nothing. Points post within 17 days for srichand.com / Shopee / Lazada once the account is linked, and within 48 hours for store receipts uploaded in LINE. Points last one year; join by adding LINE @srichand1948 (or @sasidiary) and registering with SMS OTP. No tiers are published.",
+  "benefits_th": "สะสมแต้ม Srichand Rewards: ทุก 25 บาท = 1 คะแนน (คิดจากยอดชำระสุทธิ) สมัครผ่าน LINE @srichand1948",
+  "origin": "official"
+ }
+]

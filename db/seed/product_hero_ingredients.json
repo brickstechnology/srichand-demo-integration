@@ -1,0 +1,794 @@
+[
+ {
+  "product_id": 128,
+  "hero_name": "Glyceryl Glucoside",
+  "ingredient_id": 24,
+  "official_benefit_th": "Glyceryl Glucoside: เพิ่มความสามารถในการอุ้มน้ำของผิว ลดการสูญเสียน้ำ ทำให้ผิวดูอิ่มฟู"
+ },
+ {
+  "product_id": 128,
+  "hero_name": "D-panthenol",
+  "ingredient_id": 17,
+  "official_benefit_th": "D-panthenol: ปลอบประโลมผิว เพิ่มความยืดหยุ่น ทำให้ผิวรู้สึกสบาย"
+ },
+ {
+  "product_id": 128,
+  "hero_name": "Niacinamide",
+  "ingredient_id": 1,
+  "official_benefit_th": "Niacinamide: ปรับผิวให้ดูกระจ่างใส ฟื้นฟูผิวที่แห้งและขาดน้ำ ให้กลับมาชุ่มชื้น"
+ },
+ {
+  "product_id": 129,
+  "hero_name": "Glyceryl Glucoside",
+  "ingredient_id": 24,
+  "official_benefit_th": "CGLYCERYL GLUCOSIDE: เป็นสารบำรุงสำคัญที่ช่วยเติมน้ำให้ผิวอุ้มน้ำได้ดีขึ้น ดูแลระดับความชุ่มชื้นให้ผิวให้อยู่ในระดับที่ดี ลดการสูญเสียน้ำจากชั้นผิว ทำให้ผิวดูอิ่มน้ำและสดใส"
+ },
+ {
+  "product_id": 129,
+  "hero_name": "Hyaluronic Acid",
+  "ingredient_id": 26,
+  "official_benefit_th": "HYALURONIC ACID: สารที่ร่างกายสามารถสร้างขึ้นได้เอง โดยจะถูกสร้างขึ้นที่ผิวชั้นล่าง (Dermis) และผิวชั้นบน (Epidermis) มีคุณสมบัติในการกักเก็บความชุ่มชื้นให้กับผิวได้เป็นอย่างดี ทำให้ผิวดูอิ่มฟู ช่วยแก้ปัญหาผิวขาดสมดุล ส่งผลให้ผิวดูอ่อนเยาว์ กระชับ และสุขภาพดี"
+ },
+ {
+  "product_id": 129,
+  "hero_name": "Betaine",
+  "ingredient_id": 28,
+  "official_benefit_th": "BETAINE: มอยส์เจอร์ไรเซอร์ธรรมชาติที่เกิดขึ้นในพืช ช่วยปกป้องเซลล์จากสภาวะแวดล้อมและควบคุมสมดุลของน้ำในผิว ทำให้ผิวมีความอิ่มน้ำและอิ่มฟู"
+ },
+ {
+  "product_id": 129,
+  "hero_name": "Witch Hazel Extract",
+  "ingredient_id": 37,
+  "official_benefit_th": "WITCH HAZEL EXTRACT: สารสกัดจากวิชเฮเซลที่อุดมไปด้วยสารต้านอนุมูลอิสระ ช่วยปกป้องผิวจากมลภาวะต่างๆ ช่วยปลอบประโลมผิว ลดการระคายเคือง เพิ่มความแข็งแรงให้ผิว และทำให้ผิวเรียบเนียน นุ่ม ชุ่มชื้น เซรั่มบูสต์ผิวขั้นสุด เพิ่มพลังชุ่มชื้นนาน 72 ชม."
+ },
+ {
+  "product_id": 39,
+  "hero_name": "Trehalose",
+  "ingredient_id": 27,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 39,
+  "hero_name": "Hyaluronic Acid",
+  "ingredient_id": 26,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 39,
+  "hero_name": "Allantoin",
+  "ingredient_id": 22,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 39,
+  "hero_name": "Glyceryl Glucoside",
+  "ingredient_id": 24,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 39,
+  "hero_name": "Centella Asiatica",
+  "ingredient_id": 19,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 39,
+  "hero_name": "Madecassoside",
+  "ingredient_id": 20,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 136,
+  "hero_name": "11HYA Molecule",
+  "ingredient_id": 26,
+  "official_benefit_th": "11HYA Molecule : ช่วยล็อคความชุ่มชื้นซึมลึกถึงชั้นผิว และช่วยกระตุ้นการสร้างคอลลาเจน ทำให้ผิวเปล่งปลั่ง"
+ },
+ {
+  "product_id": 136,
+  "hero_name": "Glyceryl Glucoside",
+  "ingredient_id": 24,
+  "official_benefit_th": "Glyceryl Glucoside : ช่วยเติมน้ำให้ผิวอุ้มน้ำได้ดีขึ้น ดูแลระดับความชุ่มชื้นให้ผิวให้อยู่ในระดับดี ลดการสูญเสียน้ำจากชั้นผิว"
+ },
+ {
+  "product_id": 136,
+  "hero_name": "Allantoin & Cucumber",
+  "ingredient_id": 22,
+  "official_benefit_th": "Allantoin & Cucumber: ช่วยปลอบประโลม ผิวจากมลภาวะต่างๆ พร้อมทั้งช่วยให้ผิวเรียบเนียน"
+ },
+ {
+  "product_id": 33,
+  "hero_name": "Glyceryl Glucoside",
+  "ingredient_id": 24,
+  "official_benefit_th": "ด้วยมาสก์บำรุงเข้มข้น 15 ชนิด ผสานพลัง Glyceryl Glucoside , 8HYA, 5Ceramide แและสารสกัดธรรมชาติ"
+ },
+ {
+  "product_id": 33,
+  "hero_name": "8HYA & 5Ceramide",
+  "ingredient_id": 25,
+  "official_benefit_th": "ด้วยมาสก์บำรุงเข้มข้น 15 ชนิด ผสานพลัง Glyceryl Glucoside , 8HYA, 5Ceramide แและสารสกัดธรรมชาติ"
+ },
+ {
+  "product_id": 33,
+  "hero_name": "Patch20 (Trehalose)",
+  "ingredient_id": 27,
+  "official_benefit_th": "Patch20 สารประกอบTrehalose ช่วยให้ความชุ่มชื้นทันที พร้อมล็อกความชุ่มชื้นยาวนาน คืนความนุ่มเด้งให้ผิว"
+ },
+ {
+  "product_id": 33,
+  "hero_name": "Allantoin",
+  "ingredient_id": 22,
+  "official_benefit_th": "Allantoin ช่วยปลอบประโลมผิว ลดการระคายเคือง กู้ผิวแข็งแรง"
+ },
+ {
+  "product_id": 33,
+  "hero_name": "Niacinamide PC",
+  "ingredient_id": 1,
+  "official_benefit_th": "Niacinamide PC : ช่วยให้ผิวกระจ่างใส ปรับสีผิวแลดูสม่ำเสมอ"
+ },
+ {
+  "product_id": 83,
+  "hero_name": "Ectoin",
+  "ingredient_id": 16,
+  "official_benefit_th": "Ectoin ช่วยปลอบประโลมผิวจากสภาวะต่างๆ"
+ },
+ {
+  "product_id": 83,
+  "hero_name": "Cicazome (Cica-Phytosome)",
+  "ingredient_id": 19,
+  "official_benefit_th": "Cicazome : Cica ในรูปแบบ Cica-Phytosome*** ที่ช่วยบำรุงผิวให้ดูสุขภาพดี"
+ },
+ {
+  "product_id": 83,
+  "hero_name": "Lacto-encap probiotics",
+  "ingredient_id": 45,
+  "official_benefit_th": "คลีนซิ่ง เจล โฟม ช่วยทำความสะอาดผิวหน้าอย่างล้ำลึก^ อ่อนโยน ปรับสมดุลผิว ลดการสะสมของสิ่งสกปรกและความมันส่วนเกินได้อย่างสะอาดหมดจด มอบส่วนผสมของโพรไบโอติกส์** ให้กับผิวระหว่างล้างหน้าด้วยเทคโนโลยี Lacto-encap กักเก็บโพรไบโอติกส์** มอบผิวเฟรช ดูสุขภาพดี ฉ่ำน้ำ ในทุกครั้งที่ใช้"
+ },
+ {
+  "product_id": 5,
+  "hero_name": "Ectoin",
+  "ingredient_id": 16,
+  "official_benefit_th": "Ectoin ช่วยปลอบประโลมผิวจากสภาวะต่างๆ"
+ },
+ {
+  "product_id": 5,
+  "hero_name": "Cicazome (Cica-Phytosome)",
+  "ingredient_id": 19,
+  "official_benefit_th": "Cicazome : Cica ในรูปแบบ Cica-Phytosome*** ที่ช่วยบำรุงผิวให้ดูสุขภาพดี"
+ },
+ {
+  "product_id": 5,
+  "hero_name": "Derma-calmfort (Chestnut Leaf Extract)",
+  "ingredient_id": 21,
+  "official_benefit_th": "Derma-calmfort สารสกัดจาก Chestnut Leaf Extract ช่วยเติมความชุ่มชื้นและเสริมปราการผิวแลดูสุขภาพดี^"
+ },
+ {
+  "product_id": 5,
+  "hero_name": "Natural Collagen (Acacia Senegal Gum)",
+  "ingredient_id": 46,
+  "official_benefit_th": "Natural Collagen จากสารสกัด Acacia Senegal Gum ช่วยให้ผิวแลดูเรียบเนียน กระชับ ยืดหยุ่น และลดเลือนริ้วรอย"
+ },
+ {
+  "product_id": 5,
+  "hero_name": "Dipotassium Glycyrrhizate",
+  "ingredient_id": 18,
+  "official_benefit_th": "^^ ประกอบด้วยสาร Dipotassium Glycyrrhizate, Castanea Sativa (Chestnut) Leaf Extract , Centella Asiatica Leaf Extract, Centella Asiatica Leaf Vesicles, Aphanothece Sacrum Polysaccharides"
+ },
+ {
+  "product_id": 6,
+  "hero_name": "Ectoin",
+  "ingredient_id": 16,
+  "official_benefit_th": "Ectoin ช่วยปลอบประโลมผิวจากสภาวะต่างๆ"
+ },
+ {
+  "product_id": 6,
+  "hero_name": "Cicazome (Cica-Phytosome)",
+  "ingredient_id": 19,
+  "official_benefit_th": "Cicazome : Cica ในรูปแบบ Cica-Phytosome^^ ที่ช่วยบำรุงผิวให้ดูสุขภาพดี"
+ },
+ {
+  "product_id": 6,
+  "hero_name": "Derma-calmfort (Chestnut Leaf Extract)",
+  "ingredient_id": 21,
+  "official_benefit_th": "Derma-calmfort สารสกัดจาก Chestnut Leaf Extract ช่วยเติมความชุ่มชื้นและเสริมปราการผิวแลดูสุขภาพดี^"
+ },
+ {
+  "product_id": 6,
+  "hero_name": "Bioglycogen",
+  "ingredient_id": null,
+  "official_benefit_th": "Bioglycogen ช่วยให้ผิวแลดูเรียบเนียนและช่วยให้ผิวแลดูกระจ่างใส"
+ },
+ {
+  "product_id": 6,
+  "hero_name": "Dipotassium Glycyrrhizate",
+  "ingredient_id": 18,
+  "official_benefit_th": "^^ ประกอบด้วยสาร Dipotassium Glycyrrhizate, Castanea Sativa (Chestnut) Leaf Extract , Centella Asiatica Leaf Extract, Centella Asiatica Leaf Vesicles, Aphanothece Sacrum Polysaccharides"
+ },
+ {
+  "product_id": 4,
+  "hero_name": "Ectoin",
+  "ingredient_id": 16,
+  "official_benefit_th": "Ectoin ช่วยปลอบประโลมผิวจากสภาวะต่างๆ"
+ },
+ {
+  "product_id": 4,
+  "hero_name": "Cicazome (Cica-Phytosome)",
+  "ingredient_id": 19,
+  "official_benefit_th": "Cicazome : Cica ในรูปแบบ Cica-Phytosome^^ ที่ช่วยบำรุงผิวให้ดูสุขภาพดี"
+ },
+ {
+  "product_id": 4,
+  "hero_name": "Derma-calmfort (Chestnut Leaf Extract)",
+  "ingredient_id": 21,
+  "official_benefit_th": "Derma-calmfort สารสกัดจาก Chestnut Leaf Extract ช่วยเติมความชุ่มชื้นและเสริมปราการผิวแลดูสุขภาพดี^"
+ },
+ {
+  "product_id": 4,
+  "hero_name": "Synbiotics Oat",
+  "ingredient_id": null,
+  "official_benefit_th": "Synbiotics Oat เป็นส่วนผสมที่มีทั้ง Prebiotics และ Probiotics เสริมสร้างเกราะป้องกันผิว^ และช่วยให้ผิวแลดูสุขภาพดี"
+ },
+ {
+  "product_id": 49,
+  "hero_name": "Phyto Camellia PDRN",
+  "ingredient_id": 14,
+  "official_benefit_th": "Phyto Camellia PDRN ให้ผิวดูกระจ่างใส สีผิวดูสม่ำเสมอ และให้ผิวดูเรียบเนียน แลดูกระชับขึ้น"
+ },
+ {
+  "product_id": 49,
+  "hero_name": "Niacinamide",
+  "ingredient_id": 1,
+  "official_benefit_th": "Premium Brightening & Hydrating Extract สารสกัดแบบพรีเมี่ยม 15 ชนิด ช่วยลดเลือนความหมองคล้ำ บำรุง+คืนความชุ่มชื้น ผิวแลดูกระจ่างใส (Camellia PDRN, Niacinamide, Panthnol, Vitamin E, Hyaluronic acid 8 types & 3 Ceramide complex)"
+ },
+ {
+  "product_id": 49,
+  "hero_name": "Panthenol",
+  "ingredient_id": 17,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 49,
+  "hero_name": "Hyaluronic acid 8 types & 3 Ceramide complex",
+  "ingredient_id": 25,
+  "official_benefit_th": "Premium Brightening & Hydrating Extract สารสกัดแบบพรีเมี่ยม 15 ชนิด ช่วยลดเลือนความหมองคล้ำ บำรุง+คืนความชุ่มชื้น ผิวแลดูกระจ่างใส (Camellia PDRN, Niacinamide, Panthnol, Vitamin E, Hyaluronic acid 8 types & 3 Ceramide complex)"
+ },
+ {
+  "product_id": 47,
+  "hero_name": "Phyto Camellia PDRN 0.5%",
+  "ingredient_id": 14,
+  "official_benefit_th": "Phyto Camellia PDRN 0.5% ให้ผิวดูกระจ่างใส สีผิวดูสม่ำเสมอ และให้ผิวดูเรียบเนียน แลดูกระชับขึ้น"
+ },
+ {
+  "product_id": 47,
+  "hero_name": "Niacinamide 1.5%",
+  "ingredient_id": 1,
+  "official_benefit_th": "Niacinamide 1.5% & Alpha Arbutus 0.1% เสริมให้ผิวดูกระจ่างใส แลดูเรียบเนียนยิ่งขึ้น"
+ },
+ {
+  "product_id": 47,
+  "hero_name": "Alpha Arbutin 0.1%",
+  "ingredient_id": 8,
+  "official_benefit_th": "Niacinamide 1.5% & Alpha Arbutus 0.1% เสริมให้ผิวดูกระจ่างใส แลดูเรียบเนียนยิ่งขึ้น"
+ },
+ {
+  "product_id": 46,
+  "hero_name": "Phyto Camellia PDRN 0.5%",
+  "ingredient_id": 14,
+  "official_benefit_th": "Phyto Camellia PDRN 0.5% ให้ผิวดูกระจ่างใส สีผิวดูสม่ำเสมอ และให้ผิวดูเรียบเนียน แลดูกระชับขึ้น"
+ },
+ {
+  "product_id": 46,
+  "hero_name": "Niacinamide 5%",
+  "ingredient_id": 1,
+  "official_benefit_th": "Niacinamide 5% & Alpha Arbutus 0.1% เสริมให้ผิวดูกระจ่างใส แลดูเรียบเนียนยิ่งขึ้น"
+ },
+ {
+  "product_id": 46,
+  "hero_name": "Alpha Arbutin 0.1%",
+  "ingredient_id": 8,
+  "official_benefit_th": "Niacinamide 5% & Alpha Arbutus 0.1% เสริมให้ผิวดูกระจ่างใส แลดูเรียบเนียนยิ่งขึ้น"
+ },
+ {
+  "product_id": 46,
+  "hero_name": "Glyceryl Glucoside",
+  "ingredient_id": 24,
+  "official_benefit_th": "Glyceryl Glucoside & Dipotassium Glycyrrhizate ช่วยกักเก็บความชุ่มชื้นแก่ผิว"
+ },
+ {
+  "product_id": 46,
+  "hero_name": "Dipotassium Glycyrrhizate",
+  "ingredient_id": 18,
+  "official_benefit_th": "Glyceryl Glucoside & Dipotassium Glycyrrhizate ช่วยกักเก็บความชุ่มชื้นแก่ผิว"
+ },
+ {
+  "product_id": 48,
+  "hero_name": "Phyto Camellia PDRN 0.5%",
+  "ingredient_id": 14,
+  "official_benefit_th": "Phyto Camellia PDRN 0.5% ให้ผิวดูกระจ่างใส สีผิวดูสม่ำเสมอ และให้ผิวดูเรียบเนียน แลดูกระชับขึ้น"
+ },
+ {
+  "product_id": 48,
+  "hero_name": "Niacinamide 5%",
+  "ingredient_id": 1,
+  "official_benefit_th": "Niacinamide 5% & Alpha Arbutus 0.1% เสริมให้ผิวดูกระจ่างใส แลดูเรียบเนียนยิ่งขึ้น"
+ },
+ {
+  "product_id": 48,
+  "hero_name": "Alpha Arbutin 0.1%",
+  "ingredient_id": 8,
+  "official_benefit_th": "Niacinamide 5% & Alpha Arbutus 0.1% เสริมให้ผิวดูกระจ่างใส แลดูเรียบเนียนยิ่งขึ้น"
+ },
+ {
+  "product_id": 111,
+  "hero_name": "Liposome Vitamin C",
+  "ingredient_id": null,
+  "official_benefit_th": "น้ำตบซุปเปอร์ซี เตรียมผิว ช่วยบำรุงผิวหน้าที่หมองคล้ำให้แลดูกระจ่างใส และลดเลือนจุดด่างดำให้ดูจางลง พร้อมเติมเต็มความชุ่มชื้นเพื่อผิวเปล่งปลั่ง เนียนนุ่ม ดูสุขภาพดี ด้วยการผสานพลังของส่วนผสมหลักอย่าง Liposome Vitamin C และ Super Fruit อีกทั้งยังมีสารสกัดจาก Centella Asiatica Extract จากประเทศเกาหลีใต้ ช่วยปลอบประโลมผิว"
+ },
+ {
+  "product_id": 111,
+  "hero_name": "Sea Buckthorn Oil & Extract",
+  "ingredient_id": 13,
+  "official_benefit_th": "Sea Buckthorn Oil & Extract ผลไม้ Super Fruit ที่อุดมไปด้วยคุณค่าการบำรุงผิว ช่วยปลอบประโลมผิวคล้ำเสียจากแสงแดด และช่วยลดเลือนริ้วรอยให้แลดูจางลง ผิวกลับมาเปล่งปลั่ง ดูสุขภาพดี"
+ },
+ {
+  "product_id": 111,
+  "hero_name": "Centella Asiatica Extract",
+  "ingredient_id": 19,
+  "official_benefit_th": "น้ำตบซุปเปอร์ซี เตรียมผิว ช่วยบำรุงผิวหน้าที่หมองคล้ำให้แลดูกระจ่างใส และลดเลือนจุดด่างดำให้ดูจางลง พร้อมเติมเต็มความชุ่มชื้นเพื่อผิวเปล่งปลั่ง เนียนนุ่ม ดูสุขภาพดี ด้วยการผสานพลังของส่วนผสมหลักอย่าง Liposome Vitamin C และ Super Fruit อีกทั้งยังมีสารสกัดจาก Centella Asiatica Extract จากประเทศเกาหลีใต้ ช่วยปลอบประโลมผิว"
+ },
+ {
+  "product_id": 111,
+  "hero_name": "8Hya & 6 Ceramide Complex",
+  "ingredient_id": 25,
+  "official_benefit_th": "8Hya & 6 Ceramide Complex ช่วยเติมความชุ่มชื้นให้ผิวแลดูเนียนนุ่ม"
+ },
+ {
+  "product_id": 127,
+  "hero_name": "Sodium Ascorbyl Phosphate",
+  "ingredient_id": 9,
+  "official_benefit_th": "ด้วยคุณค่าจากอนุพันธ์ของวิตามินซี (Sodium Ascorbyl Phosphate และ Ascorbyl Glucoside) ที่มีประสิทธิภาพในการเผยผิวกระจ่างใส ลดการสร้างเม็ดสีเมลานิน ฟื้นฟูผิวที่คล้ำเสียจากจุดด่างดำ พร้อมช่วยลดการเกิดฝ้า กระ จากแสงแดด"
+ },
+ {
+  "product_id": 127,
+  "hero_name": "Ascorbyl Glucoside",
+  "ingredient_id": 10,
+  "official_benefit_th": "ด้วยคุณค่าจากอนุพันธ์ของวิตามินซี (Sodium Ascorbyl Phosphate และ Ascorbyl Glucoside) ที่มีประสิทธิภาพในการเผยผิวกระจ่างใส ลดการสร้างเม็ดสีเมลานิน ฟื้นฟูผิวที่คล้ำเสียจากจุดด่างดำ พร้อมช่วยลดการเกิดฝ้า กระ จากแสงแดด"
+ },
+ {
+  "product_id": 127,
+  "hero_name": "Vitamin B3",
+  "ingredient_id": 1,
+  "official_benefit_th": "ส่วนผสม Vitamin B3 ช่วยให้ผิวกระจ่างใส ลดเลือนรอยดำจากสิว และปรับสีผิวให้สม่ำเสมอ Tranexamic Acid และ Alpha Arbutin ที่มีคุณสมบัติในการยับยั้งการสร้างเม็ดสี ช่วยลดการเกิดฝ้าและกระ และ Sea Buckthorn ซึ่งเป็นผลไม้ Super fruit ที่อุดมไปด้วยคุณค่าการบำรุงผิว ช่วยรักษาผิวคล้ำเสียจากแสงแดด และชะลอการเกิดริ้วรอย ให้ผิวกลับมาเปล่งปลั่งและสุขภาพดี มีวิตามินซีสูงกว่าส้มถึง 10 เท่า"
+ },
+ {
+  "product_id": 127,
+  "hero_name": "Tranexamic Acid",
+  "ingredient_id": 7,
+  "official_benefit_th": "ส่วนผสม Vitamin B3 ช่วยให้ผิวกระจ่างใส ลดเลือนรอยดำจากสิว และปรับสีผิวให้สม่ำเสมอ Tranexamic Acid และ Alpha Arbutin ที่มีคุณสมบัติในการยับยั้งการสร้างเม็ดสี ช่วยลดการเกิดฝ้าและกระ และ Sea Buckthorn ซึ่งเป็นผลไม้ Super fruit ที่อุดมไปด้วยคุณค่าการบำรุงผิว ช่วยรักษาผิวคล้ำเสียจากแสงแดด และชะลอการเกิดริ้วรอย ให้ผิวกลับมาเปล่งปลั่งและสุขภาพดี มีวิตามินซีสูงกว่าส้มถึง 10 เท่า"
+ },
+ {
+  "product_id": 127,
+  "hero_name": "Alpha Arbutin",
+  "ingredient_id": 8,
+  "official_benefit_th": "ส่วนผสม Vitamin B3 ช่วยให้ผิวกระจ่างใส ลดเลือนรอยดำจากสิว และปรับสีผิวให้สม่ำเสมอ Tranexamic Acid และ Alpha Arbutin ที่มีคุณสมบัติในการยับยั้งการสร้างเม็ดสี ช่วยลดการเกิดฝ้าและกระ และ Sea Buckthorn ซึ่งเป็นผลไม้ Super fruit ที่อุดมไปด้วยคุณค่าการบำรุงผิว ช่วยรักษาผิวคล้ำเสียจากแสงแดด และชะลอการเกิดริ้วรอย ให้ผิวกลับมาเปล่งปลั่งและสุขภาพดี มีวิตามินซีสูงกว่าส้มถึง 10 เท่า"
+ },
+ {
+  "product_id": 127,
+  "hero_name": "Sea Buckthorn",
+  "ingredient_id": 13,
+  "official_benefit_th": "ส่วนผสม Vitamin B3 ช่วยให้ผิวกระจ่างใส ลดเลือนรอยดำจากสิว และปรับสีผิวให้สม่ำเสมอ Tranexamic Acid และ Alpha Arbutin ที่มีคุณสมบัติในการยับยั้งการสร้างเม็ดสี ช่วยลดการเกิดฝ้าและกระ และ Sea Buckthorn ซึ่งเป็นผลไม้ Super fruit ที่อุดมไปด้วยคุณค่าการบำรุงผิว ช่วยรักษาผิวคล้ำเสียจากแสงแดด และชะลอการเกิดริ้วรอย ให้ผิวกลับมาเปล่งปลั่งและสุขภาพดี มีวิตามินซีสูงกว่าส้มถึง 10 เท่า"
+ },
+ {
+  "product_id": 51,
+  "hero_name": "Vitamin C Complex",
+  "ingredient_id": null,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 51,
+  "hero_name": "Niacinamide 5%",
+  "ingredient_id": 1,
+  "official_benefit_th": "เจลครีมชาร์จผิวไบร์ทใส สัมผัสบางเบา ซึมไว ไม่เหนอะหนะ ช่วยให้ผิวดูกระจ่างใส เรียบเนียน จุดด่างดำแลดูจางลง ด้วยพลัง Super C complex ผสาน 5% Niacinamide + 0.1% Alpha-Arbutin และสารสกัดจาก Sea Buckthorn พร้อม Glycolic Acid ช่วยผลัดเซลล์ผิวหมองคล้ำ และ Centella Asiatica ปลอบประโลมผิวอย่างอ่อนโยน"
+ },
+ {
+  "product_id": 51,
+  "hero_name": "Alpha-Arbutin 0.1%",
+  "ingredient_id": 8,
+  "official_benefit_th": "เจลครีมชาร์จผิวไบร์ทใส สัมผัสบางเบา ซึมไว ไม่เหนอะหนะ ช่วยให้ผิวดูกระจ่างใส เรียบเนียน จุดด่างดำแลดูจางลง ด้วยพลัง Super C complex ผสาน 5% Niacinamide + 0.1% Alpha-Arbutin และสารสกัดจาก Sea Buckthorn พร้อม Glycolic Acid ช่วยผลัดเซลล์ผิวหมองคล้ำ และ Centella Asiatica ปลอบประโลมผิวอย่างอ่อนโยน"
+ },
+ {
+  "product_id": 51,
+  "hero_name": "Tranexamic Acid",
+  "ingredient_id": 7,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 51,
+  "hero_name": "Glycolic Acid",
+  "ingredient_id": 3,
+  "official_benefit_th": "เจลครีมชาร์จผิวไบร์ทใส สัมผัสบางเบา ซึมไว ไม่เหนอะหนะ ช่วยให้ผิวดูกระจ่างใส เรียบเนียน จุดด่างดำแลดูจางลง ด้วยพลัง Super C complex ผสาน 5% Niacinamide + 0.1% Alpha-Arbutin และสารสกัดจาก Sea Buckthorn พร้อม Glycolic Acid ช่วยผลัดเซลล์ผิวหมองคล้ำ และ Centella Asiatica ปลอบประโลมผิวอย่างอ่อนโยน"
+ },
+ {
+  "product_id": 51,
+  "hero_name": "Centella Asiatica",
+  "ingredient_id": 19,
+  "official_benefit_th": "เจลครีมชาร์จผิวไบร์ทใส สัมผัสบางเบา ซึมไว ไม่เหนอะหนะ ช่วยให้ผิวดูกระจ่างใส เรียบเนียน จุดด่างดำแลดูจางลง ด้วยพลัง Super C complex ผสาน 5% Niacinamide + 0.1% Alpha-Arbutin และสารสกัดจาก Sea Buckthorn พร้อม Glycolic Acid ช่วยผลัดเซลล์ผิวหมองคล้ำ และ Centella Asiatica ปลอบประโลมผิวอย่างอ่อนโยน"
+ },
+ {
+  "product_id": 51,
+  "hero_name": "Seabuckthorn Oil & Extract",
+  "ingredient_id": 13,
+  "official_benefit_th": "Seabuckthorn Oil & Extract ผลไม้ Super Fruit"
+ },
+ {
+  "product_id": 34,
+  "hero_name": "Super Vitamin C",
+  "ingredient_id": null,
+  "official_benefit_th": "แผ่นแอมพลูมาส์กเนื้อเจลลี่ บูสต์ผิวไบร์ทในแผ่นเดียว ช่วยลดเลือนจุดด่างดำและจุดดำแดด เผยผิวเรียบเนียน กระจ่างใสอย่างเป็นธรรมชาติ ด้วยการผสานพลังของส่วนผสมหลักอย่าง Super Vitamin C และ Super Fruit อีกทั้งยังมี Niacinamide ,Tranexamic Acid และ Melazero ช่วยฟื้นบำรุงผิวคล้ำเสียสะสม พร้อมเติมเต็มความชุ่มชื้นล้ำลึกด้วย HYA 8 ชนิด และสารบำรุงเข้มข้น 15 ชนิด ที่ช่วยบอกลาความหมองคล้ำในแผ่นเดียว"
+ },
+ {
+  "product_id": 34,
+  "hero_name": "Sea Buckthorn Extract",
+  "ingredient_id": 13,
+  "official_benefit_th": "Sea Buckthorn Extract : ผลไม้Super Fruit ที่อุดมไปด้วยคุณค่าการบำรุงผิว ช่วยปลอบประโลมผิวคล้ำเสียจากแสงแดด และช่วยลดเลือนริ้วรอยให้แลดูจางลง ผิวกลับมาเปล่งปลั่ง แลดูสุขภาพดี"
+ },
+ {
+  "product_id": 34,
+  "hero_name": "Niacinamide PC",
+  "ingredient_id": 1,
+  "official_benefit_th": "แผ่นแอมพลูมาส์กเนื้อเจลลี่ บูสต์ผิวไบร์ทในแผ่นเดียว ช่วยลดเลือนจุดด่างดำและจุดดำแดด เผยผิวเรียบเนียน กระจ่างใสอย่างเป็นธรรมชาติ ด้วยการผสานพลังของส่วนผสมหลักอย่าง Super Vitamin C และ Super Fruit อีกทั้งยังมี Niacinamide ,Tranexamic Acid และ Melazero ช่วยฟื้นบำรุงผิวคล้ำเสียสะสม พร้อมเติมเต็มความชุ่มชื้นล้ำลึกด้วย HYA 8 ชนิด และสารบำรุงเข้มข้น 15 ชนิด ที่ช่วยบอกลาความหมองคล้ำในแผ่นเดียว"
+ },
+ {
+  "product_id": 34,
+  "hero_name": "Tranexamic Acid",
+  "ingredient_id": 7,
+  "official_benefit_th": "แผ่นแอมพลูมาส์กเนื้อเจลลี่ บูสต์ผิวไบร์ทในแผ่นเดียว ช่วยลดเลือนจุดด่างดำและจุดดำแดด เผยผิวเรียบเนียน กระจ่างใสอย่างเป็นธรรมชาติ ด้วยการผสานพลังของส่วนผสมหลักอย่าง Super Vitamin C และ Super Fruit อีกทั้งยังมี Niacinamide ,Tranexamic Acid และ Melazero ช่วยฟื้นบำรุงผิวคล้ำเสียสะสม พร้อมเติมเต็มความชุ่มชื้นล้ำลึกด้วย HYA 8 ชนิด และสารบำรุงเข้มข้น 15 ชนิด ที่ช่วยบอกลาความหมองคล้ำในแผ่นเดียว"
+ },
+ {
+  "product_id": 34,
+  "hero_name": "Melazero",
+  "ingredient_id": null,
+  "official_benefit_th": "แผ่นแอมพลูมาส์กเนื้อเจลลี่ บูสต์ผิวไบร์ทในแผ่นเดียว ช่วยลดเลือนจุดด่างดำและจุดดำแดด เผยผิวเรียบเนียน กระจ่างใสอย่างเป็นธรรมชาติ ด้วยการผสานพลังของส่วนผสมหลักอย่าง Super Vitamin C และ Super Fruit อีกทั้งยังมี Niacinamide ,Tranexamic Acid และ Melazero ช่วยฟื้นบำรุงผิวคล้ำเสียสะสม พร้อมเติมเต็มความชุ่มชื้นล้ำลึกด้วย HYA 8 ชนิด และสารบำรุงเข้มข้น 15 ชนิด ที่ช่วยบอกลาความหมองคล้ำในแผ่นเดียว"
+ },
+ {
+  "product_id": 34,
+  "hero_name": "Alpha-Arbutin",
+  "ingredient_id": 8,
+  "official_benefit_th": "Alpha-Arbutin : ช่วยให้ผิวกระจ่างใส ลดเลือนจุดด่างดำอย่างอ่อนโยน"
+ },
+ {
+  "product_id": 104,
+  "hero_name": "Hydroxy Pinacolone Retinoate",
+  "ingredient_id": 4,
+  "official_benefit_th": "Hydroxy Pinacolone Retinoate วิตามินเอ รูปแบบใหม่ ประสิทธิภาพสูง ออกฤทธิ์ได้อย่างรวดเร็ว มีความคงตัว และระคายเคืองผิวได้น้อยกว่าวิตามินเอในรูปแบบอื่น"
+ },
+ {
+  "product_id": 104,
+  "hero_name": "Peptide Technology",
+  "ingredient_id": null,
+  "official_benefit_th": "Peptide Technology เทคโนโลยีเปปไทด์ ที่ช่วยฟื้นบำรุงผิวจากความหมองคล้ำ 6 จุดทั่วใบหน้า และประสิทธิภาพช่วยให้ริ้วรอยแลดูลดเลือนลง"
+ },
+ {
+  "product_id": 104,
+  "hero_name": "Hyamide Complex (HA + Ceramide)",
+  "ingredient_id": 30,
+  "official_benefit_th": "Hyamide – Complex ผสานรวมพลังไฮยาและเซราไมด์ ช่วยเติมความชุ่มชื้นให้ผิว พร้อมเสริมปราการปลอบประโลมผิวให้แลดูสุขภาพดี"
+ },
+ {
+  "product_id": 104,
+  "hero_name": "Niacinamide",
+  "ingredient_id": 1,
+  "official_benefit_th": "Niacinamide ช่วยให้ผิวกระชับ เรียบเนียน และคงความชุ่มชื้น"
+ },
+ {
+  "product_id": 52,
+  "hero_name": "Bakuchiol",
+  "ingredient_id": 6,
+  "official_benefit_th": "เซรั่มเนื้อบางเบาสูตรพิเศษ อุดมด้วยสารบำรุงที่ได้รับการคัดสรรมาอย่างพิถีพิถัน เพื่อการดูแลผิวอย่างล้ำลึกและมีประสิทธิภาพ มอบผลลัพธ์ผิวอ่อนเยาว์แลดูกระชับภายใน 3 วัน* ด้วยสารสกัดจาก Bakuchiol นวัตกรรมทางเลือกแทนเรตินอล พร้อมด้วยเทคโนโลยี Hyalufiller Drone Technology ที่ก้าวล้ำ ช่วยเติมเต็มความชุ่มชื้นให้ผิวและลดเลือนริ้วรอยอย่างมีประสิทธิภาพ ให้ผิวดูเรียบเนียน เปล่งปลั่ง อ่อนเยาว์"
+ },
+ {
+  "product_id": 52,
+  "hero_name": "Peptide",
+  "ingredient_id": null,
+  "official_benefit_th": "Peptide ช่วยลดเลือนริ้วรอยให้ดูจางลง"
+ },
+ {
+  "product_id": 52,
+  "hero_name": "Hyaluronic Acid",
+  "ingredient_id": 26,
+  "official_benefit_th": "Hyaluronic Acid เพิ่มความชุ่มชื่น มอบผิวแลดูอ่อนเยาว์"
+ },
+ {
+  "product_id": 52,
+  "hero_name": "Niacinamide",
+  "ingredient_id": 1,
+  "official_benefit_th": "Niacinamide ให้ผิวแลดูระจ่างใส ช่วยปรับผิวให้ดูสม่ำเสมอ"
+ },
+ {
+  "product_id": 90,
+  "hero_name": "Niacinamide",
+  "ingredient_id": 1,
+  "official_benefit_th": "Niacinamide ช่วยให้ผิวกระจ่างใส เรียบเนียน และคงความชุ่มชื้น"
+ },
+ {
+  "product_id": 90,
+  "hero_name": "Tranexamic Acid",
+  "ingredient_id": 7,
+  "official_benefit_th": "Tranexamic Acid ช่วยลดเลือนจุดด่างดำ และช่วยให้สีผิวแลดูสม่ำเสมอมากขึ้น"
+ },
+ {
+  "product_id": 90,
+  "hero_name": "Hyaluronate",
+  "ingredient_id": 25,
+  "official_benefit_th": "Hyaluronate ช่วยเติมความชุ่มชื้นให้ผิวแลดูเนียนนุ่ม"
+ },
+ {
+  "product_id": 90,
+  "hero_name": "Aura-Peptide Capsule",
+  "ingredient_id": null,
+  "official_benefit_th": "Aura-Peptide Capsule Peptide technology ช่วยเผยผิวกระจ่างใสเปล่งปลั่ง"
+ },
+ {
+  "product_id": 90,
+  "hero_name": "Pollu-Shield",
+  "ingredient_id": null,
+  "official_benefit_th": "Pollu-Shield เป็นเกราะป้องกันผิวจากมลภาวะที่กระตุ้นให้เกิดปัญหาฝ้า กระ จุดด่างดำ"
+ },
+ {
+  "product_id": 53,
+  "hero_name": "Calamine",
+  "ingredient_id": 40,
+  "official_benefit_th": "Calamine : ช่วยปลอบประโลมผิวมัน และ ช่วยลดความเปียกชื้นบนผิวหน้า"
+ },
+ {
+  "product_id": 116,
+  "hero_name": "Salicylic Acid Sphere",
+  "ingredient_id": 2,
+  "official_benefit_th": "กันแดดสูตรแอนตี้แอคเน่ ออกแบบมาเป็นพิเศษเพื่อปกป้องผิวจากความเสียหายที่เกิดจากรังสี UVA และ UVB รวมถึงมลภาวะและแสงสีฟ้า ด้วยการผสานเทคโนโลยี Triple Protection ที่มีประสิทธิภาพสูง พร้อม Salicylic Acid ที่ช่วยจัดการสาเหตุของการเกิดสิวอย่างอ่อนโยน เนื้อบางเบา เกลี่ยง่าย และช่วยลดความมันอันเป็นสาเหตุของการอุดตัน"
+ },
+ {
+  "product_id": 116,
+  "hero_name": "Ultra Protect X3",
+  "ingredient_id": null,
+  "official_benefit_th": "Ultra Protect X3: ปกป้องผิวจากรังสี UVA/UVB, มลภาวะ, และแสงสีฟ้า (Bluelight)"
+ },
+ {
+  "product_id": 116,
+  "hero_name": "Micro-blur Primer",
+  "ingredient_id": 41,
+  "official_benefit_th": "Micro-blur Primer: ช่วยดูดซับความมัน เบลอริ้วรอย และทำให้ผิวดูกระชับเรียบเนียน"
+ },
+ {
+  "product_id": 117,
+  "hero_name": "Vitamin B3",
+  "ingredient_id": 1,
+  "official_benefit_th": "Vitamin B3 และ C: ช่วยปรับผิวให้กระจ่างใส บำรุงล้ำลึก ให้ผิวชุ่มชื้นและไม่หมองคล้ำ"
+ },
+ {
+  "product_id": 117,
+  "hero_name": "Vitamin C",
+  "ingredient_id": null,
+  "official_benefit_th": "Vitamin B3 และ C: ช่วยปรับผิวให้กระจ่างใส บำรุงล้ำลึก ให้ผิวชุ่มชื้นและไม่หมองคล้ำ"
+ },
+ {
+  "product_id": 117,
+  "hero_name": "Ultra Protect X3",
+  "ingredient_id": null,
+  "official_benefit_th": "Ultra Protect X3: ปกป้องผิวจากรังสี UVA/UVB, มลภาวะ, และแสงสีฟ้า"
+ },
+ {
+  "product_id": 117,
+  "hero_name": "Micro-blur Primer",
+  "ingredient_id": 41,
+  "official_benefit_th": "Micro-blur Primer: ดูดซับความมัน เบลอริ้วรอย และทำให้ผิวดูกระชับเรียบเนียน"
+ },
+ {
+  "product_id": 22,
+  "hero_name": "Rosia Transferosome",
+  "ingredient_id": null,
+  "official_benefit_th": "Rosia Transferosome ที่ช่วยเสริม SPF Booster เพิ่มการปกป้องผิวจากการทำร้ายของแสงแดด คุณสมบัติแอนตี้ออกซิแดนท์ ช่วยชะลอการเกิดริ้วรอย พร้อมลดปัญหาผิวหมองคล้ำ และปกป้องผิวจากการถูกทำร้ายจากแสงสีฟ้า"
+ },
+ {
+  "product_id": 22,
+  "hero_name": "Vitamin C",
+  "ingredient_id": null,
+  "official_benefit_th": "Vitamin C ช่วยบำรุงผิว ลดความหมองคล้ำ มอบผิวดูกระจ่างใส"
+ },
+ {
+  "product_id": 22,
+  "hero_name": "Vitamin B5",
+  "ingredient_id": 17,
+  "official_benefit_th": "Vitamin C ช่วยบำรุงผิว ลดความหมองคล้ำ มอบผิวดูกระจ่างใส"
+ },
+ {
+  "product_id": 22,
+  "hero_name": "3D Water Drench",
+  "ingredient_id": null,
+  "official_benefit_th": "3D Water Drench ด้วยนวัตกรรมโครงสร้างตาข่าย 3 มิติ ช่วยล็อคความชุ่มชื้นให้กับผิว ฟื้นบำรุงผิวแห้งกร้าน"
+ },
+ {
+  "product_id": 23,
+  "hero_name": "15HYA Complex",
+  "ingredient_id": 25,
+  "official_benefit_th": "15HYA COMPLEX ล๊อค และมอบความชุ่มชื้นให้ผิวยาวนาน 8 ชม.*"
+ },
+ {
+  "product_id": 23,
+  "hero_name": "Ectoin Postbiotic",
+  "ingredient_id": 16,
+  "official_benefit_th": "ECTOIN Postbiotic ช่วยปรับสมดุล และเสริมเกราะป้องกันผิว ให้ผิวกักเก็บความชุ่มชื้นได้ดียิ่งขึ้น"
+ },
+ {
+  "product_id": 23,
+  "hero_name": "5X Ceramix",
+  "ingredient_id": 30,
+  "official_benefit_th": "5X CERAMIX เซราไมด์ 5 ชนิด ช่วยฟื้นฟูซ่อมแซม Skin Barrier ให้ผิวชุ่มชื้นและลดการสูญเสียน้ำ"
+ },
+ {
+  "product_id": 24,
+  "hero_name": "Prunus Persica (Peach) Fruit Extract",
+  "ingredient_id": null,
+  "official_benefit_th": "Prunus Persica Fruit Extract สารสกัดจากพีช ประสิทธิภาพAnti-Oxidant ช่วยให้ผิวแลดูกระจ่างใส เรียบเนียน"
+ },
+ {
+  "product_id": 24,
+  "hero_name": "Myrciaria Dubia (Camu Camu) Fruit Extract",
+  "ingredient_id": null,
+  "official_benefit_th": "Myrciaria Dubia Fruit Extract **สารสกัดจากคามู คามู ที่มีวิตามินซี สูงกว่าส้มถึง 40 เท่า ช่วยปกป้องผิวจากแสงแดด ลดเลือนริ้วรอยและความหมองคล้ำ"
+ },
+ {
+  "product_id": 24,
+  "hero_name": "Buddleja Officinalis Flower Extract",
+  "ingredient_id": null,
+  "official_benefit_th": "Buddleja Officials Flower Extract สารสกัดจาก Butterfly Bush ช่วยปกป้องผิวจาก รังสี UVA/UVB และ Anti-Blue light"
+ },
+ {
+  "product_id": 176,
+  "hero_name": "Translucent powder base (Talc, Silica)",
+  "ingredient_id": 41,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 28,
+  "hero_name": "Salicylic Acid",
+  "ingredient_id": 2,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 28,
+  "hero_name": "Dipotassium Glycyrrhizate, CICA",
+  "ingredient_id": 18,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 28,
+  "hero_name": "Glyceryl Glucoside",
+  "ingredient_id": 24,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 28,
+  "hero_name": "8 Natural Extracts",
+  "ingredient_id": null,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 26,
+  "hero_name": "Niacinamide",
+  "ingredient_id": 1,
+  "official_benefit_th": "โทนเนอร์แพดบำรุงผิว เนื้อบางเบา ไม่เหนียวเหนอะหนะ ช่วยให้รอยดำจากสิวแลดูจางลงให้ผิวแลดูขาวกระจ่างใส ด้วย Niacinamide และสารสกัด Sea-buckthorn Extract พร้อมช่วยกระชับรูขุมขนให้ผิวเรียบเนียนอย่างเป็นธรรมชาติด้วย Witch Hazel ร่วมกับ Probiotic จากประเทศเกาหลี พร้อมเติมและกักเก็บความชุ่มชื้นให้ผิวดูอิ่มน้ำ สุขภาพดี ทันทีที่ใช้"
+ },
+ {
+  "product_id": 26,
+  "hero_name": "Sea-buckthorn Extract",
+  "ingredient_id": 13,
+  "official_benefit_th": "โทนเนอร์แพดบำรุงผิว เนื้อบางเบา ไม่เหนียวเหนอะหนะ ช่วยให้รอยดำจากสิวแลดูจางลงให้ผิวแลดูขาวกระจ่างใส ด้วย Niacinamide และสารสกัด Sea-buckthorn Extract พร้อมช่วยกระชับรูขุมขนให้ผิวเรียบเนียนอย่างเป็นธรรมชาติด้วย Witch Hazel ร่วมกับ Probiotic จากประเทศเกาหลี พร้อมเติมและกักเก็บความชุ่มชื้นให้ผิวดูอิ่มน้ำ สุขภาพดี ทันทีที่ใช้"
+ },
+ {
+  "product_id": 26,
+  "hero_name": "Witch Hazel",
+  "ingredient_id": 37,
+  "official_benefit_th": "โทนเนอร์แพดบำรุงผิว เนื้อบางเบา ไม่เหนียวเหนอะหนะ ช่วยให้รอยดำจากสิวแลดูจางลงให้ผิวแลดูขาวกระจ่างใส ด้วย Niacinamide และสารสกัด Sea-buckthorn Extract พร้อมช่วยกระชับรูขุมขนให้ผิวเรียบเนียนอย่างเป็นธรรมชาติด้วย Witch Hazel ร่วมกับ Probiotic จากประเทศเกาหลี พร้อมเติมและกักเก็บความชุ่มชื้นให้ผิวดูอิ่มน้ำ สุขภาพดี ทันทีที่ใช้"
+ },
+ {
+  "product_id": 26,
+  "hero_name": "Salicylic Acid (BHA)",
+  "ingredient_id": 2,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 26,
+  "hero_name": "Probiotic",
+  "ingredient_id": 45,
+  "official_benefit_th": "โทนเนอร์แพดบำรุงผิว เนื้อบางเบา ไม่เหนียวเหนอะหนะ ช่วยให้รอยดำจากสิวแลดูจางลงให้ผิวแลดูขาวกระจ่างใส ด้วย Niacinamide และสารสกัด Sea-buckthorn Extract พร้อมช่วยกระชับรูขุมขนให้ผิวเรียบเนียนอย่างเป็นธรรมชาติด้วย Witch Hazel ร่วมกับ Probiotic จากประเทศเกาหลี พร้อมเติมและกักเก็บความชุ่มชื้นให้ผิวดูอิ่มน้ำ สุขภาพดี ทันทีที่ใช้"
+ },
+ {
+  "product_id": 107,
+  "hero_name": "Salicylic Acid (Nano Encapsulation)",
+  "ingredient_id": 2,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 107,
+  "hero_name": "Cica",
+  "ingredient_id": 19,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 107,
+  "hero_name": "Tea Tree Oil",
+  "ingredient_id": 38,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 107,
+  "hero_name": "Bisabolol",
+  "ingredient_id": 23,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 107,
+  "hero_name": "Zinc PCA",
+  "ingredient_id": 39,
+  "official_benefit_th": null
+ },
+ {
+  "product_id": 143,
+  "hero_name": "Cica Extract",
+  "ingredient_id": 19,
+  "official_benefit_th": "ไมเซลล่าเช็ดทำความสะอาดเครื่องสำอาง สูตรอ่อนโยน สะอาดล้ำลึกพร้อมบำรุงผิว เหมาะสำหรับผิวเป็นสิวผลิตภัณฑ์เช็ดทำความสะอาดเครื่องสำอางและสิ่งสกปรก สำหรับผิวเป็นสิว สูตรอ่อนโยน ทำความสะอาดผิวได้อย่างหมดจด ด้วย Triple-Micellar Technology พร้อมสารบำรุงผิวจากธรรมชาติ จาก Cica Extract, Jeju Aloe Vera และ Tea Tree Oil"
+ },
+ {
+  "product_id": 143,
+  "hero_name": "Tea Tree Oil",
+  "ingredient_id": 38,
+  "official_benefit_th": "ไมเซลล่าเช็ดทำความสะอาดเครื่องสำอาง สูตรอ่อนโยน สะอาดล้ำลึกพร้อมบำรุงผิว เหมาะสำหรับผิวเป็นสิวผลิตภัณฑ์เช็ดทำความสะอาดเครื่องสำอางและสิ่งสกปรก สำหรับผิวเป็นสิว สูตรอ่อนโยน ทำความสะอาดผิวได้อย่างหมดจด ด้วย Triple-Micellar Technology พร้อมสารบำรุงผิวจากธรรมชาติ จาก Cica Extract, Jeju Aloe Vera และ Tea Tree Oil"
+ },
+ {
+  "product_id": 143,
+  "hero_name": "Jeju Aloe Vera",
+  "ingredient_id": null,
+  "official_benefit_th": "ไมเซลล่าเช็ดทำความสะอาดเครื่องสำอาง สูตรอ่อนโยน สะอาดล้ำลึกพร้อมบำรุงผิว เหมาะสำหรับผิวเป็นสิวผลิตภัณฑ์เช็ดทำความสะอาดเครื่องสำอางและสิ่งสกปรก สำหรับผิวเป็นสิว สูตรอ่อนโยน ทำความสะอาดผิวได้อย่างหมดจด ด้วย Triple-Micellar Technology พร้อมสารบำรุงผิวจากธรรมชาติ จาก Cica Extract, Jeju Aloe Vera และ Tea Tree Oil"
+ },
+ {
+  "product_id": 145,
+  "hero_name": "Salicylic Acid",
+  "ingredient_id": 2,
+  "official_benefit_th": "ผสานคุณค่าการบำรุงผิวจาก Salicylic Acid, Cica และ Vitamin B3 ช่วยปลอบประโลมผิวเป็นสิว และผลัดผิวอย่างอ่อนโยน"
+ },
+ {
+  "product_id": 145,
+  "hero_name": "Cica",
+  "ingredient_id": 19,
+  "official_benefit_th": "ผสานคุณค่าการบำรุงผิวจาก Salicylic Acid, Cica และ Vitamin B3 ช่วยปลอบประโลมผิวเป็นสิว และผลัดผิวอย่างอ่อนโยน"
+ },
+ {
+  "product_id": 145,
+  "hero_name": "Vitamin B3",
+  "ingredient_id": 1,
+  "official_benefit_th": "ผสานคุณค่าการบำรุงผิวจาก Salicylic Acid, Cica และ Vitamin B3 ช่วยปลอบประโลมผิวเป็นสิว และผลัดผิวอย่างอ่อนโยน"
+ },
+ {
+  "product_id": 145,
+  "hero_name": "Miracle Powder",
+  "ingredient_id": 41,
+  "official_benefit_th": "เพื่อผิวดูกระจ่างใสอย่างเป็นธรรมชาติ พร้อม Miracle Powder ช่วยดูดซับ และควบคุมความมันได้นาน 9 ชั่วโมง*"
+ },
+ {
+  "product_id": 14,
+  "hero_name": "2% Vitamin B3",
+  "ingredient_id": 1,
+  "official_benefit_th": "ผสานด้วยคุณค่า 2% Vitamin B3 ปรับผิวให้กระจ่างใส รักษาสมดุลของน้ำหล่อเลี้ยงผิว และ Sweet Cherry ขุมพลังแห่งความเยาว์วัยจากธรรมชาติ ที่มี Anti-oxidant ช่วยปกป้องผิวจากอนุมูลอิสระ"
+ },
+ {
+  "product_id": 14,
+  "hero_name": "Sweet Cherry",
+  "ingredient_id": null,
+  "official_benefit_th": "ผสานด้วยคุณค่า 2% Vitamin B3 ปรับผิวให้กระจ่างใส รักษาสมดุลของน้ำหล่อเลี้ยงผิว และ Sweet Cherry ขุมพลังแห่งความเยาว์วัยจากธรรมชาติ ที่มี Anti-oxidant ช่วยปกป้องผิวจากอนุมูลอิสระ"
+ },
+ {
+  "product_id": 14,
+  "hero_name": "Color Correct Booster",
+  "ingredient_id": null,
+  "official_benefit_th": null
+ }
+]

@@ -1,0 +1,1696 @@
+[
+ {
+  "product_id": 128,
+  "concern_id": 13,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Core purpose: water-binding first layer."
+ },
+ {
+  "product_id": 128,
+  "concern_id": 8,
+  "relevance": 1,
+  "basis": "ingredient_inference",
+  "rationale_en": "Contains niacinamide."
+ },
+ {
+  "product_id": 128,
+  "concern_id": 15,
+  "relevance": 1,
+  "basis": "ingredient_inference",
+  "rationale_en": "Panthenol supports barrier comfort."
+ },
+ {
+  "product_id": 129,
+  "concern_id": 13,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Multi-humectant hydration serum."
+ },
+ {
+  "product_id": 129,
+  "concern_id": 2,
+  "relevance": 1,
+  "basis": "ingredient_inference",
+  "rationale_en": "Witch hazel tones the look of pores."
+ },
+ {
+  "product_id": 39,
+  "concern_id": 13,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Seals in water without heaviness."
+ },
+ {
+  "product_id": 39,
+  "concern_id": 1,
+  "relevance": 1,
+  "basis": "ingredient_inference",
+  "rationale_en": "Oil-free-feel gel texture suits humid climates."
+ },
+ {
+  "product_id": 39,
+  "concern_id": 16,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Cica + allantoin; sensitive-skin tested."
+ },
+ {
+  "product_id": 136,
+  "concern_id": 13,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Removes makeup without the tight feel."
+ },
+ {
+  "product_id": 33,
+  "concern_id": 13,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Intensive hydration boost."
+ },
+ {
+  "product_id": 33,
+  "concern_id": 15,
+  "relevance": 2,
+  "basis": "ingredient_inference",
+  "rationale_en": "Ceramides + allantoin."
+ },
+ {
+  "product_id": 83,
+  "concern_id": 16,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Built for reactive skin."
+ },
+ {
+  "product_id": 83,
+  "concern_id": 15,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Non-stripping cleanse."
+ },
+ {
+  "product_id": 5,
+  "concern_id": 16,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 5,
+  "concern_id": 15,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Barrier-support essence."
+ },
+ {
+  "product_id": 5,
+  "concern_id": 13,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Hydrating first layer."
+ },
+ {
+  "product_id": 6,
+  "concern_id": 15,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 6,
+  "concern_id": 16,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Soothing complex."
+ },
+ {
+  "product_id": 6,
+  "concern_id": 13,
+  "relevance": 1,
+  "basis": "ingredient_inference",
+  "rationale_en": "Supports water retention."
+ },
+ {
+  "product_id": 4,
+  "concern_id": 15,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 4,
+  "concern_id": 16,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Cooling, soothing."
+ },
+ {
+  "product_id": 4,
+  "concern_id": 13,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Plumps with water."
+ },
+ {
+  "product_id": 49,
+  "concern_id": 8,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Brightening-positioned cleanse."
+ },
+ {
+  "product_id": 49,
+  "concern_id": 13,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Non-stripping."
+ },
+ {
+  "product_id": 47,
+  "concern_id": 8,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 47,
+  "concern_id": 13,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Hydrating first layer."
+ },
+ {
+  "product_id": 47,
+  "concern_id": 11,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Positioned for a firmer look."
+ },
+ {
+  "product_id": 46,
+  "concern_id": 8,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 46,
+  "concern_id": 5,
+  "relevance": 2,
+  "basis": "ingredient_inference",
+  "rationale_en": "5% niacinamide + arbutin."
+ },
+ {
+  "product_id": 46,
+  "concern_id": 2,
+  "relevance": 1,
+  "basis": "ingredient_inference",
+  "rationale_en": "5% niacinamide refines the look of pores."
+ },
+ {
+  "product_id": 46,
+  "concern_id": 11,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Positioned for a firmer look."
+ },
+ {
+  "product_id": 48,
+  "concern_id": 8,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 48,
+  "concern_id": 13,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Moisturiser."
+ },
+ {
+  "product_id": 48,
+  "concern_id": 5,
+  "relevance": 1,
+  "basis": "ingredient_inference",
+  "rationale_en": "Niacinamide + arbutin."
+ },
+ {
+  "product_id": 111,
+  "concern_id": 8,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 111,
+  "concern_id": 6,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Positioned for dark spots."
+ },
+ {
+  "product_id": 111,
+  "concern_id": 13,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Hydrating."
+ },
+ {
+  "product_id": 127,
+  "concern_id": 6,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 127,
+  "concern_id": 5,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy names post-acne dark marks."
+ },
+ {
+  "product_id": 127,
+  "concern_id": 8,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Tone-evening."
+ },
+ {
+  "product_id": 127,
+  "concern_id": 7,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy names melasma/freckle appearance."
+ },
+ {
+  "product_id": 51,
+  "concern_id": 8,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 51,
+  "concern_id": 6,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Positioned for dark spots."
+ },
+ {
+  "product_id": 51,
+  "concern_id": 5,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Named in official copy."
+ },
+ {
+  "product_id": 51,
+  "concern_id": 12,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Contains glycolic acid, but low on the INCI (#24/29): mild at most."
+ },
+ {
+  "product_id": 34,
+  "concern_id": 8,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Brightening boost."
+ },
+ {
+  "product_id": 34,
+  "concern_id": 6,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Named in official copy."
+ },
+ {
+  "product_id": 104,
+  "concern_id": 10,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 104,
+  "concern_id": 12,
+  "relevance": 3,
+  "basis": "ingredient_inference",
+  "rationale_en": "Retinoids are the reference active for texture."
+ },
+ {
+  "product_id": 104,
+  "concern_id": 11,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Positioned for a firmer look."
+ },
+ {
+  "product_id": 104,
+  "concern_id": 2,
+  "relevance": 2,
+  "basis": "ingredient_inference",
+  "rationale_en": "Retinoids refine the look of pores over time."
+ },
+ {
+  "product_id": 104,
+  "concern_id": 5,
+  "relevance": 1,
+  "basis": "ingredient_inference",
+  "rationale_en": "Supports turnover."
+ },
+ {
+  "product_id": 52,
+  "concern_id": 10,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 52,
+  "concern_id": 11,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Positioned for firmness."
+ },
+ {
+  "product_id": 52,
+  "concern_id": 13,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "HA filler technology."
+ },
+ {
+  "product_id": 90,
+  "concern_id": 7,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 90,
+  "concern_id": 6,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 90,
+  "concern_id": 8,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Tone-evening."
+ },
+ {
+  "product_id": 90,
+  "concern_id": 5,
+  "relevance": 2,
+  "basis": "ingredient_inference",
+  "rationale_en": "TXA + niacinamide."
+ },
+ {
+  "product_id": 53,
+  "concern_id": 1,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 53,
+  "concern_id": 3,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Reduces the oil that leads to clogging."
+ },
+ {
+  "product_id": 116,
+  "concern_id": 17,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Sunscreen."
+ },
+ {
+  "product_id": 116,
+  "concern_id": 1,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Matte, oil-absorbing."
+ },
+ {
+  "product_id": 116,
+  "concern_id": 4,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Salicylic acid sphere."
+ },
+ {
+  "product_id": 116,
+  "concern_id": 2,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Micro-blur primer effect."
+ },
+ {
+  "product_id": 116,
+  "concern_id": 5,
+  "relevance": 2,
+  "basis": "ingredient_inference",
+  "rationale_en": "UV protection is the first step for marks."
+ },
+ {
+  "product_id": 117,
+  "concern_id": 17,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Sunscreen."
+ },
+ {
+  "product_id": 117,
+  "concern_id": 8,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Brightening-positioned."
+ },
+ {
+  "product_id": 117,
+  "concern_id": 6,
+  "relevance": 2,
+  "basis": "ingredient_inference",
+  "rationale_en": "UV protection prevents spots darkening."
+ },
+ {
+  "product_id": 117,
+  "concern_id": 2,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Blur effect."
+ },
+ {
+  "product_id": 22,
+  "concern_id": 17,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Sunscreen; the water-resistant choice."
+ },
+ {
+  "product_id": 22,
+  "concern_id": 10,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Anti-photoageing positioning."
+ },
+ {
+  "product_id": 22,
+  "concern_id": 8,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Vitamin C."
+ },
+ {
+  "product_id": 22,
+  "concern_id": 13,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Hydrating serum texture."
+ },
+ {
+  "product_id": 23,
+  "concern_id": 17,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Sunscreen."
+ },
+ {
+  "product_id": 23,
+  "concern_id": 13,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Hydration-first sunscreen."
+ },
+ {
+  "product_id": 23,
+  "concern_id": 15,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Five ceramides + ectoin."
+ },
+ {
+  "product_id": 23,
+  "concern_id": 14,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Dewy finish."
+ },
+ {
+  "product_id": 24,
+  "concern_id": 17,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Sunscreen."
+ },
+ {
+  "product_id": 24,
+  "concern_id": 8,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Instant tone-up."
+ },
+ {
+  "product_id": 24,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Can replace base on no-makeup days."
+ },
+ {
+  "product_id": 24,
+  "concern_id": 2,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Blur effect."
+ },
+ {
+  "product_id": 176,
+  "concern_id": 1,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose: oil control."
+ },
+ {
+  "product_id": 176,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Sets base without changing its colour."
+ },
+ {
+  "product_id": 176,
+  "concern_id": 2,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official tagline: blurs pores."
+ },
+ {
+  "product_id": 28,
+  "concern_id": 3,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Leave-on BHA."
+ },
+ {
+  "product_id": 28,
+  "concern_id": 4,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 28,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "ingredient_inference",
+  "rationale_en": "BHA is oil-soluble."
+ },
+ {
+  "product_id": 28,
+  "concern_id": 2,
+  "relevance": 2,
+  "basis": "ingredient_inference",
+  "rationale_en": "Keeps pores clear."
+ },
+ {
+  "product_id": 28,
+  "concern_id": 12,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Gentle exfoliation."
+ },
+ {
+  "product_id": 26,
+  "concern_id": 5,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Primary purpose."
+ },
+ {
+  "product_id": 26,
+  "concern_id": 8,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Brightening."
+ },
+ {
+  "product_id": 26,
+  "concern_id": 2,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Witch hazel + BHA."
+ },
+ {
+  "product_id": 26,
+  "concern_id": 3,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Contains BHA."
+ },
+ {
+  "product_id": 107,
+  "concern_id": 4,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Primary positioning."
+ },
+ {
+  "product_id": 107,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Balances oil."
+ },
+ {
+  "product_id": 107,
+  "concern_id": 3,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Rinse-off BHA."
+ },
+ {
+  "product_id": 143,
+  "concern_id": 4,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "For blemish-prone skin."
+ },
+ {
+  "product_id": 143,
+  "concern_id": 1,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "Reduces excess oil."
+ },
+ {
+  "product_id": 145,
+  "concern_id": 17,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Sunscreen."
+ },
+ {
+  "product_id": 145,
+  "concern_id": 4,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Blemish-prone positioning."
+ },
+ {
+  "product_id": 145,
+  "concern_id": 1,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "9-hour oil control claim."
+ },
+ {
+  "product_id": 14,
+  "concern_id": 17,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Sunscreen."
+ },
+ {
+  "product_id": 14,
+  "concern_id": 8,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Tone-up."
+ },
+ {
+  "product_id": 14,
+  "concern_id": 18,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Primer + 12 h oil control."
+ },
+ {
+  "product_id": 9,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 18-hour oil control."
+ },
+ {
+  "product_id": 9,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 9,
+  "concern_id": 20,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: medium coverage."
+ },
+ {
+  "product_id": 10,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Concealer."
+ },
+ {
+  "product_id": 10,
+  "concern_id": 9,
+  "relevance": 2,
+  "basis": "site_category",
+  "rationale_en": "Covers under-eye darkness cosmetically."
+ },
+ {
+  "product_id": 11,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 11,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 11,
+  "concern_id": 20,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: medium coverage."
+ },
+ {
+  "product_id": 13,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 12-hour oil control."
+ },
+ {
+  "product_id": 13,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 15,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Concealer."
+ },
+ {
+  "product_id": 15,
+  "concern_id": 9,
+  "relevance": 2,
+  "basis": "site_category",
+  "rationale_en": "Covers under-eye darkness cosmetically."
+ },
+ {
+  "product_id": 15,
+  "concern_id": 4,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "SASI Acne Sol line is positioned for blemish-prone skin."
+ },
+ {
+  "product_id": 25,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 25,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 25,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: medium to full coverage."
+ },
+ {
+  "product_id": 25,
+  "concern_id": 4,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "SASI Acne Sol line is positioned for blemish-prone skin."
+ },
+ {
+  "product_id": 37,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 38,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 18-hour oil control."
+ },
+ {
+  "product_id": 38,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 43,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 43,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 43,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF50+ PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 44,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 44,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 44,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF50+ PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 55,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 55,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 55,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: sheer coverage."
+ },
+ {
+  "product_id": 56,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 56,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 57,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 57,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 61,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 63,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 63,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 63,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: full coverage."
+ },
+ {
+  "product_id": 63,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF50+ PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 64,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 12-hour oil control."
+ },
+ {
+  "product_id": 64,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 64,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: sheer coverage."
+ },
+ {
+  "product_id": 66,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 24-hour oil control."
+ },
+ {
+  "product_id": 66,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 68,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 16-hour oil control."
+ },
+ {
+  "product_id": 68,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 68,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: medium to full coverage."
+ },
+ {
+  "product_id": 68,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF35 PA+++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 69,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Concealer."
+ },
+ {
+  "product_id": 69,
+  "concern_id": 9,
+  "relevance": 2,
+  "basis": "site_category",
+  "rationale_en": "Covers under-eye darkness cosmetically."
+ },
+ {
+  "product_id": 70,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 16-hour oil control."
+ },
+ {
+  "product_id": 70,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 70,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: medium to full coverage."
+ },
+ {
+  "product_id": 70,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF35 PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 81,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 85,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Concealer."
+ },
+ {
+  "product_id": 85,
+  "concern_id": 9,
+  "relevance": 2,
+  "basis": "site_category",
+  "rationale_en": "Covers under-eye darkness cosmetically."
+ },
+ {
+  "product_id": 86,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Concealer."
+ },
+ {
+  "product_id": 86,
+  "concern_id": 9,
+  "relevance": 2,
+  "basis": "site_category",
+  "rationale_en": "Covers under-eye darkness cosmetically."
+ },
+ {
+  "product_id": 87,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 16-hour oil control."
+ },
+ {
+  "product_id": 87,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 88,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 89,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 92,
+  "concern_id": 18,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Matte-finish positioning."
+ },
+ {
+  "product_id": 92,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 96,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 12-hour oil control."
+ },
+ {
+  "product_id": 96,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 96,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: sheer coverage."
+ },
+ {
+  "product_id": 97,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 99,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 106,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 16-hour oil control."
+ },
+ {
+  "product_id": 106,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 106,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: sheer coverage."
+ },
+ {
+  "product_id": 106,
+  "concern_id": 4,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "SASI Acne Sol line is positioned for blemish-prone skin."
+ },
+ {
+  "product_id": 108,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 112,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 115,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 119,
+  "concern_id": 18,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Matte-finish positioning."
+ },
+ {
+  "product_id": 119,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 119,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF35 PA+++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 124,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 24-hour oil control."
+ },
+ {
+  "product_id": 124,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 124,
+  "concern_id": 20,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: medium coverage."
+ },
+ {
+  "product_id": 124,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF50+ PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 125,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 125,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 125,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: full coverage."
+ },
+ {
+  "product_id": 125,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF50+ PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 126,
+  "concern_id": 20,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: medium coverage."
+ },
+ {
+  "product_id": 126,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF50+ PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 130,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 16-hour oil control."
+ },
+ {
+  "product_id": 130,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 130,
+  "concern_id": 20,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: medium coverage."
+ },
+ {
+  "product_id": 130,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF50+ PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 133,
+  "concern_id": 18,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 8-hour oil control."
+ },
+ {
+  "product_id": 133,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 133,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: medium to full coverage."
+ },
+ {
+  "product_id": 133,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF50+ PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 141,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 142,
+  "concern_id": 4,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "SASI Acne Sol line is positioned for blemish-prone skin."
+ },
+ {
+  "product_id": 144,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 144,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 144,
+  "concern_id": 4,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "SASI Acne Sol line is positioned for blemish-prone skin."
+ },
+ {
+  "product_id": 146,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 12-hour oil control."
+ },
+ {
+  "product_id": 146,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 146,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: sheer coverage."
+ },
+ {
+  "product_id": 147,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 151,
+  "concern_id": 18,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Matte-finish positioning."
+ },
+ {
+  "product_id": 151,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 152,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 12-hour oil control."
+ },
+ {
+  "product_id": 152,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 157,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 24-hour oil control."
+ },
+ {
+  "product_id": 157,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 159,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 160,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 166,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 12-hour oil control."
+ },
+ {
+  "product_id": 166,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 166,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: sheer coverage."
+ },
+ {
+  "product_id": 166,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF50+ PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 167,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF35 PA+++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 168,
+  "concern_id": 19,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Concealer."
+ },
+ {
+  "product_id": 168,
+  "concern_id": 9,
+  "relevance": 2,
+  "basis": "site_category",
+  "rationale_en": "Covers under-eye darkness cosmetically."
+ },
+ {
+  "product_id": 173,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 12-hour oil control."
+ },
+ {
+  "product_id": 173,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 173,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: sheer coverage."
+ },
+ {
+  "product_id": 174,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 12-hour oil control."
+ },
+ {
+  "product_id": 174,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 174,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: sheer coverage."
+ },
+ {
+  "product_id": 175,
+  "concern_id": 20,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy: sheer coverage."
+ },
+ {
+  "product_id": 177,
+  "concern_id": 21,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Lip care."
+ },
+ {
+  "product_id": 178,
+  "concern_id": 18,
+  "relevance": 3,
+  "basis": "official_positioning",
+  "rationale_en": "Official copy claims 14-hour oil control."
+ },
+ {
+  "product_id": 178,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 178,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF35 PA++++ — a top-up, not a replacement for sunscreen."
+ },
+ {
+  "product_id": 180,
+  "concern_id": 17,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Sunscreen."
+ },
+ {
+  "product_id": 181,
+  "concern_id": 17,
+  "relevance": 3,
+  "basis": "site_category",
+  "rationale_en": "Sunscreen."
+ },
+ {
+  "product_id": 182,
+  "concern_id": 18,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Matte-finish positioning."
+ },
+ {
+  "product_id": 182,
+  "concern_id": 1,
+  "relevance": 2,
+  "basis": "official_positioning",
+  "rationale_en": "Oil-control base/powder."
+ },
+ {
+  "product_id": 185,
+  "concern_id": 17,
+  "relevance": 1,
+  "basis": "official_positioning",
+  "rationale_en": "SPF15 PA+++ — a top-up, not a replacement for sunscreen."
+ }
+]

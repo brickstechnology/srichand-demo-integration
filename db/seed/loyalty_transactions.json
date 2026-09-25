@@ -1,0 +1,1462 @@
+[
+ {
+  "id": 1,
+  "customer_id": 1,
+  "txn_type": "earn",
+  "points": 21,
+  "order_id": 1,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260913-0001",
+  "expires_on": "2027-09-13",
+  "created_at": "2026-09-13T11:00:00Z"
+ },
+ {
+  "id": 2,
+  "customer_id": 1,
+  "txn_type": "earn",
+  "points": 21,
+  "order_id": 2,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260916-0001",
+  "expires_on": "2027-09-16",
+  "created_at": "2026-09-16T15:00:00Z"
+ },
+ {
+  "id": 3,
+  "customer_id": 2,
+  "txn_type": "earn",
+  "points": 5,
+  "order_id": 3,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260907-0001",
+  "expires_on": "2027-09-07",
+  "created_at": "2026-09-07T11:00:00Z"
+ },
+ {
+  "id": 4,
+  "customer_id": 3,
+  "txn_type": "earn",
+  "points": 29,
+  "order_id": 4,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260831-0001",
+  "expires_on": "2027-08-31",
+  "created_at": "2026-08-31T11:00:00Z"
+ },
+ {
+  "id": 5,
+  "customer_id": 5,
+  "txn_type": "earn",
+  "points": 48,
+  "order_id": 6,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260615-0001",
+  "expires_on": "2027-06-15",
+  "created_at": "2026-06-15T11:00:00Z"
+ },
+ {
+  "id": 6,
+  "customer_id": 5,
+  "txn_type": "earn",
+  "points": 55,
+  "order_id": 7,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260719-0001",
+  "expires_on": "2027-07-19",
+  "created_at": "2026-07-19T11:00:00Z"
+ },
+ {
+  "id": 7,
+  "customer_id": 5,
+  "txn_type": "earn",
+  "points": 56,
+  "order_id": 8,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260819-0001",
+  "expires_on": "2027-08-19",
+  "created_at": "2026-08-19T11:00:00Z"
+ },
+ {
+  "id": 8,
+  "customer_id": 5,
+  "txn_type": "earn",
+  "points": 20,
+  "order_id": 9,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260915-0001",
+  "expires_on": "2027-09-15",
+  "created_at": "2026-09-15T11:00:00Z"
+ },
+ {
+  "id": 9,
+  "customer_id": 5,
+  "txn_type": "redeem",
+  "points": -100,
+  "order_id": 9,
+  "description": "ใช้แต้มเป็นส่วนลด",
+  "expires_on": null,
+  "created_at": "2026-09-15T11:00:00Z"
+ },
+ {
+  "id": 10,
+  "customer_id": 6,
+  "txn_type": "earn",
+  "points": 18,
+  "order_id": 10,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260810-0001",
+  "expires_on": "2027-08-10",
+  "created_at": "2026-08-10T11:00:00Z"
+ },
+ {
+  "id": 11,
+  "customer_id": 6,
+  "txn_type": "earn",
+  "points": 38,
+  "order_id": 11,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260909-0001",
+  "expires_on": "2027-09-09",
+  "created_at": "2026-09-09T11:00:00Z"
+ },
+ {
+  "id": 12,
+  "customer_id": 3,
+  "txn_type": "earn",
+  "points": 32,
+  "order_id": 12,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260814-0001",
+  "expires_on": "2027-08-14",
+  "created_at": "2026-08-14T19:22:17Z"
+ },
+ {
+  "id": 13,
+  "customer_id": 35,
+  "txn_type": "earn",
+  "points": 15,
+  "order_id": 13,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260818-0001",
+  "expires_on": "2027-08-18",
+  "created_at": "2026-08-18T02:02:38Z"
+ },
+ {
+  "id": 14,
+  "customer_id": 7,
+  "txn_type": "earn",
+  "points": 4,
+  "order_id": 14,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260809-0001",
+  "expires_on": "2027-08-09",
+  "created_at": "2026-08-09T03:09:49Z"
+ },
+ {
+  "id": 15,
+  "customer_id": 28,
+  "txn_type": "earn",
+  "points": 54,
+  "order_id": 15,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260818-0002",
+  "expires_on": "2027-08-18",
+  "created_at": "2026-08-18T01:23:16Z"
+ },
+ {
+  "id": 16,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 44,
+  "order_id": 16,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260913-0002",
+  "expires_on": "2027-09-13",
+  "created_at": "2026-09-13T03:41:17Z"
+ },
+ {
+  "id": 17,
+  "customer_id": 35,
+  "txn_type": "earn",
+  "points": 49,
+  "order_id": 17,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260819-0002",
+  "expires_on": "2027-08-19",
+  "created_at": "2026-08-19T21:05:15Z"
+ },
+ {
+  "id": 18,
+  "customer_id": 24,
+  "txn_type": "earn",
+  "points": 30,
+  "order_id": 18,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260618-0001",
+  "expires_on": "2027-06-18",
+  "created_at": "2026-06-18T08:59:17Z"
+ },
+ {
+  "id": 19,
+  "customer_id": 37,
+  "txn_type": "earn",
+  "points": 31,
+  "order_id": 19,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260817-0001",
+  "expires_on": "2027-08-17",
+  "created_at": "2026-08-17T14:55:27Z"
+ },
+ {
+  "id": 20,
+  "customer_id": 8,
+  "txn_type": "earn",
+  "points": 8,
+  "order_id": 20,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260709-0001",
+  "expires_on": "2027-07-09",
+  "created_at": "2026-07-09T20:13:11Z"
+ },
+ {
+  "id": 21,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 27,
+  "order_id": 21,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260730-0001",
+  "expires_on": "2027-07-30",
+  "created_at": "2026-07-30T17:07:15Z"
+ },
+ {
+  "id": 22,
+  "customer_id": 3,
+  "txn_type": "earn",
+  "points": 1,
+  "order_id": 22,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260724-0001",
+  "expires_on": "2027-07-24",
+  "created_at": "2026-07-24T17:19:27Z"
+ },
+ {
+  "id": 23,
+  "customer_id": 28,
+  "txn_type": "earn",
+  "points": 14,
+  "order_id": 23,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260913-0003",
+  "expires_on": "2027-09-13",
+  "created_at": "2026-09-13T14:32:23Z"
+ },
+ {
+  "id": 24,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 9,
+  "order_id": 24,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260622-0001",
+  "expires_on": "2027-06-22",
+  "created_at": "2026-06-22T03:48:44Z"
+ },
+ {
+  "id": 25,
+  "customer_id": 19,
+  "txn_type": "earn",
+  "points": 23,
+  "order_id": 25,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260530-0001",
+  "expires_on": "2027-05-30",
+  "created_at": "2026-05-30T20:03:22Z"
+ },
+ {
+  "id": 26,
+  "customer_id": 19,
+  "txn_type": "earn",
+  "points": 28,
+  "order_id": 26,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260721-0001",
+  "expires_on": "2027-07-21",
+  "created_at": "2026-07-21T00:24:25Z"
+ },
+ {
+  "id": 27,
+  "customer_id": 1,
+  "txn_type": "earn",
+  "points": 18,
+  "order_id": 27,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260801-0001",
+  "expires_on": "2027-08-01",
+  "created_at": "2026-08-01T21:19:52Z"
+ },
+ {
+  "id": 28,
+  "customer_id": 20,
+  "txn_type": "earn",
+  "points": 8,
+  "order_id": 28,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260905-0001",
+  "expires_on": "2027-09-05",
+  "created_at": "2026-09-05T13:00:36Z"
+ },
+ {
+  "id": 29,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 28,
+  "order_id": 29,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260702-0001",
+  "expires_on": "2027-07-02",
+  "created_at": "2026-07-02T01:11:19Z"
+ },
+ {
+  "id": 30,
+  "customer_id": 9,
+  "txn_type": "earn",
+  "points": 10,
+  "order_id": 30,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260712-0001",
+  "expires_on": "2027-07-12",
+  "created_at": "2026-07-12T16:41:30Z"
+ },
+ {
+  "id": 31,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 25,
+  "order_id": 31,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260723-0001",
+  "expires_on": "2027-07-23",
+  "created_at": "2026-07-23T12:41:52Z"
+ },
+ {
+  "id": 32,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 26,
+  "order_id": 32,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260804-0001",
+  "expires_on": "2027-08-04",
+  "created_at": "2026-08-04T13:21:03Z"
+ },
+ {
+  "id": 33,
+  "customer_id": 9,
+  "txn_type": "earn",
+  "points": 31,
+  "order_id": 33,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260701-0001",
+  "expires_on": "2027-07-01",
+  "created_at": "2026-07-01T23:04:14Z"
+ },
+ {
+  "id": 34,
+  "customer_id": 9,
+  "txn_type": "earn",
+  "points": 31,
+  "order_id": 34,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260804-0002",
+  "expires_on": "2027-08-04",
+  "created_at": "2026-08-04T04:13:31Z"
+ },
+ {
+  "id": 35,
+  "customer_id": 29,
+  "txn_type": "earn",
+  "points": 26,
+  "order_id": 35,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260620-0001",
+  "expires_on": "2027-06-20",
+  "created_at": "2026-06-20T04:00:51Z"
+ },
+ {
+  "id": 36,
+  "customer_id": 18,
+  "txn_type": "earn",
+  "points": 5,
+  "order_id": 36,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260826-0001",
+  "expires_on": "2027-08-26",
+  "created_at": "2026-08-26T16:14:52Z"
+ },
+ {
+  "id": 37,
+  "customer_id": 8,
+  "txn_type": "earn",
+  "points": 42,
+  "order_id": 37,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260625-0001",
+  "expires_on": "2027-06-25",
+  "created_at": "2026-06-25T14:53:31Z"
+ },
+ {
+  "id": 38,
+  "customer_id": 8,
+  "txn_type": "earn",
+  "points": 17,
+  "order_id": 38,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260807-0001",
+  "expires_on": "2027-08-07",
+  "created_at": "2026-08-07T13:02:48Z"
+ },
+ {
+  "id": 39,
+  "customer_id": 18,
+  "txn_type": "earn",
+  "points": 2,
+  "order_id": 39,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260823-0001",
+  "expires_on": "2027-08-23",
+  "created_at": "2026-08-23T02:34:56Z"
+ },
+ {
+  "id": 40,
+  "customer_id": 23,
+  "txn_type": "earn",
+  "points": 1,
+  "order_id": 40,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260823-0002",
+  "expires_on": "2027-08-23",
+  "created_at": "2026-08-23T15:15:50Z"
+ },
+ {
+  "id": 41,
+  "customer_id": 33,
+  "txn_type": "earn",
+  "points": 7,
+  "order_id": 41,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260624-0001",
+  "expires_on": "2027-06-24",
+  "created_at": "2026-06-24T17:52:38Z"
+ },
+ {
+  "id": 42,
+  "customer_id": 3,
+  "txn_type": "earn",
+  "points": 24,
+  "order_id": 42,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260609-0001",
+  "expires_on": "2027-06-09",
+  "created_at": "2026-06-09T14:30:54Z"
+ },
+ {
+  "id": 43,
+  "customer_id": 2,
+  "txn_type": "earn",
+  "points": 51,
+  "order_id": 43,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260705-0001",
+  "expires_on": "2027-07-05",
+  "created_at": "2026-07-05T08:05:55Z"
+ },
+ {
+  "id": 44,
+  "customer_id": 3,
+  "txn_type": "earn",
+  "points": 18,
+  "order_id": 44,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260716-0001",
+  "expires_on": "2027-07-16",
+  "created_at": "2026-07-16T19:00:15Z"
+ },
+ {
+  "id": 45,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 32,
+  "order_id": 45,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260905-0002",
+  "expires_on": "2027-09-05",
+  "created_at": "2026-09-05T08:38:17Z"
+ },
+ {
+  "id": 46,
+  "customer_id": 3,
+  "txn_type": "earn",
+  "points": 9,
+  "order_id": 46,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260911-0001",
+  "expires_on": "2027-09-11",
+  "created_at": "2026-09-11T17:18:30Z"
+ },
+ {
+  "id": 47,
+  "customer_id": 16,
+  "txn_type": "earn",
+  "points": 35,
+  "order_id": 47,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260828-0001",
+  "expires_on": "2027-08-28",
+  "created_at": "2026-08-28T19:57:46Z"
+ },
+ {
+  "id": 48,
+  "customer_id": 8,
+  "txn_type": "earn",
+  "points": 28,
+  "order_id": 49,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260729-0001",
+  "expires_on": "2027-07-29",
+  "created_at": "2026-07-29T02:06:03Z"
+ },
+ {
+  "id": 49,
+  "customer_id": 5,
+  "txn_type": "earn",
+  "points": 1,
+  "order_id": 50,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260904-0001",
+  "expires_on": "2027-09-04",
+  "created_at": "2026-09-04T16:25:14Z"
+ },
+ {
+  "id": 50,
+  "customer_id": 31,
+  "txn_type": "earn",
+  "points": 18,
+  "order_id": 51,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260811-0001",
+  "expires_on": "2027-08-11",
+  "created_at": "2026-08-11T01:20:28Z"
+ },
+ {
+  "id": 51,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 22,
+  "order_id": 52,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260824-0001",
+  "expires_on": "2027-08-24",
+  "created_at": "2026-08-24T04:00:39Z"
+ },
+ {
+  "id": 52,
+  "customer_id": 31,
+  "txn_type": "earn",
+  "points": 56,
+  "order_id": 53,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260624-0002",
+  "expires_on": "2027-06-24",
+  "created_at": "2026-06-24T04:06:23Z"
+ },
+ {
+  "id": 53,
+  "customer_id": 38,
+  "txn_type": "earn",
+  "points": 10,
+  "order_id": 54,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260713-0001",
+  "expires_on": "2027-07-13",
+  "created_at": "2026-07-13T10:17:05Z"
+ },
+ {
+  "id": 54,
+  "customer_id": 15,
+  "txn_type": "earn",
+  "points": 8,
+  "order_id": 55,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260724-0002",
+  "expires_on": "2027-07-24",
+  "created_at": "2026-07-24T08:06:21Z"
+ },
+ {
+  "id": 55,
+  "customer_id": 9,
+  "txn_type": "earn",
+  "points": 29,
+  "order_id": 56,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260727-0001",
+  "expires_on": "2027-07-27",
+  "created_at": "2026-07-27T17:01:44Z"
+ },
+ {
+  "id": 56,
+  "customer_id": 31,
+  "txn_type": "earn",
+  "points": 17,
+  "order_id": 57,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260726-0001",
+  "expires_on": "2027-07-26",
+  "created_at": "2026-07-26T19:50:47Z"
+ },
+ {
+  "id": 57,
+  "customer_id": 5,
+  "txn_type": "earn",
+  "points": 24,
+  "order_id": 58,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260810-0002",
+  "expires_on": "2027-08-10",
+  "created_at": "2026-08-10T18:59:44Z"
+ },
+ {
+  "id": 58,
+  "customer_id": 10,
+  "txn_type": "earn",
+  "points": 32,
+  "order_id": 59,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260723-0002",
+  "expires_on": "2027-07-23",
+  "created_at": "2026-07-23T15:29:04Z"
+ },
+ {
+  "id": 59,
+  "customer_id": 18,
+  "txn_type": "earn",
+  "points": 13,
+  "order_id": 60,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260704-0001",
+  "expires_on": "2027-07-04",
+  "created_at": "2026-07-04T02:06:41Z"
+ },
+ {
+  "id": 60,
+  "customer_id": 39,
+  "txn_type": "earn",
+  "points": 11,
+  "order_id": 61,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260823-0003",
+  "expires_on": "2027-08-23",
+  "created_at": "2026-08-23T14:43:21Z"
+ },
+ {
+  "id": 61,
+  "customer_id": 9,
+  "txn_type": "earn",
+  "points": 45,
+  "order_id": 62,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260725-0001",
+  "expires_on": "2027-07-25",
+  "created_at": "2026-07-25T08:58:47Z"
+ },
+ {
+  "id": 62,
+  "customer_id": 3,
+  "txn_type": "earn",
+  "points": 40,
+  "order_id": 63,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260713-0002",
+  "expires_on": "2027-07-13",
+  "created_at": "2026-07-13T04:19:10Z"
+ },
+ {
+  "id": 63,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 28,
+  "order_id": 64,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260802-0001",
+  "expires_on": "2027-08-02",
+  "created_at": "2026-08-02T10:41:49Z"
+ },
+ {
+  "id": 64,
+  "customer_id": 6,
+  "txn_type": "earn",
+  "points": 36,
+  "order_id": 65,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260526-0001",
+  "expires_on": "2027-05-26",
+  "created_at": "2026-05-26T09:58:04Z"
+ },
+ {
+  "id": 65,
+  "customer_id": 23,
+  "txn_type": "earn",
+  "points": 50,
+  "order_id": 66,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260715-0001",
+  "expires_on": "2027-07-15",
+  "created_at": "2026-07-15T13:56:52Z"
+ },
+ {
+  "id": 66,
+  "customer_id": 7,
+  "txn_type": "earn",
+  "points": 14,
+  "order_id": 67,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260630-0001",
+  "expires_on": "2027-06-30",
+  "created_at": "2026-06-30T06:47:44Z"
+ },
+ {
+  "id": 67,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 51,
+  "order_id": 68,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260819-0003",
+  "expires_on": "2027-08-19",
+  "created_at": "2026-08-19T20:56:01Z"
+ },
+ {
+  "id": 68,
+  "customer_id": 7,
+  "txn_type": "earn",
+  "points": 1,
+  "order_id": 69,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260907-0002",
+  "expires_on": "2027-09-07",
+  "created_at": "2026-09-07T20:19:49Z"
+ },
+ {
+  "id": 69,
+  "customer_id": 1,
+  "txn_type": "earn",
+  "points": 16,
+  "order_id": 70,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260707-0001",
+  "expires_on": "2027-07-07",
+  "created_at": "2026-07-07T22:20:18Z"
+ },
+ {
+  "id": 70,
+  "customer_id": 11,
+  "txn_type": "earn",
+  "points": 3,
+  "order_id": 72,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260804-0003",
+  "expires_on": "2027-08-04",
+  "created_at": "2026-08-04T08:12:13Z"
+ },
+ {
+  "id": 71,
+  "customer_id": 31,
+  "txn_type": "earn",
+  "points": 18,
+  "order_id": 73,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260716-0003",
+  "expires_on": "2027-07-16",
+  "created_at": "2026-07-16T22:14:04Z"
+ },
+ {
+  "id": 72,
+  "customer_id": 36,
+  "txn_type": "earn",
+  "points": 32,
+  "order_id": 74,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260817-0002",
+  "expires_on": "2027-08-17",
+  "created_at": "2026-08-17T13:38:10Z"
+ },
+ {
+  "id": 73,
+  "customer_id": 6,
+  "txn_type": "earn",
+  "points": 37,
+  "order_id": 75,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260529-0001",
+  "expires_on": "2027-05-29",
+  "created_at": "2026-05-29T11:29:07Z"
+ },
+ {
+  "id": 74,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 16,
+  "order_id": 76,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260707-0002",
+  "expires_on": "2027-07-07",
+  "created_at": "2026-07-07T23:11:25Z"
+ },
+ {
+  "id": 75,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 2,
+  "order_id": 77,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260704-0002",
+  "expires_on": "2027-07-04",
+  "created_at": "2026-07-04T21:30:54Z"
+ },
+ {
+  "id": 76,
+  "customer_id": 32,
+  "txn_type": "earn",
+  "points": 86,
+  "order_id": 78,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260725-0002",
+  "expires_on": "2027-07-25",
+  "created_at": "2026-07-25T00:32:47Z"
+ },
+ {
+  "id": 77,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 10,
+  "order_id": 79,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260722-0001",
+  "expires_on": "2027-07-22",
+  "created_at": "2026-07-22T11:09:39Z"
+ },
+ {
+  "id": 78,
+  "customer_id": 1,
+  "txn_type": "earn",
+  "points": 58,
+  "order_id": 80,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260608-0001",
+  "expires_on": "2027-06-08",
+  "created_at": "2026-06-08T09:22:25Z"
+ },
+ {
+  "id": 79,
+  "customer_id": 11,
+  "txn_type": "earn",
+  "points": 12,
+  "order_id": 81,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260727-0002",
+  "expires_on": "2027-07-27",
+  "created_at": "2026-07-27T07:29:35Z"
+ },
+ {
+  "id": 80,
+  "customer_id": 38,
+  "txn_type": "earn",
+  "points": 18,
+  "order_id": 82,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260823-0004",
+  "expires_on": "2027-08-23",
+  "created_at": "2026-08-23T04:07:14Z"
+ },
+ {
+  "id": 81,
+  "customer_id": 28,
+  "txn_type": "earn",
+  "points": 11,
+  "order_id": 83,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260904-0002",
+  "expires_on": "2027-09-04",
+  "created_at": "2026-09-04T17:52:31Z"
+ },
+ {
+  "id": 82,
+  "customer_id": 34,
+  "txn_type": "earn",
+  "points": 3,
+  "order_id": 84,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260911-0002",
+  "expires_on": "2027-09-11",
+  "created_at": "2026-09-11T13:22:55Z"
+ },
+ {
+  "id": 83,
+  "customer_id": 5,
+  "txn_type": "earn",
+  "points": 26,
+  "order_id": 85,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260812-0001",
+  "expires_on": "2027-08-12",
+  "created_at": "2026-08-12T18:32:04Z"
+ },
+ {
+  "id": 84,
+  "customer_id": 31,
+  "txn_type": "earn",
+  "points": 15,
+  "order_id": 88,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260810-0003",
+  "expires_on": "2027-08-10",
+  "created_at": "2026-08-10T17:40:04Z"
+ },
+ {
+  "id": 85,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 28,
+  "order_id": 89,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260705-0002",
+  "expires_on": "2027-07-05",
+  "created_at": "2026-07-05T15:32:43Z"
+ },
+ {
+  "id": 86,
+  "customer_id": 33,
+  "txn_type": "earn",
+  "points": 11,
+  "order_id": 90,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260628-0001",
+  "expires_on": "2027-06-28",
+  "created_at": "2026-06-28T19:25:03Z"
+ },
+ {
+  "id": 87,
+  "customer_id": 36,
+  "txn_type": "earn",
+  "points": 37,
+  "order_id": 91,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260731-0001",
+  "expires_on": "2027-07-31",
+  "created_at": "2026-07-31T10:15:21Z"
+ },
+ {
+  "id": 88,
+  "customer_id": 26,
+  "txn_type": "earn",
+  "points": 10,
+  "order_id": 92,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260830-0001",
+  "expires_on": "2027-08-30",
+  "created_at": "2026-08-30T12:58:29Z"
+ },
+ {
+  "id": 89,
+  "customer_id": 6,
+  "txn_type": "earn",
+  "points": 3,
+  "order_id": 93,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260715-0002",
+  "expires_on": "2027-07-15",
+  "created_at": "2026-07-15T19:30:06Z"
+ },
+ {
+  "id": 90,
+  "customer_id": 17,
+  "txn_type": "earn",
+  "points": 35,
+  "order_id": 94,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260608-0002",
+  "expires_on": "2027-06-08",
+  "created_at": "2026-06-08T04:02:20Z"
+ },
+ {
+  "id": 91,
+  "customer_id": 15,
+  "txn_type": "earn",
+  "points": 14,
+  "order_id": 95,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260905-0003",
+  "expires_on": "2027-09-05",
+  "created_at": "2026-09-05T18:42:58Z"
+ },
+ {
+  "id": 92,
+  "customer_id": 28,
+  "txn_type": "earn",
+  "points": 73,
+  "order_id": 96,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260815-0001",
+  "expires_on": "2027-08-15",
+  "created_at": "2026-08-15T10:40:27Z"
+ },
+ {
+  "id": 93,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 5,
+  "order_id": 98,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260718-0001",
+  "expires_on": "2027-07-18",
+  "created_at": "2026-07-18T02:02:02Z"
+ },
+ {
+  "id": 94,
+  "customer_id": 19,
+  "txn_type": "earn",
+  "points": 10,
+  "order_id": 99,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260803-0001",
+  "expires_on": "2027-08-03",
+  "created_at": "2026-08-03T04:10:15Z"
+ },
+ {
+  "id": 95,
+  "customer_id": 20,
+  "txn_type": "earn",
+  "points": 6,
+  "order_id": 100,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260828-0003",
+  "expires_on": "2027-08-28",
+  "created_at": "2026-08-28T08:19:08Z"
+ },
+ {
+  "id": 96,
+  "customer_id": 30,
+  "txn_type": "earn",
+  "points": 5,
+  "order_id": 101,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260831-0002",
+  "expires_on": "2027-08-31",
+  "created_at": "2026-08-31T20:59:09Z"
+ },
+ {
+  "id": 97,
+  "customer_id": 23,
+  "txn_type": "earn",
+  "points": 22,
+  "order_id": 102,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260715-0003",
+  "expires_on": "2027-07-15",
+  "created_at": "2026-07-15T18:34:39Z"
+ },
+ {
+  "id": 98,
+  "customer_id": 13,
+  "txn_type": "earn",
+  "points": 9,
+  "order_id": 103,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260716-0004",
+  "expires_on": "2027-07-16",
+  "created_at": "2026-07-16T07:09:40Z"
+ },
+ {
+  "id": 99,
+  "customer_id": 40,
+  "txn_type": "earn",
+  "points": 12,
+  "order_id": 104,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260830-0002",
+  "expires_on": "2027-08-30",
+  "created_at": "2026-08-30T15:39:35Z"
+ },
+ {
+  "id": 100,
+  "customer_id": 11,
+  "txn_type": "earn",
+  "points": 26,
+  "order_id": 106,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260624-0003",
+  "expires_on": "2027-06-24",
+  "created_at": "2026-06-24T15:27:53Z"
+ },
+ {
+  "id": 101,
+  "customer_id": 23,
+  "txn_type": "earn",
+  "points": 11,
+  "order_id": 107,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260906-0001",
+  "expires_on": "2027-09-06",
+  "created_at": "2026-09-06T13:07:36Z"
+ },
+ {
+  "id": 102,
+  "customer_id": 3,
+  "txn_type": "earn",
+  "points": 13,
+  "order_id": 108,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260912-0001",
+  "expires_on": "2027-09-12",
+  "created_at": "2026-09-12T23:21:40Z"
+ },
+ {
+  "id": 103,
+  "customer_id": 6,
+  "txn_type": "earn",
+  "points": 30,
+  "order_id": 109,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260731-0002",
+  "expires_on": "2027-07-31",
+  "created_at": "2026-07-31T11:13:59Z"
+ },
+ {
+  "id": 104,
+  "customer_id": 13,
+  "txn_type": "earn",
+  "points": 65,
+  "order_id": 110,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260713-0003",
+  "expires_on": "2027-07-13",
+  "created_at": "2026-07-13T08:45:41Z"
+ },
+ {
+  "id": 105,
+  "customer_id": 7,
+  "txn_type": "earn",
+  "points": 55,
+  "order_id": 111,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260904-0003",
+  "expires_on": "2027-09-04",
+  "created_at": "2026-09-04T01:44:35Z"
+ },
+ {
+  "id": 106,
+  "customer_id": 7,
+  "txn_type": "earn",
+  "points": 9,
+  "order_id": 112,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260707-0003",
+  "expires_on": "2027-07-07",
+  "created_at": "2026-07-07T07:45:55Z"
+ },
+ {
+  "id": 107,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 27,
+  "order_id": 113,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260815-0002",
+  "expires_on": "2027-08-15",
+  "created_at": "2026-08-15T12:11:09Z"
+ },
+ {
+  "id": 108,
+  "customer_id": 32,
+  "txn_type": "earn",
+  "points": 21,
+  "order_id": 114,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260830-0003",
+  "expires_on": "2027-08-30",
+  "created_at": "2026-08-30T18:01:02Z"
+ },
+ {
+  "id": 109,
+  "customer_id": 2,
+  "txn_type": "earn",
+  "points": 16,
+  "order_id": 115,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260811-0002",
+  "expires_on": "2027-08-11",
+  "created_at": "2026-08-11T10:51:59Z"
+ },
+ {
+  "id": 110,
+  "customer_id": 10,
+  "txn_type": "earn",
+  "points": 11,
+  "order_id": 116,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260607-0001",
+  "expires_on": "2027-06-07",
+  "created_at": "2026-06-07T12:26:53Z"
+ },
+ {
+  "id": 111,
+  "customer_id": 5,
+  "txn_type": "earn",
+  "points": 168,
+  "order_id": 117,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260731-0003",
+  "expires_on": "2027-07-31",
+  "created_at": "2026-07-31T02:24:58Z"
+ },
+ {
+  "id": 112,
+  "customer_id": 12,
+  "txn_type": "earn",
+  "points": 21,
+  "order_id": 118,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260805-0001",
+  "expires_on": "2027-08-05",
+  "created_at": "2026-08-05T22:17:59Z"
+ },
+ {
+  "id": 113,
+  "customer_id": 7,
+  "txn_type": "earn",
+  "points": 17,
+  "order_id": 119,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260802-0002",
+  "expires_on": "2027-08-02",
+  "created_at": "2026-08-02T10:56:28Z"
+ },
+ {
+  "id": 114,
+  "customer_id": 10,
+  "txn_type": "earn",
+  "points": 4,
+  "order_id": 120,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260908-0001",
+  "expires_on": "2027-09-08",
+  "created_at": "2026-09-08T02:50:54Z"
+ },
+ {
+  "id": 115,
+  "customer_id": 10,
+  "txn_type": "earn",
+  "points": 12,
+  "order_id": 121,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260821-0001",
+  "expires_on": "2027-08-21",
+  "created_at": "2026-08-21T16:44:59Z"
+ },
+ {
+  "id": 116,
+  "customer_id": 31,
+  "txn_type": "earn",
+  "points": 3,
+  "order_id": 122,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260804-0004",
+  "expires_on": "2027-08-04",
+  "created_at": "2026-08-04T10:11:36Z"
+ },
+ {
+  "id": 117,
+  "customer_id": 23,
+  "txn_type": "earn",
+  "points": 31,
+  "order_id": 123,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260903-0001",
+  "expires_on": "2027-09-03",
+  "created_at": "2026-09-03T14:50:16Z"
+ },
+ {
+  "id": 118,
+  "customer_id": 10,
+  "txn_type": "earn",
+  "points": 44,
+  "order_id": 124,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260828-0004",
+  "expires_on": "2027-08-28",
+  "created_at": "2026-08-28T15:53:01Z"
+ },
+ {
+  "id": 119,
+  "customer_id": 7,
+  "txn_type": "earn",
+  "points": 15,
+  "order_id": 125,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260713-0004",
+  "expires_on": "2027-07-13",
+  "created_at": "2026-07-13T11:09:25Z"
+ },
+ {
+  "id": 120,
+  "customer_id": 2,
+  "txn_type": "earn",
+  "points": 58,
+  "order_id": 126,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260901-0001",
+  "expires_on": "2027-09-01",
+  "created_at": "2026-09-01T01:08:30Z"
+ },
+ {
+  "id": 121,
+  "customer_id": 34,
+  "txn_type": "earn",
+  "points": 23,
+  "order_id": 127,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260804-0005",
+  "expires_on": "2027-08-04",
+  "created_at": "2026-08-04T22:30:11Z"
+ },
+ {
+  "id": 122,
+  "customer_id": 36,
+  "txn_type": "earn",
+  "points": 33,
+  "order_id": 128,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260804-0006",
+  "expires_on": "2027-08-04",
+  "created_at": "2026-08-04T15:16:26Z"
+ },
+ {
+  "id": 123,
+  "customer_id": 15,
+  "txn_type": "earn",
+  "points": 14,
+  "order_id": 129,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260816-0001",
+  "expires_on": "2027-08-16",
+  "created_at": "2026-08-16T22:14:47Z"
+ },
+ {
+  "id": 124,
+  "customer_id": 8,
+  "txn_type": "earn",
+  "points": 47,
+  "order_id": 130,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260627-0001",
+  "expires_on": "2027-06-27",
+  "created_at": "2026-06-27T01:23:42Z"
+ },
+ {
+  "id": 125,
+  "customer_id": 33,
+  "txn_type": "earn",
+  "points": 30,
+  "order_id": 131,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260818-0003",
+  "expires_on": "2027-08-18",
+  "created_at": "2026-08-18T01:12:48Z"
+ },
+ {
+  "id": 126,
+  "customer_id": 28,
+  "txn_type": "earn",
+  "points": 22,
+  "order_id": 132,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260829-0001",
+  "expires_on": "2027-08-29",
+  "created_at": "2026-08-29T20:42:03Z"
+ },
+ {
+  "id": 127,
+  "customer_id": 26,
+  "txn_type": "earn",
+  "points": 10,
+  "order_id": 133,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260716-0005",
+  "expires_on": "2027-07-16",
+  "created_at": "2026-07-16T03:39:26Z"
+ },
+ {
+  "id": 128,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 17,
+  "order_id": 134,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260712-0002",
+  "expires_on": "2027-07-12",
+  "created_at": "2026-07-12T14:05:17Z"
+ },
+ {
+  "id": 129,
+  "customer_id": 15,
+  "txn_type": "earn",
+  "points": 20,
+  "order_id": 135,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260805-0002",
+  "expires_on": "2027-08-05",
+  "created_at": "2026-08-05T23:15:20Z"
+ },
+ {
+  "id": 130,
+  "customer_id": 29,
+  "txn_type": "earn",
+  "points": 12,
+  "order_id": 136,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260606-0001",
+  "expires_on": "2027-06-06",
+  "created_at": "2026-06-06T21:58:23Z"
+ },
+ {
+  "id": 131,
+  "customer_id": 24,
+  "txn_type": "earn",
+  "points": 8,
+  "order_id": 137,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260708-0001",
+  "expires_on": "2027-07-08",
+  "created_at": "2026-07-08T00:27:45Z"
+ },
+ {
+  "id": 132,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 8,
+  "order_id": 138,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260821-0002",
+  "expires_on": "2027-08-21",
+  "created_at": "2026-08-21T05:46:50Z"
+ },
+ {
+  "id": 133,
+  "customer_id": 8,
+  "txn_type": "earn",
+  "points": 21,
+  "order_id": 139,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260808-0001",
+  "expires_on": "2027-08-08",
+  "created_at": "2026-08-08T00:55:04Z"
+ },
+ {
+  "id": 134,
+  "customer_id": 9,
+  "txn_type": "earn",
+  "points": 7,
+  "order_id": 140,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260818-0004",
+  "expires_on": "2027-08-18",
+  "created_at": "2026-08-18T01:09:26Z"
+ },
+ {
+  "id": 135,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 32,
+  "order_id": 141,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260704-0003",
+  "expires_on": "2027-07-04",
+  "created_at": "2026-07-04T17:50:02Z"
+ },
+ {
+  "id": 136,
+  "customer_id": 4,
+  "txn_type": "earn",
+  "points": 8,
+  "order_id": 142,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260826-0002",
+  "expires_on": "2027-08-26",
+  "created_at": "2026-08-26T01:47:12Z"
+ },
+ {
+  "id": 137,
+  "customer_id": 15,
+  "txn_type": "earn",
+  "points": 22,
+  "order_id": 143,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260811-0003",
+  "expires_on": "2027-08-11",
+  "created_at": "2026-08-11T01:18:27Z"
+ },
+ {
+  "id": 138,
+  "customer_id": 11,
+  "txn_type": "earn",
+  "points": 27,
+  "order_id": 144,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260613-0001",
+  "expires_on": "2027-06-13",
+  "created_at": "2026-06-13T02:40:17Z"
+ },
+ {
+  "id": 139,
+  "customer_id": 24,
+  "txn_type": "earn",
+  "points": 6,
+  "order_id": 145,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260902-0001",
+  "expires_on": "2027-09-02",
+  "created_at": "2026-09-02T05:25:50Z"
+ },
+ {
+  "id": 140,
+  "customer_id": 32,
+  "txn_type": "earn",
+  "points": 14,
+  "order_id": 146,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260619-0001",
+  "expires_on": "2027-06-19",
+  "created_at": "2026-06-19T04:17:35Z"
+ },
+ {
+  "id": 141,
+  "customer_id": 10,
+  "txn_type": "earn",
+  "points": 7,
+  "order_id": 147,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260703-0001",
+  "expires_on": "2027-07-03",
+  "created_at": "2026-07-03T16:34:34Z"
+ },
+ {
+  "id": 142,
+  "customer_id": 29,
+  "txn_type": "earn",
+  "points": 18,
+  "order_id": 148,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260821-0003",
+  "expires_on": "2027-08-21",
+  "created_at": "2026-08-21T03:15:08Z"
+ },
+ {
+  "id": 143,
+  "customer_id": 10,
+  "txn_type": "earn",
+  "points": 14,
+  "order_id": 149,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260811-0004",
+  "expires_on": "2027-08-11",
+  "created_at": "2026-08-11T02:23:00Z"
+ },
+ {
+  "id": 144,
+  "customer_id": 41,
+  "txn_type": "earn",
+  "points": 14,
+  "order_id": 151,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260710-0001",
+  "expires_on": "2027-07-10",
+  "created_at": "2026-07-10T11:00:00Z"
+ },
+ {
+  "id": 145,
+  "customer_id": 41,
+  "txn_type": "earn",
+  "points": 29,
+  "order_id": 152,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260815-0004",
+  "expires_on": "2027-08-15",
+  "created_at": "2026-08-15T11:00:00Z"
+ },
+ {
+  "id": 146,
+  "customer_id": 41,
+  "txn_type": "earn",
+  "points": 25,
+  "order_id": 153,
+  "description": "สะสมแต้มจากคำสั่งซื้อ SC-260916-0002",
+  "expires_on": "2027-09-16",
+  "created_at": "2026-09-16T11:00:00Z"
+ }
+]

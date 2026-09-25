@@ -1,0 +1,233 @@
+[
+ {
+  "id": 1,
+  "slug": "excess-sebum-shine",
+  "name_en": "Excess oil & shine",
+  "name_th": "ผิวมัน หน้ามันเงา",
+  "concern_group": "oil_pores",
+  "photo_detectable": "yes",
+  "photo_cues_en": "Specular shine on forehead, nose, medial cheeks under flash or daylight.",
+  "cosmetic_wording_th": "ช่วยควบคุมความมันส่วนเกิน ผิวแลดูไม่มันเงา",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 2,
+  "slug": "enlarged-pores",
+  "name_en": "Visible pores",
+  "name_th": "รูขุมขนกว้าง",
+  "concern_group": "oil_pores",
+  "photo_detectable": "yes",
+  "photo_cues_en": "Pore openings visible on nose / medial cheeks in raking light.",
+  "cosmetic_wording_th": "ช่วยให้รูขุมขนแลดูกระชับ เบลอรูขุมขน",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 3,
+  "slug": "blackheads-congestion",
+  "name_en": "Blackheads & congestion",
+  "name_th": "สิวเสี้ยน สิวอุดตัน",
+  "concern_group": "oil_pores",
+  "photo_detectable": "partly",
+  "photo_cues_en": "Dark dots on nose/chin; small closed bumps on forehead in raking light.",
+  "cosmetic_wording_th": "ช่วยทำความสะอาดรูขุมขน ผิวแลดูเรียบเนียนขึ้น",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 4,
+  "slug": "acne-breakouts",
+  "name_en": "Breakouts",
+  "name_th": "สิว",
+  "concern_group": "acne",
+  "photo_detectable": "yes",
+  "photo_cues_en": "Inflamed papules / pustules; count and distribution.",
+  "cosmetic_wording_th": "สูตรสำหรับผิวเป็นสิว / เหมาะสำหรับผิวที่มีแนวโน้มเป็นสิว (ห้ามใช้คำว่า รักษา ลด หรือป้องกันสิว)",
+  "refer_out_when_en": "Many inflamed, painful or cystic lesions, scarring, or no improvement after 8–12 weeks → dermatologist."
+ },
+ {
+  "id": 5,
+  "slug": "post-acne-marks",
+  "name_en": "Post-blemish marks",
+  "name_th": "รอยดำ รอยแดงจากสิว",
+  "concern_group": "acne",
+  "photo_detectable": "yes",
+  "photo_cues_en": "Flat brown or red macules where blemishes have healed.",
+  "cosmetic_wording_th": "ช่วยให้รอยดำจากสิวแลดูจางลง",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 6,
+  "slug": "dark-spots-sun",
+  "name_en": "Dark spots & sun spots",
+  "name_th": "จุดด่างดำ จุดดำแดด",
+  "concern_group": "pigment",
+  "photo_detectable": "yes",
+  "photo_cues_en": "Discrete flat brown spots on cheeks / temples.",
+  "cosmetic_wording_th": "ช่วยให้จุดด่างดำแลดูจางลง",
+  "refer_out_when_en": "A spot that changes shape/colour, bleeds or is raised → doctor."
+ },
+ {
+  "id": 7,
+  "slug": "melasma",
+  "name_en": "Melasma-type patches",
+  "name_th": "ฝ้า",
+  "concern_group": "pigment",
+  "photo_detectable": "partly",
+  "photo_cues_en": "Symmetric brown patches on cheeks, forehead, upper lip. Cannot be confirmed from a photo.",
+  "cosmetic_wording_th": "ช่วยให้จุดด่างดำแลดูจางลง ผิวแลดูกระจ่างใสสม่ำเสมอ (ผลลัพธ์ขึ้นอยู่กับแต่ละบุคคล; ห้ามอ้างว่ารักษาหรือลดฝ้า)",
+  "refer_out_when_en": "Melasma is a medical diagnosis; persistent or spreading patches → dermatologist."
+ },
+ {
+  "id": 8,
+  "slug": "dullness-uneven-tone",
+  "name_en": "Dullness & uneven tone",
+  "name_th": "ผิวหมองคล้ำ สีผิวไม่สม่ำเสมอ",
+  "concern_group": "pigment",
+  "photo_detectable": "yes",
+  "photo_cues_en": "Low luminosity, patchy tone differences between zones.",
+  "cosmetic_wording_th": "ช่วยให้ผิวแลดูกระจ่างใส สีผิวแลดูสม่ำเสมอ",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 9,
+  "slug": "under-eye-darkness",
+  "name_en": "Under-eye darkness",
+  "name_th": "ใต้ตาคล้ำ",
+  "concern_group": "pigment",
+  "photo_detectable": "partly",
+  "photo_cues_en": "Brown (pigment), blue-purple (vascular) or shadow (structural) under-eye tone.",
+  "cosmetic_wording_th": "ช่วยปกปิดรอยคล้ำใต้ตา",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 10,
+  "slug": "fine-lines-wrinkles",
+  "name_en": "Fine lines & wrinkles",
+  "name_th": "ริ้วรอย",
+  "concern_group": "ageing",
+  "photo_detectable": "yes",
+  "photo_cues_en": "Static lines at forehead, crow's feet, nasolabial area at rest.",
+  "cosmetic_wording_th": "ช่วยให้ริ้วรอยแลดูลดเลือน",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 11,
+  "slug": "loss-of-firmness",
+  "name_en": "Loss of firmness",
+  "name_th": "ผิวหย่อนคล้อย ไม่กระชับ",
+  "concern_group": "ageing",
+  "photo_detectable": "partly",
+  "photo_cues_en": "Jawline definition, mid-face descent; heavily pose-dependent.",
+  "cosmetic_wording_th": "ช่วยให้ผิวแลดูกระชับ",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 12,
+  "slug": "rough-texture",
+  "name_en": "Rough or uneven texture",
+  "name_th": "ผิวไม่เรียบเนียน",
+  "concern_group": "ageing",
+  "photo_detectable": "yes",
+  "photo_cues_en": "Surface irregularity in raking light.",
+  "cosmetic_wording_th": "ช่วยให้ผิวแลดูเรียบเนียน",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 13,
+  "slug": "dehydration",
+  "name_en": "Dehydration",
+  "name_th": "ผิวขาดน้ำ",
+  "concern_group": "hydration_barrier",
+  "photo_detectable": "partly",
+  "photo_cues_en": "Fine crepey lines, dull surface that still shows oil.",
+  "cosmetic_wording_th": "เติมความชุ่มชื้น ผิวแลดูอิ่มน้ำ",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 14,
+  "slug": "dryness",
+  "name_en": "Dryness & flaking",
+  "name_th": "ผิวแห้ง ลอกเป็นขุย",
+  "concern_group": "hydration_barrier",
+  "photo_detectable": "yes",
+  "photo_cues_en": "Visible flaking, rough matte patches.",
+  "cosmetic_wording_th": "ให้ความชุ่มชื้น ลดความแห้งกร้าน",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 15,
+  "slug": "compromised-barrier",
+  "name_en": "Weakened skin barrier",
+  "name_th": "ปราการผิวอ่อนแอ",
+  "concern_group": "hydration_barrier",
+  "photo_detectable": "no",
+  "photo_cues_en": "Not reliably visible; inferred from stinging, tightness and history of over-exfoliation.",
+  "cosmetic_wording_th": "เสริมปราการผิวให้แลดูแข็งแรง",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 16,
+  "slug": "sensitivity-redness",
+  "name_en": "Sensitivity & redness",
+  "name_th": "ผิวแพ้ง่าย ผิวแดง",
+  "concern_group": "sensitivity",
+  "photo_detectable": "partly",
+  "photo_cues_en": "Diffuse erythema on cheeks/nose. Reactivity itself is invisible — ask.",
+  "cosmetic_wording_th": "ปลอบประโลมผิว เหมาะสำหรับผิวแพ้ง่าย",
+  "refer_out_when_en": "Persistent facial redness with bumps or visible vessels may be rosacea → dermatologist."
+ },
+ {
+  "id": 17,
+  "slug": "daily-uv-protection",
+  "name_en": "Daily UV protection",
+  "name_th": "ปกป้องผิวจากแสงแดด",
+  "concern_group": "sun",
+  "photo_detectable": "no",
+  "photo_cues_en": "Everyone needs it; photo only shows accumulated damage.",
+  "cosmetic_wording_th": "ปกป้องผิวจากรังสี UVA/UVB",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 18,
+  "slug": "makeup-longevity-oil-control",
+  "name_en": "Makeup that survives heat & oil",
+  "name_th": "เมคอัพติดทน คุมมัน",
+  "concern_group": "makeup_goal",
+  "photo_detectable": "no",
+  "photo_cues_en": "Ask about midday shine and makeup breakdown.",
+  "cosmetic_wording_th": "คุมมัน ติดทน",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 19,
+  "slug": "coverage-blemishes",
+  "name_en": "Covering blemishes & marks",
+  "name_th": "ปกปิดรอยสิว จุดด่างดำ",
+  "concern_group": "makeup_goal",
+  "photo_detectable": "no",
+  "photo_cues_en": "Goal-based; ask.",
+  "cosmetic_wording_th": "ช่วยปกปิดจุดบกพร่อง ผิวแลดูเรียบเนียน",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 20,
+  "slug": "natural-everyday-base",
+  "name_en": "Natural everyday base",
+  "name_th": "งานผิวธรรมชาติ",
+  "concern_group": "makeup_goal",
+  "photo_detectable": "no",
+  "photo_cues_en": "Goal-based; ask.",
+  "cosmetic_wording_th": "งานผิวบางเบาเป็นธรรมชาติ",
+  "refer_out_when_en": null
+ },
+ {
+  "id": 21,
+  "slug": "lip-dryness",
+  "name_en": "Dry lips",
+  "name_th": "ริมฝีปากแห้ง",
+  "concern_group": "makeup_goal",
+  "photo_detectable": "partly",
+  "photo_cues_en": "Visible flaking or lines on lips.",
+  "cosmetic_wording_th": "บำรุงริมฝีปากให้ชุ่มชื้น",
+  "refer_out_when_en": null
+ }
+]

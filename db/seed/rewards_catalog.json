@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "name_th": "คูปองส่วนลด 20 บาท",
+  "name_en": "฿20 discount coupon",
+  "reward_type": "discount_coupon",
+  "points_cost": 40,
+  "variant_id": null,
+  "discount_value": 20,
+  "min_tier_id": null,
+  "is_active": 1,
+  "origin": "assumed_for_demo"
+ },
+ {
+  "id": 2,
+  "name_th": "คูปองส่วนลด 50 บาท",
+  "name_en": "฿50 discount coupon",
+  "reward_type": "discount_coupon",
+  "points_cost": 100,
+  "variant_id": null,
+  "discount_value": 50,
+  "min_tier_id": null,
+  "is_active": 1,
+  "origin": "assumed_for_demo"
+ },
+ {
+  "id": 3,
+  "name_th": "คูปองส่งฟรี",
+  "name_en": "Free shipping voucher",
+  "reward_type": "free_shipping",
+  "points_cost": 60,
+  "variant_id": null,
+  "discount_value": null,
+  "min_tier_id": null,
+  "is_active": 1,
+  "origin": "assumed_for_demo"
+ },
+ {
+  "id": 4,
+  "name_th": "แลกรับ ทรานส์ลูเซนท์ พาวเดอร์ 10 ก.",
+  "name_en": "Redeem: Translucent Powder 10 g",
+  "reward_type": "free_product",
+  "points_cost": 400,
+  "variant_id": 570,
+  "discount_value": null,
+  "min_tier_id": null,
+  "is_active": 1,
+  "origin": "assumed_for_demo"
+ }
+]

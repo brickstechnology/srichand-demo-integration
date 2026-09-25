@@ -1,0 +1,308 @@
+[
+ {
+  "table_name": "data_sources",
+  "origin": "curated_knowledge",
+  "description": "Where every fact came from.",
+  "production_source": null
+ },
+ {
+  "table_name": "data_provenance",
+  "origin": "curated_knowledge",
+  "description": "This registry.",
+  "production_source": null
+ },
+ {
+  "table_name": "brands",
+  "origin": "real_sourced",
+  "description": "Brands sold on srichand.com.",
+  "production_source": "Product master data (PIM/ERP)"
+ },
+ {
+  "table_name": "product_lines",
+  "origin": "derived",
+  "description": "Collections inferred from official product names; positioning text is a curated reading of official copy.",
+  "production_source": "PIM"
+ },
+ {
+  "table_name": "categories",
+  "origin": "derived",
+  "description": "Advisor-friendly category tree mapped from the site's own categories.",
+  "production_source": "PIM"
+ },
+ {
+  "table_name": "products",
+  "origin": "real_sourced",
+  "description": "Canonical products de-duplicated from 345 site listings. Official Thai copy verbatim; English name/summary, finish, coverage, oil-control hours are DERIVED from that copy.",
+  "production_source": "PIM"
+ },
+ {
+  "table_name": "product_variants",
+  "origin": "real_sourced",
+  "description": "Every purchasable SKU with official SKU code, list price, sale price and web stock flag at snapshot time. Shade undertone/depth are DERIVED from official shade names.",
+  "production_source": "PIM + pricing engine"
+ },
+ {
+  "table_name": "bundle_components",
+  "origin": "derived",
+  "description": "Set contents matched from official set names/descriptions by text. Verify against client BOM.",
+  "production_source": "PIM / BOM"
+ },
+ {
+  "table_name": "site_listings",
+  "origin": "real_sourced",
+  "description": "Raw snapshot of all 345 public listings and how each maps to a canonical product.",
+  "production_source": "E-commerce platform"
+ },
+ {
+  "table_name": "product_images",
+  "origin": "real_sourced",
+  "description": "Official image URLs (hot-linked, not copied).",
+  "production_source": "DAM"
+ },
+ {
+  "table_name": "product_claims",
+  "origin": "real_sourced",
+  "description": "Official claim sentences, verbatim Thai.",
+  "production_source": "Regulatory-approved claims library"
+ },
+ {
+  "table_name": "ingredients",
+  "origin": "curated_knowledge",
+  "description": "Cosmetic-science dictionary written by Bricks.",
+  "production_source": "R&D ingredient master"
+ },
+ {
+  "table_name": "product_ingredients",
+  "origin": "real_sourced",
+  "description": "Full INCI lists in label order from official product pages (retailer fallback is flagged per row).",
+  "production_source": "R&D formula master"
+ },
+ {
+  "table_name": "product_hero_ingredients",
+  "origin": "real_sourced",
+  "description": "Hero ingredients exactly as the brand names them in official copy, linked to the dictionary.",
+  "production_source": "PIM"
+ },
+ {
+  "table_name": "ingredient_interactions",
+  "origin": "curated_knowledge",
+  "description": "Layering rules.",
+  "production_source": "R&D / advisor guideline"
+ },
+ {
+  "table_name": "skin_types",
+  "origin": "curated_knowledge",
+  "description": "Advisor taxonomy.",
+  "production_source": null
+ },
+ {
+  "table_name": "skin_concerns",
+  "origin": "curated_knowledge",
+  "description": "Advisor taxonomy with photo cues, Thai-FDA-safe wording and refer-out rules.",
+  "production_source": null
+ },
+ {
+  "table_name": "product_concerns",
+  "origin": "curated_knowledge",
+  "description": "Which product serves which concern; every row states its basis (official positioning / site category / ingredient inference).",
+  "production_source": "Advisor guideline owned by brand + R&D"
+ },
+ {
+  "table_name": "product_skin_types",
+  "origin": "curated_knowledge",
+  "description": "Suitability by skin type, with basis.",
+  "production_source": "Advisor guideline"
+ },
+ {
+  "table_name": "routine_steps",
+  "origin": "curated_knowledge",
+  "description": "AM/PM step order.",
+  "production_source": null
+ },
+ {
+  "table_name": "product_routine_steps",
+  "origin": "curated_knowledge",
+  "description": "Where each product sits in a routine.",
+  "production_source": "Advisor guideline"
+ },
+ {
+  "table_name": "range_gaps",
+  "origin": "curated_knowledge",
+  "description": "Needs the range cannot meet + the generic external option the advisor may mention.",
+  "production_source": "Brand strategy"
+ },
+ {
+  "table_name": "range_gap_concerns",
+  "origin": "curated_knowledge",
+  "description": "Concerns that trigger each gap.",
+  "production_source": null
+ },
+ {
+  "table_name": "warehouses",
+  "origin": "mock",
+  "description": "Fictional warehouses.",
+  "production_source": "WMS"
+ },
+ {
+  "table_name": "inventory",
+  "origin": "mock",
+  "description": "Simulated quantities, consistent with the real web stock flag.",
+  "production_source": "WMS / ERP"
+ },
+ {
+  "table_name": "inventory_movements",
+  "origin": "mock",
+  "description": "Simulated stock ledger.",
+  "production_source": "WMS"
+ },
+ {
+  "table_name": "customers",
+  "origin": "mock",
+  "description": "Fictional people; 6 scripted demo personas.",
+  "production_source": "CRM / LINE OA"
+ },
+ {
+  "table_name": "customer_addresses",
+  "origin": "mock",
+  "description": "Fictional addresses (real district/postcode pairs).",
+  "production_source": "CRM"
+ },
+ {
+  "table_name": "promotions",
+  "origin": "derived",
+  "description": "Rows with origin='observed_on_site' are real mechanics seen on srichand.com; origin='mock' rows are invented for the demo.",
+  "production_source": "Promotion engine"
+ },
+ {
+  "table_name": "promotion_variants",
+  "origin": "derived",
+  "description": "Variants in each promotion.",
+  "production_source": "Promotion engine"
+ },
+ {
+  "table_name": "coupons",
+  "origin": "mock",
+  "description": "Coupon code strings are placeholders.",
+  "production_source": "Promotion engine"
+ },
+ {
+  "table_name": "carts",
+  "origin": "mock",
+  "description": "Simulated.",
+  "production_source": "E-commerce platform"
+ },
+ {
+  "table_name": "cart_items",
+  "origin": "mock",
+  "description": "Simulated.",
+  "production_source": "E-commerce platform"
+ },
+ {
+  "table_name": "orders",
+  "origin": "mock",
+  "description": "Simulated orders using real SKUs, prices and the real free-shipping rule.",
+  "production_source": "OMS"
+ },
+ {
+  "table_name": "order_items",
+  "origin": "mock",
+  "description": "Simulated.",
+  "production_source": "OMS"
+ },
+ {
+  "table_name": "payments",
+  "origin": "mock",
+  "description": "Simulated; methods limited to those srichand.com really offers.",
+  "production_source": "Payment gateway"
+ },
+ {
+  "table_name": "shipments",
+  "origin": "mock",
+  "description": "Simulated; carrier names real, tracking numbers fake.",
+  "production_source": "Carrier APIs"
+ },
+ {
+  "table_name": "shipment_events",
+  "origin": "mock",
+  "description": "Simulated.",
+  "production_source": "Carrier APIs"
+ },
+ {
+  "table_name": "loyalty_tiers",
+  "origin": "real_sourced",
+  "description": "Srichand Rewards is a single-level programme: ฿25 = 1 point (official).",
+  "production_source": "Loyalty platform"
+ },
+ {
+  "table_name": "loyalty_accounts",
+  "origin": "mock",
+  "description": "Simulated balances.",
+  "production_source": "Loyalty platform"
+ },
+ {
+  "table_name": "loyalty_transactions",
+  "origin": "mock",
+  "description": "Simulated ledger using the official earn rate.",
+  "production_source": "Loyalty platform"
+ },
+ {
+  "table_name": "rewards_catalog",
+  "origin": "mock",
+  "description": "ASSUMED: Srichand publishes no redemption catalogue or point value.",
+  "production_source": "Loyalty platform"
+ },
+ {
+  "table_name": "reward_redemptions",
+  "origin": "mock",
+  "description": "Empty.",
+  "production_source": "Loyalty platform"
+ },
+ {
+  "table_name": "consent_records",
+  "origin": "mock",
+  "description": "Simulated PDPA consent trail; consent wording is a draft for legal review.",
+  "production_source": "Consent management"
+ },
+ {
+  "table_name": "customer_skin_profiles",
+  "origin": "mock",
+  "description": "Simulated self-reported profiles.",
+  "production_source": "Advisor service"
+ },
+ {
+  "table_name": "face_analysis_sessions",
+  "origin": "mock",
+  "description": "Simulated; images are never stored in the DB.",
+  "production_source": "Advisor service"
+ },
+ {
+  "table_name": "analysis_findings",
+  "origin": "mock",
+  "description": "Simulated.",
+  "production_source": "Advisor service"
+ },
+ {
+  "table_name": "recommendations",
+  "origin": "mock",
+  "description": "Simulated; product references are real.",
+  "production_source": "Advisor service"
+ },
+ {
+  "table_name": "routines",
+  "origin": "mock",
+  "description": "Simulated.",
+  "production_source": "Advisor service"
+ },
+ {
+  "table_name": "routine_items",
+  "origin": "mock",
+  "description": "Simulated.",
+  "production_source": "Advisor service"
+ },
+ {
+  "table_name": "range_gap_events",
+  "origin": "mock",
+  "description": "Simulated demand signal.",
+  "production_source": "Advisor service → BI"
+ }
+]

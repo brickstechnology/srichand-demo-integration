@@ -1,0 +1,67 @@
+[
+ {
+  "id": 1,
+  "slug": "dedicated-bha-treatment",
+  "title_en": "No dedicated leave-on BHA treatment under the SRICHAND brand",
+  "missing_category": "BHA (salicylic acid) serum / toner with a disclosed strength",
+  "severity": "high",
+  "why_it_matters_en": "Oil-soluble exfoliation is the highest-return step for shine, congestion and blackheads — the dominant concern in a hot, humid market and the heart of Srichand's oil-control heritage. Salicylic acid does exist in the portfolio — it is on the official INCI of 13 products (Sunlution Acne Care at #32 of 54, plus 12 SASI products led by the Acne Sol line) — but never as a SRICHAND-brand leave-on treatment and never with a stated percentage.",
+  "closest_in_range_product_id": 28,
+  "closest_in_range_limits_en": "A SASI (sister-brand) pad with undisclosed BHA strength; fine for maintenance, may be too mild for established congestion.",
+  "generic_external_option_en": "A 2% salicylic acid (BHA) leave-on liquid or toner from a pharmacy or drugstore, used 2–3 nights a week.",
+  "generic_external_option_th": "ผลิตภัณฑ์ BHA (ซาลิไซลิก แอซิด) 2% แบบไม่ต้องล้างออก จากร้านขายยาหรือร้านเครื่องสำอางทั่วไป ใช้สัปดาห์ละ 2–3 คืน",
+  "commercial_read_en": "Clearest white-space SKU: a 'Sunlution-grade' BHA serum or pad under SRICHAND IN-SKIN would sit directly on the brand's oil-control equity."
+ },
+ {
+  "id": 2,
+  "slug": "azelaic-acid",
+  "title_en": "No azelaic acid product",
+  "missing_category": "Azelaic acid 10% class",
+  "severity": "medium",
+  "why_it_matters_en": "Azelaic acid is the best-tolerated single answer for redness that coexists with post-blemish marks, and is usable where retinoids are not.",
+  "closest_in_range_product_id": 90,
+  "closest_in_range_limits_en": "Covers the marks (tranexamic acid + niacinamide) but not the redness / bumps side.",
+  "generic_external_option_en": "An azelaic acid 10% cream or gel from a pharmacy; above 10% is a medicine — ask a pharmacist.",
+  "generic_external_option_th": "ครีมหรือเจลอะเซลาอิก แอซิด 10% จากร้านขายยา (ความเข้มข้นสูงกว่านี้จัดเป็นยา ควรปรึกษาเภสัชกร)",
+  "commercial_read_en": "Natural partner to the Barrier Boost line for the 'sensitive but blemish-prone' customer."
+ },
+ {
+  "id": 3,
+  "slug": "medical-acne-care",
+  "title_en": "Persistent or inflammatory acne needs medicine, not cosmetics",
+  "missing_category": "Drug-class actives (e.g. adapalene, benzoyl peroxide)",
+  "severity": "medium",
+  "why_it_matters_en": "Thai law classes acne treatment as a drug claim. For moderate-to-severe or scarring acne the honest answer is outside any cosmetic range.",
+  "closest_in_range_product_id": 116,
+  "closest_in_range_limits_en": "Supports a routine for blemish-prone skin; does not treat acne.",
+  "generic_external_option_en": "See a pharmacist or dermatologist about a topical acne medicine. Keep the routine around it gentle: Barrier Boost cleanser and gel cream, Sunlution Acne Care.",
+  "generic_external_option_th": "แนะนำปรึกษาเภสัชกรหรือแพทย์ผิวหนังเรื่องยาทาสิว และดูแลผิวควบคู่ด้วยผลิตภัณฑ์ที่อ่อนโยน",
+  "commercial_read_en": "Referral honesty builds the trust that sells the supporting routine (cleanser, barrier care, sunscreen)."
+ },
+ {
+  "id": 4,
+  "slug": "eye-care",
+  "title_en": "No dedicated eye product",
+  "missing_category": "Eye cream / eye serum",
+  "severity": "low",
+  "why_it_matters_en": "Frequently requested. Low clinical necessity, but matters for basket size and for under-eye concerns the advisor will detect in photos.",
+  "closest_in_range_product_id": 10,
+  "closest_in_range_limits_en": "Covers under-eye darkness cosmetically; no treatment benefit.",
+  "generic_external_option_en": "Any fragrance-free eye cream with caffeine or peptides; or simply tap your facial moisturiser around the orbital bone.",
+  "generic_external_option_th": "อายครีมสูตรไม่มีน้ำหอมที่มีคาเฟอีนหรือเปปไทด์ หรือใช้มอยส์เจอร์ไรเซอร์แตะเบา ๆ รอบดวงตา",
+  "commercial_read_en": "Easy line extension for Timeless or Phyto Camellia PDRN."
+ },
+ {
+  "id": 5,
+  "slug": "body-sun-care",
+  "title_en": "No body sunscreen or body care",
+  "missing_category": "Body SPF / body lotion",
+  "severity": "low",
+  "why_it_matters_en": "Face-only sun protection leaves neck, arms and hands exposed; customers ask for a matching body product.",
+  "closest_in_range_product_id": 22,
+  "closest_in_range_limits_en": "Water-resistant and pleasant, but 40 ml is a face size — uneconomical for body.",
+  "generic_external_option_en": "A body sunscreen SPF50+ PA++++ in a 100 ml+ size from any drugstore.",
+  "generic_external_option_th": "กันแดดทาตัว SPF50+ PA++++ ขนาด 100 มล. ขึ้นไป จากร้านทั่วไป",
+  "commercial_read_en": "Sunlution has the filter technology and brand permission to extend to body."
+ }
+]

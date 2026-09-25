@@ -1,0 +1,162 @@
+[
+ {
+  "id": 1,
+  "slug": "makeup-removal",
+  "name_en": "Remove makeup & sunscreen",
+  "name_th": "เช็ดเครื่องสำอาง",
+  "step_order": 10,
+  "applies_am": 0,
+  "applies_pm": 1,
+  "is_makeup": 0
+ },
+ {
+  "id": 2,
+  "slug": "cleanse",
+  "name_en": "Cleanse",
+  "name_th": "ล้างหน้า",
+  "step_order": 20,
+  "applies_am": 1,
+  "applies_pm": 1,
+  "is_makeup": 0
+ },
+ {
+  "id": 3,
+  "slug": "toner-pad",
+  "name_en": "Toner pad / exfoliate",
+  "name_th": "โทนเนอร์แพด / ผลัดเซลล์ผิว",
+  "step_order": 30,
+  "applies_am": 0,
+  "applies_pm": 1,
+  "is_makeup": 0
+ },
+ {
+  "id": 4,
+  "slug": "essence",
+  "name_en": "Essence",
+  "name_th": "น้ำตบ / เอสเซนส์",
+  "step_order": 40,
+  "applies_am": 1,
+  "applies_pm": 1,
+  "is_makeup": 0
+ },
+ {
+  "id": 5,
+  "slug": "treatment-serum",
+  "name_en": "Treatment serum",
+  "name_th": "เซรั่มบำรุงเฉพาะจุดประสงค์",
+  "step_order": 50,
+  "applies_am": 1,
+  "applies_pm": 1,
+  "is_makeup": 0
+ },
+ {
+  "id": 6,
+  "slug": "moisturise",
+  "name_en": "Moisturise",
+  "name_th": "มอยส์เจอร์ไรเซอร์",
+  "step_order": 60,
+  "applies_am": 1,
+  "applies_pm": 1,
+  "is_makeup": 0
+ },
+ {
+  "id": 7,
+  "slug": "mask",
+  "name_en": "Mask (1–3× weekly)",
+  "name_th": "มาส์ก",
+  "step_order": 65,
+  "applies_am": 0,
+  "applies_pm": 1,
+  "is_makeup": 0
+ },
+ {
+  "id": 8,
+  "slug": "sunscreen",
+  "name_en": "Sunscreen",
+  "name_th": "กันแดด",
+  "step_order": 70,
+  "applies_am": 1,
+  "applies_pm": 0,
+  "is_makeup": 0
+ },
+ {
+  "id": 9,
+  "slug": "primer",
+  "name_en": "Primer",
+  "name_th": "ไพรเมอร์",
+  "step_order": 80,
+  "applies_am": 1,
+  "applies_pm": 0,
+  "is_makeup": 1
+ },
+ {
+  "id": 10,
+  "slug": "base",
+  "name_en": "Foundation / cushion",
+  "name_th": "รองพื้น / คุชชั่น",
+  "step_order": 90,
+  "applies_am": 1,
+  "applies_pm": 0,
+  "is_makeup": 1
+ },
+ {
+  "id": 11,
+  "slug": "conceal",
+  "name_en": "Conceal",
+  "name_th": "คอนซีลเลอร์",
+  "step_order": 100,
+  "applies_am": 1,
+  "applies_pm": 0,
+  "is_makeup": 1
+ },
+ {
+  "id": 12,
+  "slug": "powder",
+  "name_en": "Set with powder",
+  "name_th": "แป้ง",
+  "step_order": 110,
+  "applies_am": 1,
+  "applies_pm": 0,
+  "is_makeup": 1
+ },
+ {
+  "id": 13,
+  "slug": "colour",
+  "name_en": "Cheeks, eyes & brows",
+  "name_th": "บลัช ตา คิ้ว",
+  "step_order": 120,
+  "applies_am": 1,
+  "applies_pm": 0,
+  "is_makeup": 1
+ },
+ {
+  "id": 14,
+  "slug": "lips",
+  "name_en": "Lip colour",
+  "name_th": "ลิป",
+  "step_order": 130,
+  "applies_am": 1,
+  "applies_pm": 0,
+  "is_makeup": 1
+ },
+ {
+  "id": 15,
+  "slug": "setting-spray",
+  "name_en": "Setting spray",
+  "name_th": "สเปรย์ล็อกเมคอัพ",
+  "step_order": 140,
+  "applies_am": 1,
+  "applies_pm": 0,
+  "is_makeup": 1
+ },
+ {
+  "id": 16,
+  "slug": "lip-care",
+  "name_en": "Lip care",
+  "name_th": "บำรุงริมฝีปาก",
+  "step_order": 150,
+  "applies_am": 1,
+  "applies_pm": 1,
+  "is_makeup": 0
+ }
+]

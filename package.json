@@ -1,0 +1,24 @@
+{
+  "name": "srichand-advisor-db",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prototype database, MCP server and knowledge base for the Srichand AI beauty advisor (LINE OA).",
+  "type": "module",
+  "scripts": {
+    "data:all": "python3 scripts/01_build_catalog.py && python3 scripts/02_build_sets.py && python3 scripts/03_build_knowledge.py && python3 scripts/04_generate_mock.py && python3 scripts/05_meta.py && bun run db/build.ts",
+    "db:build": "bun run db/build.ts",
+    "db:check": "bun run db/check.ts",
+    "db:sync": "bun run db/sync.ts",
+    "mcp": "bun run mcp-server/src/index.ts",
+    "mcp:http": "bun run mcp-server/src/http.ts",
+    "mcp:restart": "(lsof -ti tcp:${PORT:-8787} -sTCP:LISTEN | xargs kill 2>/dev/null; sleep 1; bun run mcp-server/src/http.ts)",
+    "mcp:smoke": "bun run mcp-server/src/smoke.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

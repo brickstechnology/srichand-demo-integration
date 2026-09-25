@@ -1,0 +1,1706 @@
+[
+ {
+  "id": 1,
+  "product_id": 4,
+  "claim_th": "Ectoin ช่วยปลอบประโลมผิวจากสภาวะต่างๆ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 2,
+  "product_id": 4,
+  "claim_th": "Cicazome : Cica ในรูปแบบ Cica-Phytosome^^ ที่ช่วยบำรุงผิวให้ดูสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 3,
+  "product_id": 4,
+  "claim_th": "Derma-calmfort สารสกัดจาก Chestnut Leaf Extract ช่วยเติมความชุ่มชื้นและเสริมปราการผิวแลดูสุขภาพดี^",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 4,
+  "product_id": 4,
+  "claim_th": "Synbiotics Oat เป็นส่วนผสมที่มีทั้ง Prebiotics และ Probiotics เสริมสร้างเกราะป้องกันผิว^ และช่วยให้ผิวแลดูสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 5,
+  "product_id": 4,
+  "claim_th": "ผ่านการทดสอบการระคายเคืองผิวสำหรับกลุ่มผิวแพ้ง่าย*",
+  "claim_en": null,
+  "claim_type": "test_result",
+  "source_id": 1
+ },
+ {
+  "id": 6,
+  "product_id": 4,
+  "claim_th": "ปราศจาก พาราเบน, มิเนอรัล ออยล์, ซิลิโคน ,น้ำหอม , แอลกอฮอล์*** ,ซัลเฟต",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 7,
+  "product_id": 5,
+  "claim_th": "Ectoin ช่วยปลอบประโลมผิวจากสภาวะต่างๆ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 8,
+  "product_id": 5,
+  "claim_th": "Cicazome : Cica ในรูปแบบ Cica-Phytosome*** ที่ช่วยบำรุงผิวให้ดูสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 9,
+  "product_id": 5,
+  "claim_th": "Derma-calmfort สารสกัดจาก Chestnut Leaf Extract ช่วยเติมความชุ่มชื้นและเสริมปราการผิวแลดูสุขภาพดี^",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 10,
+  "product_id": 5,
+  "claim_th": "Natural Collagen จากสารสกัด Acacia Senegal Gum ช่วยให้ผิวแลดูเรียบเนียน กระชับ ยืดหยุ่น และลดเลือนริ้วรอย",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 11,
+  "product_id": 5,
+  "claim_th": "เนื้อสัมผัสบางเบา เย็นสบายผิว ไม่มัน ซึมซาบเร็ว ไม่เหนอะหนะ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 12,
+  "product_id": 5,
+  "claim_th": "ผ่านการทดสอบการระคายเคืองผิวสำหรับกลุ่มผิวแพ้ง่าย*",
+  "claim_en": null,
+  "claim_type": "test_result",
+  "source_id": 1
+ },
+ {
+  "id": 13,
+  "product_id": 5,
+  "claim_th": "ปราศจาก พาราเบน, มิเนอรัล ออยล์, ออยล์ , สารแต่งสี , แอลกอฮอล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 14,
+  "product_id": 6,
+  "claim_th": "Ectoin ช่วยปลอบประโลมผิวจากสภาวะต่างๆ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 15,
+  "product_id": 6,
+  "claim_th": "Cicazome : Cica ในรูปแบบ Cica-Phytosome^^ ที่ช่วยบำรุงผิวให้ดูสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 16,
+  "product_id": 6,
+  "claim_th": "Derma-calmfort สารสกัดจาก Chestnut Leaf Extract ช่วยเติมความชุ่มชื้นและเสริมปราการผิวแลดูสุขภาพดี^",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 17,
+  "product_id": 6,
+  "claim_th": "Bioglycogen ช่วยให้ผิวแลดูเรียบเนียนและช่วยให้ผิวแลดูกระจ่างใส",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 18,
+  "product_id": 6,
+  "claim_th": "ผ่านการทดสอบการระคายเคืองผิวสำหรับกลุ่มผิวแพ้ง่าย*",
+  "claim_en": null,
+  "claim_type": "test_result",
+  "source_id": 1
+ },
+ {
+  "id": 19,
+  "product_id": 6,
+  "claim_th": "ปราศจาก พาราเบน, มิเนอรัล ออยล์, ซิลิโคน , สารแต่งสี , น้ำหอม , แอลกอฮอล์*** ,ซัลเฟต",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 20,
+  "product_id": 13,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากพาราเบน ปราศจากน้ำหอม ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 21,
+  "product_id": 15,
+  "claim_th": "ปราศจากมิเนอรัลออยล์, แอลกอฮอล์, น้ำหอม และพาราเบน ผ่านการทดสอบการระคายเคืองโดยแพทย์ผู้เชี่ยวชาญด้านผิวหนัง",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 22,
+  "product_id": 19,
+  "claim_th": "ปราศจากมิเนอรัลออยล์ , สูตรวีแกน",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 23,
+  "product_id": 20,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากพาราเบน และปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 24,
+  "product_id": 21,
+  "claim_th": "ปราศจากมิเนอรัลออยล์ , สูตรวีแกน",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 25,
+  "product_id": 21,
+  "claim_th": "ปราศจากมิเนอรัลออยล์ , สูตรวีแกน",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 26,
+  "product_id": 21,
+  "claim_th": "ปราศจากมิเนอรัลออยล์ , สูตรวีแกน",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 27,
+  "product_id": 22,
+  "claim_th": "Rosia Transferosome ที่ช่วยเสริม SPF Booster เพิ่มการปกป้องผิวจากการทำร้ายของแสงแดด คุณสมบัติแอนตี้ออกซิแดนท์ ช่วยชะลอการเกิดริ้วรอย พร้อมลดปัญหาผิวหมองคล้ำ และปกป้องผิวจากการถูกทำร้ายจากแสงสีฟ้า",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 28,
+  "product_id": 22,
+  "claim_th": "Phytodefence ช่วยเพิ่มความชุ่มชื้น และความยืดหยุ่นให้กับผิว",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 29,
+  "product_id": 22,
+  "claim_th": "3D Water Drench ด้วยนวัตกรรมโครงสร้างตาข่าย 3 มิติ ช่วยล็อคความชุ่มชื้นให้กับผิว ฟื้นบำรุงผิวแห้งกร้าน",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 30,
+  "product_id": 22,
+  "claim_th": "Vitamin C ช่วยบำรุงผิว ลดความหมองคล้ำ มอบผิวดูกระจ่างใส",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 31,
+  "product_id": 22,
+  "claim_th": "Vitamin B5 ช่วยกักเก็บความชุ่มชื้น ลดการสูญเสียน้ำของผิว",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 32,
+  "product_id": 22,
+  "claim_th": "Vitamin B6 & Vitamin B12 & Magnesium Chloride & Calcium Gluconate วิตามินและแร่ธาตุ ช่วยบำรุงผิว ปรับสภาพผิวให้ดูมีสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 33,
+  "product_id": 22,
+  "claim_th": "ปราศจาก พาราเบน • มิเนอรัล ออยล์ •สารแต่งสี •แอลกอฮอลล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 34,
+  "product_id": 25,
+  "claim_th": "ปราศจากมิเนอรัลออยล์ ปราศจากพาราเบน ปราศจากแอลกอฮอล์ ปราศจากน้ำหอม",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 35,
+  "product_id": 26,
+  "claim_th": "ปราศจากซิลิโคน ปราศจากน้ำหอมและสี",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 36,
+  "product_id": 38,
+  "claim_th": "ปราศจากพาราเบน l ปราศจากเอสแอลเอส l ปราศจากแอลกอฮอล์ l ปราศจากน้ำหอม l ปราศจากเอ็มไอที",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 37,
+  "product_id": 46,
+  "claim_th": "Phyto Camellia PDRN 0.5% ให้ผิวดูกระจ่างใส สีผิวดูสม่ำเสมอ และให้ผิวดูเรียบเนียน แลดูกระชับขึ้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 38,
+  "product_id": 46,
+  "claim_th": "Niacinamide 5% & Alpha Arbutus 0.1% เสริมให้ผิวดูกระจ่างใส แลดูเรียบเนียนยิ่งขึ้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 39,
+  "product_id": 46,
+  "claim_th": "Collagen Amino Acid คอลลาเจนจากพืชเสริมให้ผิวแลดูกระชับ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 40,
+  "product_id": 46,
+  "claim_th": "Glyceryl Glucoside & Dipotassium Glycyrrhizate ช่วยกักเก็บความชุ่มชื้นแก่ผิว",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 41,
+  "product_id": 46,
+  "claim_th": "ผ่านการทดสอบการระคายเคืองผิว สำหรับผิวแพ้ง่าย",
+  "claim_en": null,
+  "claim_type": "test_result",
+  "source_id": 1
+ },
+ {
+  "id": 42,
+  "product_id": 46,
+  "claim_th": "เพื่อผลลัพธ์ที่ดียิ่งกว่าแนะนำให้ใช้ร่วมกับ SRICHAND Phyto Camellia PDRN Bright Glowing Series",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 43,
+  "product_id": 47,
+  "claim_th": "Phyto Camellia PDRN 0.5% ให้ผิวดูกระจ่างใส สีผิวดูสม่ำเสมอ และให้ผิวดูเรียบเนียน แลดูกระชับขึ้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 44,
+  "product_id": 47,
+  "claim_th": "Niacinamide 1.5% & Alpha Arbutus 0.1% เสริมให้ผิวดูกระจ่างใส แลดูเรียบเนียนยิ่งขึ้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 45,
+  "product_id": 47,
+  "claim_th": "Saccharum Officinarum (Sugercane) Extract ให้ผิวชุ่มชื้น ปลอบประโลมผิวให้ดูเรียบเนียน กระจ่างใสอย่างเป็นธรรมชาติ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 46,
+  "product_id": 47,
+  "claim_th": "Chondrus Crispus Extract เติมน้ำให้ผิว แลดูอิ่มฟูสดใส",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 47,
+  "product_id": 47,
+  "claim_th": "ผ่านการทดสอบการระคายเคืองผิว สำหรับผิวแพ้ง่าย",
+  "claim_en": null,
+  "claim_type": "test_result",
+  "source_id": 1
+ },
+ {
+  "id": 48,
+  "product_id": 47,
+  "claim_th": "เพื่อผลลัพธ์ที่ดียิ่งกว่าแนะนำให้ใช้ร่วมกับ SRICHAND Phyto Camellia PDRN Bright Glowing Series",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 49,
+  "product_id": 48,
+  "claim_th": "Phyto Camellia PDRN 0.5% ให้ผิวดูกระจ่างใส สีผิวดูสม่ำเสมอ และให้ผิวดูเรียบเนียน แลดูกระชับขึ้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 50,
+  "product_id": 48,
+  "claim_th": "Niacinamide 5% & Alpha Arbutus 0.1% เสริมให้ผิวดูกระจ่างใส แลดูเรียบเนียนยิ่งขึ้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 51,
+  "product_id": 48,
+  "claim_th": "Amino & Peptide Riches ช่วยบำรุง และเสริมความชุ่มชื้นให้ผิวดูนุ่มฟู แลดูกระจ่างใส",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 52,
+  "product_id": 48,
+  "claim_th": "ผ่านการทดสอบการระคายเคืองผิว สำหรับผิวแพ้ง่าย",
+  "claim_en": null,
+  "claim_type": "test_result",
+  "source_id": 1
+ },
+ {
+  "id": 53,
+  "product_id": 48,
+  "claim_th": "เพื่อผลลัพธ์ที่ดียิ่งกว่าแนะนำให้ใช้ร่วมกับ SRICHAND Phyto Camellia PDRN Bright Glowing Series",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 54,
+  "product_id": 49,
+  "claim_th": "Phyto Camellia PDRN ให้ผิวดูกระจ่างใส สีผิวดูสม่ำเสมอ และให้ผิวดูเรียบเนียน แลดูกระชับขึ้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 55,
+  "product_id": 49,
+  "claim_th": "Premium Brightening & Hydrating Extract สารสกัดแบบพรีเมี่ยม 15 ชนิด ช่วยลดเลือนความหมองคล้ำ บำรุง+คืนความชุ่มชื้น ผิวแลดูกระจ่างใส (Camellia PDRN, Niacinamide, Panthnol, Vitamin E, Hyaluronic acid 8 types & 3 Ceramide complex)",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 56,
+  "product_id": 49,
+  "claim_th": "Luxury Pearl Gel to Foam formula Milder cleanser สูตรเฉพาะสารชำระล้างชนิด Amino Acid ทำความสะอาดผิวได้อย่างล้ำลึก* ไม่แห้งเอี๊ยด",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 57,
+  "product_id": 49,
+  "claim_th": "ผ่านการทดสอบการระคายเคืองผิวสำหรับผิวแพ้ง่าย",
+  "claim_en": null,
+  "claim_type": "test_result",
+  "source_id": 1
+ },
+ {
+  "id": 58,
+  "product_id": 51,
+  "claim_th": "ปราศจาก พาราเบน . มิเนอรัล ออยล์ . สารแต่งสี . ซิลิโคน . น้ำหอม . แอลกอฮอล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 59,
+  "product_id": 52,
+  "claim_th": "Bakuchiol เรตินอลจากธรรมชาติ ที่อ่อนโยนต่อผิว",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 60,
+  "product_id": 52,
+  "claim_th": "Peptide ช่วยลดเลือนริ้วรอยให้ดูจางลง",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 61,
+  "product_id": 52,
+  "claim_th": "Hyaluronic Acid เพิ่มความชุ่มชื่น มอบผิวแลดูอ่อนเยาว์",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 62,
+  "product_id": 52,
+  "claim_th": "Niacinamide ให้ผิวแลดูระจ่างใส ช่วยปรับผิวให้ดูสม่ำเสมอ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 63,
+  "product_id": 52,
+  "claim_th": "ปราศจาก พาราเบน, มิเนอรัล ออยล์, แอลกอฮอลล์, สารแต่งสี, น้ำหอม",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 64,
+  "product_id": 53,
+  "claim_th": "Calamine : ช่วยปลอบประโลมผิวมัน และ ช่วยลดความเปียกชื้นบนผิวหน้า",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 65,
+  "product_id": 53,
+  "claim_th": "เหมาะสำหรับ : ผู้ที่มีผิวมันมาก และ ผู้ที่ชอบทำกิจกรรรมกลางแจ้ง",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 66,
+  "product_id": 53,
+  "claim_th": "ปราศจากแอลกอฮอล์ , พาราเบน , มิเนอรัล ออยล์ , ซิลิโคน",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 67,
+  "product_id": 53,
+  "claim_th": "ผลิตภัณฑ์นี้ไม่ทดลองกับสัตว์",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 68,
+  "product_id": 54,
+  "claim_th": "ปราศจากสี ปราศจากแอลกอฮอล์ ปราศจากพาราเบน ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 69,
+  "product_id": 64,
+  "claim_th": "ใช้แยกสี เพื่อปรับสีผิว หรือTone Down สีผิวเฉพาะจุด",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 70,
+  "product_id": 64,
+  "claim_th": "ผสม2สี แป้ง Cool Tone(ม่วง-ฟ้า) ช่วยลดความเหลืองของผิว อำพรางรอยแดงและความหมองคล้ำ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 71,
+  "product_id": 64,
+  "claim_th": "ผสม2สี แป้ง Warm Tone(ชมพู-พีช) ให้ผิวไบร์ทอมชมพู แลดูสุขภาพดี และอำพรางรอยเส้นเลือด",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 72,
+  "product_id": 64,
+  "claim_th": "ผสม4สี แป้ง Neutral Tone(ชมพู-ม่วง-พีช-ฟ้า) เพื่อปรับสีผิวให้ไบร์ทสม่ำเสมอทั่วผิวหน้า",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 73,
+  "product_id": 65,
+  "claim_th": "เนื้อสัมผัสเนียนนุ่มลื่น",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 74,
+  "product_id": 65,
+  "claim_th": "เนื้อซาตินให้ฟินิชแบบ กึ่งแมตต์ กึ่งวาว",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 75,
+  "product_id": 65,
+  "claim_th": "ไม่เหนียวเหนอะหนะ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 76,
+  "product_id": 65,
+  "claim_th": "เม็ดสีแน่นชัดตั้งแต่ปาดแรก",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 77,
+  "product_id": 65,
+  "claim_th": "ติดทนนานด้วยคุณสมบัติ Film Former กับ Silicone ชนิดพิเศษ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 78,
+  "product_id": 65,
+  "claim_th": "เบลอริมฝีปาก ไม่ตกร่อง",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 79,
+  "product_id": 65,
+  "claim_th": "มีทั้งหมด 10 เฉดสี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 80,
+  "product_id": 71,
+  "claim_th": "ปราศจากพาราเบน, ปราศจากแอลกอฮอล์, ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 81,
+  "product_id": 83,
+  "claim_th": "Ectoin ช่วยปลอบประโลมผิวจากสภาวะต่างๆ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 82,
+  "product_id": 83,
+  "claim_th": "Cicazome : Cica ในรูปแบบ Cica-Phytosome*** ที่ช่วยบำรุงผิวให้ดูสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 83,
+  "product_id": 83,
+  "claim_th": "ผ่านการทดสอบการระคายเคืองผิวสำหรับกลุ่มผิวแพ้ง่าย",
+  "claim_en": null,
+  "claim_type": "test_result",
+  "source_id": 1
+ },
+ {
+  "id": 84,
+  "product_id": 83,
+  "claim_th": "ปราศจาก พาราเบน, มิเนอรัล ออยล์, ออยล์ , แอลกอฮอล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 85,
+  "product_id": 85,
+  "claim_th": "ปราศจากแอลกอฮอล์ น้ำหอม พาราเบน และ มิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 86,
+  "product_id": 86,
+  "claim_th": "ปราศจากแอลกอฮอล์ น้ำหอม พาราเบน และ มิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 87,
+  "product_id": 87,
+  "claim_th": "ปราศจากแอลกอฮอล์ น้ำหอม พาราเบน และ มิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 88,
+  "product_id": 88,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากน้ำหอม ปราศจากซิลิโคน ปราศจากพาราเบน ปราศจากมิเนอรัลออยล์ ปราศจากสารสี (Colorant)sasi-Good-Night-Daily-Lip-Scrub-5-g",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 89,
+  "product_id": 89,
+  "claim_th": "ปราศจากพาราเบน ปราศจากแอลกอฮอล์ ปราศจากเพทรอเลียม",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 90,
+  "product_id": 90,
+  "claim_th": "Tranexamic Acid ช่วยลดเลือนจุดด่างดำ และช่วยให้สีผิวแลดูสม่ำเสมอมากขึ้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 91,
+  "product_id": 90,
+  "claim_th": "Hyaluronate ช่วยเติมความชุ่มชื้นให้ผิวแลดูเนียนนุ่ม",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 92,
+  "product_id": 90,
+  "claim_th": "Aura-Peptide Capsule Peptide technology ช่วยเผยผิวกระจ่างใสเปล่งปลั่ง",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 93,
+  "product_id": 90,
+  "claim_th": "Pollu-Shield เป็นเกราะป้องกันผิวจากมลภาวะที่กระตุ้นให้เกิดปัญหาฝ้า กระ จุดด่างดำ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 94,
+  "product_id": 92,
+  "claim_th": "ปราศจาก พาราเบน, มิเนอรัล ออยล์ และน้ำหอม",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 95,
+  "product_id": 93,
+  "claim_th": "ปราศจาก พาราเบน, มิเนอรัล ออยล์, น้ำหอม และแอลกอฮอล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 96,
+  "product_id": 100,
+  "claim_th": "ปราศจากน้ำหอม ปราศจากพาราเบน ปราศจากแอลกอฮอล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 97,
+  "product_id": 101,
+  "claim_th": "ปราศจากน้ำหอม ปราศจากพาราเบน ปราศจากแอลกอฮอล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 98,
+  "product_id": 103,
+  "claim_th": "ปราศจากพาราเบน ปราศจากแอลกอฮอล์ ปราศจากซิลิโคน ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 99,
+  "product_id": 104,
+  "claim_th": "Hydroxy Pinacolone Retinoate วิตามินเอ รูปแบบใหม่ ประสิทธิภาพสูง ออกฤทธิ์ได้อย่างรวดเร็ว มีความคงตัว และระคายเคืองผิวได้น้อยกว่าวิตามินเอในรูปแบบอื่น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 100,
+  "product_id": 104,
+  "claim_th": "Peptide Technology เทคโนโลยีเปปไทด์ ที่ช่วยฟื้นบำรุงผิวจากความหมองคล้ำ 6 จุดทั่วใบหน้า และประสิทธิภาพช่วยให้ริ้วรอยแลดูลดเลือนลง",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 101,
+  "product_id": 104,
+  "claim_th": "Hyamide – Complex ผสานรวมพลังไฮยาและเซราไมด์ ช่วยเติมความชุ่มชื้นให้ผิว พร้อมเสริมปราการปลอบประโลมผิวให้แลดูสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 102,
+  "product_id": 104,
+  "claim_th": "Niacinamide ช่วยให้ผิวกระชับ เรียบเนียน และคงความชุ่มชื้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 103,
+  "product_id": 104,
+  "claim_th": "ปราศจาก พาราเบน, มิเนอรัล ออยล์, สารแต่สี, น้ำหอม",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 104,
+  "product_id": 106,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากน้ำหอม ปราศจากพาราเบน ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 105,
+  "product_id": 107,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากน้ำหอม ปราศจากพาราเบน ปราศจากซิลิโคน ปราศจากเอสแอลเอสและสบู่",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 106,
+  "product_id": 108,
+  "claim_th": "ปราศจากพาราเบน, ปราศจากแอลกอฮอล์, ปราศจากซิลิโคน, ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 107,
+  "product_id": 110,
+  "claim_th": "ปราศจาก พาราเบน แอลกอฮอล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 108,
+  "product_id": 111,
+  "claim_th": "Sea Buckthorn Oil & Extract ผลไม้ Super Fruit ที่อุดมไปด้วยคุณค่าการบำรุงผิว ช่วยปลอบประโลมผิวคล้ำเสียจากแสงแดด และช่วยลดเลือนริ้วรอยให้แลดูจางลง ผิวกลับมาเปล่งปลั่ง ดูสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 109,
+  "product_id": 111,
+  "claim_th": "Liposome Vitamin C เป็นสารAntioxidant ที่มีประสิทธิภาพสูง ช่วยให้จุดด่างดำดูจางลง ช่วยให้สีผิวดูสม่ำเสมอมากขึ้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 110,
+  "product_id": 111,
+  "claim_th": "8Hya & 6 Ceramide Complex ช่วยเติมความชุ่มชื้นให้ผิวแลดูเนียนนุ่ม",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 111,
+  "product_id": 111,
+  "claim_th": "ปราศจาก พาราเบน • มิเนอรัล ออยล์ •สารแต่งสี •แอลกอฮอลล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 112,
+  "product_id": 112,
+  "claim_th": "Ceramide เสริมความแข็งแรงให้แก่ชั้นผิว เปรียบเสมือนปราการป้องกันการสูญเสียน้ำในผิวเป็นอย่างดี",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 113,
+  "product_id": 112,
+  "claim_th": "Shea Butter ช่วยเพิ่มความชุ่มชื้นและปกป้องผิวจากสภาวะแวดล้อมภายนอก",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 114,
+  "product_id": 112,
+  "claim_th": "Jojoba Oil ออยล์จากธรรมชาติอ่อนโยน มอบความนุ่มละมุน",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 115,
+  "product_id": 112,
+  "claim_th": "Vitamin E ช่วยบำรุงและเติมเต็มความเรียบเนียน",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 116,
+  "product_id": 112,
+  "claim_th": "ปราศจากพาราเบน, ปราศจากแอลกอฮอล์, ปราศจากมิเนอรัลออยล์,ซิลิโคน",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 117,
+  "product_id": 113,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากพาราเบน ปราศจากน้ำหอม ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 118,
+  "product_id": 114,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากพาราเบน ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 119,
+  "product_id": 115,
+  "claim_th": "ปราศจากพาราเบน ปราศจากแอลกอฮอล์ ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 120,
+  "product_id": 116,
+  "claim_th": "Ultra Protect X3: ปกป้องผิวจากรังสี UVA/UVB, มลภาวะ, และแสงสีฟ้า (Bluelight)",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 121,
+  "product_id": 116,
+  "claim_th": "Salicylic Acid Sphere: ช่วยลดสาเหตุของการเกิดสิวอย่างมีประสิทธิภาพ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 122,
+  "product_id": 116,
+  "claim_th": "Sun Lock Technology: เนื้อสัมผัสบางเบา ไม่เหนอะหนะ ซึมซาบสู่ผิวได้อย่างรวดเร็ว",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 123,
+  "product_id": 116,
+  "claim_th": "Micro-blur Primer: ช่วยดูดซับความมัน เบลอริ้วรอย และทำให้ผิวดูกระชับเรียบเนียน",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 124,
+  "product_id": 117,
+  "claim_th": "Ultra Protect X3: ปกป้องผิวจากรังสี UVA/UVB, มลภาวะ, และแสงสีฟ้า",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 125,
+  "product_id": 117,
+  "claim_th": "Vitamin B3 และ C: ช่วยปรับผิวให้กระจ่างใส บำรุงล้ำลึก ให้ผิวชุ่มชื้นและไม่หมองคล้ำ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 126,
+  "product_id": 117,
+  "claim_th": "Sun Lock Technology: เนื้อสัมผัสบางเบา ไม่เหนอะหนะ ซึมซาบสู่ผิวได้อย่างรวดเร็ว",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 127,
+  "product_id": 117,
+  "claim_th": "Micro-blur Primer: ดูดซับความมัน เบลอริ้วรอย และทำให้ผิวดูกระชับเรียบเนียน",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 128,
+  "product_id": 118,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากพาราเบน ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 129,
+  "product_id": 120,
+  "claim_th": "ติดทน กันน้ำ กันเหงื่อ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 130,
+  "product_id": 120,
+  "claim_th": "เขียนง่าย หัวสามเหลี่ยมเข้ามุมพอดี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 131,
+  "product_id": 120,
+  "claim_th": "เนื้อนุ่ม ไม่บาดผิว",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 132,
+  "product_id": 120,
+  "claim_th": "มี 3 สีให้เลือกโทนเป็นธรรมชาติ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 133,
+  "product_id": 128,
+  "claim_th": "Glyceryl Glucoside: เพิ่มความสามารถในการอุ้มน้ำของผิว ลดการสูญเสียน้ำ ทำให้ผิวดูอิ่มฟู",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 134,
+  "product_id": 128,
+  "claim_th": "D-panthenol: ปลอบประโลมผิว เพิ่มความยืดหยุ่น ทำให้ผิวรู้สึกสบาย",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 135,
+  "product_id": 128,
+  "claim_th": "Niacinamide: ปรับผิวให้ดูกระจ่างใส ฟื้นฟูผิวที่แห้งและขาดน้ำ ให้กลับมาชุ่มชื้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 136,
+  "product_id": 128,
+  "claim_th": "เนื้อสัมผัสบางเบา ซึมซาบเร็ว ไม่เหนอะหนะ ช่วยกักเก็บความชุ่มชื้นยาวนานถึง 72 ชั่วโมง*",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 137,
+  "product_id": 131,
+  "claim_th": "SHINE FORMULA & JUICY LIPSTICK ลิปสติกเนื้อไซน์ สีชัดและติดทน",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 138,
+  "product_id": 131,
+  "claim_th": "LONG LASTING : พิกเมนต์แน่นชัด กลบริมฝีปากมิด",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 139,
+  "product_id": 131,
+  "claim_th": "ULTRA CARE : อุดมด้วยสารมอบความชุ่มชื้น บำรุงปากไม่ให้แห้งกร้าน 24 ชั่วโมง",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 140,
+  "product_id": 131,
+  "claim_th": "PLUMPING : ปากอวบอิ่ม ฉ่ำวาว สบายปาก",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 141,
+  "product_id": 133,
+  "claim_th": "FINISHED เหมาะกับอากาศเมืองไทย : SEMI MATTE แต่ยังให้ผิวดูสวยเปล่งปลั่งสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 142,
+  "product_id": 133,
+  "claim_th": "ปกปิดปานระดับกลาง",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 143,
+  "product_id": 133,
+  "claim_th": "ผสานการบำรุง ให้ผิวชุ่มชื้น อิ่มน้ำสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 144,
+  "product_id": 133,
+  "claim_th": "ติดทน คุมมันนาน 8 ชม.",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 145,
+  "product_id": 133,
+  "claim_th": "ปกป้องแดดสูงสุด SPF50+ PA++++",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 146,
+  "product_id": 135,
+  "claim_th": "ปราศจากพาราเบน, ปราศจากแอลกอฮอล์, ปราศจากมิเนอรัลออยล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 147,
+  "product_id": 136,
+  "claim_th": "ปราศจากพาราเบน – แอลกอฮอล์ – มิเนอรัล ออยล์ – น้ำหอม ผ่านการทดสอบโดยแพทย์ผิวหนัง",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 148,
+  "product_id": 139,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากพาราเบน ปราศจากน้ำหอม ปราศจากสาร SLS/SLES",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 149,
+  "product_id": 140,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากพาราเบน ปราศจากน้ำหอม ปราศจากสาร SLS/SLES",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 150,
+  "product_id": 141,
+  "claim_th": "ปราศจากแอลกอฮอล์, ปราศจากพาราเบน, ปราศจากซิลิโคน, ปราศจากสาร SLS/SLES",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 151,
+  "product_id": 143,
+  "claim_th": "ลดความมันส่วนเกิน",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 152,
+  "product_id": 143,
+  "claim_th": "รูขุมขนแลดูกระชับ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 153,
+  "product_id": 143,
+  "claim_th": "ผลัดเซลล์ผิวที่เสื่อมสภาพ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 154,
+  "product_id": 143,
+  "claim_th": "ผิวแลดูกระจ่างใส",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 155,
+  "product_id": 143,
+  "claim_th": "ปกป้องผิวจากมลภาวะ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 156,
+  "product_id": 143,
+  "claim_th": "ปลอบประโลมผิว",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 157,
+  "product_id": 143,
+  "claim_th": "มอบความชุ่มชื้นให้กับผิว",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 158,
+  "product_id": 152,
+  "claim_th": "ปราศจากแอลกอฮอล์และพาราเบน",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 159,
+  "product_id": 158,
+  "claim_th": "ให้สีชัด เล่นแสงดูมีมิติ เปล่งประกายโดดเด่น",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 160,
+  "product_id": 158,
+  "claim_th": "เบลนง่าย ดูเป็นธรรมชาติ ติดทนตลอดวัน",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 161,
+  "product_id": 158,
+  "claim_th": "พร้อมสารบำรุงจากธรรมชาติ อ่อนโยน ไม่ระคายเคือง",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 162,
+  "product_id": 158,
+  "claim_th": "มีให้เลือกถึง 5 สี เหมาะกับสาวๆทุกสไตล์และทุกสีผิว",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 163,
+  "product_id": 161,
+  "claim_th": "มีส่วนผสมของ Defensil Plus จากสวิสเซอร์แลนด์",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 164,
+  "product_id": 161,
+  "claim_th": "ป้องกันผดผื่นที่เกิดจากผ้าอ้อม และเหงื่อ ลดการระคายเคือง",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 165,
+  "product_id": 161,
+  "claim_th": "ใช้ทาบริเวณที่เป็นผื่นหลังเปลี่ยนผ้าอ้อม",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 166,
+  "product_id": 164,
+  "claim_th": "วิตามิน E และ น้ำมันเมล็ดดอกคาเมลเลีย: ช่วยเพิ่มความชุ่มชื้น และปกป้องริมฝีปากจากความแห้งกร้าน มีสารแอนตี้ออกซิแดนท์ ช่วยให้ริมฝีปากเรียบเนียน แลดูสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 167,
+  "product_id": 164,
+  "claim_th": "เปปไทด์และเซราไมด์: ช่วยล็อกความชุ่มชื้นและบำรุงริมฝีปาก",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 168,
+  "product_id": 164,
+  "claim_th": "น้ำมันโรสฮิป: ช่วยผลัดเซลล์ผิวเก่าออกอย่างอ่อนโยน",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 169,
+  "product_id": 164,
+  "claim_th": "ปราศจากน้ำหอม | ปราศจากแอลกอฮอล์ | ปราศจากพาราเบน",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 170,
+  "product_id": 165,
+  "claim_th": "Organic Coconut Oil : กรดไขมันธรรมชาติที่สามารถซึมเข้าสู่ผิวหนังได้ และยังมีวิตามินอีที่ช่วยให้ผิวนุ่มชุ่มชื้น",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 171,
+  "product_id": 165,
+  "claim_th": "Licorice Extract : ยับยั้งการสร้างเม็ดสี ช่วยบำรุงผิวให้แลดูกระจ่างใส",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 172,
+  "product_id": 165,
+  "claim_th": "Yuzu Extract : สารสกัดจากส้มยูซุประกอบด้วยสารเซราไมด์จากธรรมชาติ ช่วยให้ความชุ่มชื้นผิว",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 173,
+  "product_id": 165,
+  "claim_th": "Rosehip Oil : น้ำมันสกัดจากเมล็ด Rosehip อุดมด้วยกรดไขมันไม่อิ่มตัว และวิตามินซี ช่วยปกป้องผิวจากการสูญเสียน้ำ และช่วยเพิ่มความชุ่มชื้นให้ผิว Anti-oxidant สูง ช่วยให้ผิวแลดูเนียนเรียบ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 174,
+  "product_id": 165,
+  "claim_th": "Mix Berry Extract : สารสกัดที่รวมคุณประโยชน์จากผลไม้ตระกูลเบอร์รี่ อุดมไปด้วยวิตามินจากธรรมชาติ และสาร Anti-oxidant ทำให้ผิวเนียนนุ่ม แลดูสุขภาพดี",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 175,
+  "product_id": 165,
+  "claim_th": "ปราศจากน้ำหอม พาราเบน แอลกอฮอล์ สารกันเสีย และ Mineral oil",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 176,
+  "product_id": 166,
+  "claim_th": "ปราศจากน้ำหอม พาราเบน และแอลกอฮอล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 177,
+  "product_id": 168,
+  "claim_th": "กลบรอยทุกจุด: รอยคล้ำใต้ตา เส้นริ้วรอย รอยแดง หรือรอยดำจากสิว",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 178,
+  "product_id": 168,
+  "claim_th": "เทคโนโลยี Flexible Film: ช่วยให้คอนซีลเลอร์ยึดเกาะผิวได้ดี ติดทนนานตลอดวัน ไม่หลุดลอกหรือเป็นคราบ",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 179,
+  "product_id": 168,
+  "claim_th": "ปราศจากสารระคายเคือง: ปลอดภัยกับทุกสภาพผิว ไม่มีพาราเบน น้ำหอม และแอลกอฮอล์",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 180,
+  "product_id": 172,
+  "claim_th": "Matte Control Fixing System: ดูดซับความมันส่วนเกินและล็อกความชุ่มชื้นไว้กับผิว ทำให้ผิวดูสดใสตลอดวัน",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 181,
+  "product_id": 172,
+  "claim_th": "Peony: ลดการระคายเคืองและบำรุงผิวให้กระจ่างใส",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 182,
+  "product_id": 172,
+  "claim_th": "Yellow Calla Lily with Bakuchiol: ควบคุมความมัน กระชับรูขุมขน และลดโอกาสการเกิดสิว",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 183,
+  "product_id": 172,
+  "claim_th": "Organic Rose Extract: เสริมสร้างผิวแข็งแรง ชะลอการเกิดริ้วรอย",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 184,
+  "product_id": 172,
+  "claim_th": "Organic Lotus Extract: เพิ่มและรักษาความชุ่มชื้น ลดสาเหตุของริ้วรอย",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 185,
+  "product_id": 172,
+  "claim_th": "Super White Hya: เพิ่มความชุ่มชื้นและความกระจ่างใส",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 186,
+  "product_id": 172,
+  "claim_th": "X5 Ceramide Complex: เสริมเกราะป้องกันผิว ให้ผิวแข็งแรงและทนทาน",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 187,
+  "product_id": 173,
+  "claim_th": "ควบคุมความมันยาวนานสูงสุดถึง 12 ชั่วโมง ด้วยเทคโนโลยี Sebum Sensor",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 188,
+  "product_id": 173,
+  "claim_th": "ผิวเนียนสวย เปล่งประกาย ด้วยเทคโนโลยี Soft Focus ที่ช่วยเบลอรูขุมขนและอำพรางริ้วรอย",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 189,
+  "product_id": 173,
+  "claim_th": "ปกป้องผิวจากมลภาวะ ฝุ่นขนาดเล็ก และ PM2.5 ด้วยเทคโนโลยี EXO-P",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 190,
+  "product_id": 173,
+  "claim_th": "เซตรองพื้นให้ติดทน โดยไม่เปลี่ยนสีและทำให้ผิวหน้าเนียนสวยอย่างเป็นธรรมชาติ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 191,
+  "product_id": 173,
+  "claim_th": "ปราศจากน้ำมัน น้ำหอม พาราเบน และแอลกอฮอล์ เพื่อความอ่อนโยนต่อผิว เหมาะกับทุกสีผิว มั่นใจได้ในความปลอดภัยและคุณภาพ",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 192,
+  "product_id": 174,
+  "claim_th": "ควบคุมความมันยาวนานสูงสุดถึง 12 ชั่วโมง ด้วยเทคโนโลยี Sebum Sensor",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 193,
+  "product_id": 174,
+  "claim_th": "ผิวเนียนสวย เปล่งประกาย ด้วยเทคโนโลยี Soft Focus ที่ช่วยเบลอรูขุมขนและอำพรางริ้วรอย",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 194,
+  "product_id": 174,
+  "claim_th": "ปกป้องผิวจากมลภาวะ ฝุ่นขนาดเล็ก และ PM2.5 ด้วยเทคโนโลยี EXO-P",
+  "claim_en": null,
+  "claim_type": "technology",
+  "source_id": 1
+ },
+ {
+  "id": 195,
+  "product_id": 174,
+  "claim_th": "เซตรองพื้นให้ติดทน โดยไม่เปลี่ยนสีและทำให้ผิวหน้าเนียนสวยอย่างเป็นธรรมชาติ",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 196,
+  "product_id": 174,
+  "claim_th": "ปราศจากน้ำมัน น้ำหอม พาราเบน และแอลกอฮอล์ เพื่อความอ่อนโยนต่อผิว เหมาะกับทุกสีผิว มั่นใจได้ในความปลอดภัยและคุณภาพ",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 197,
+  "product_id": 175,
+  "claim_th": "ปราศจากน้ำมัน น้ำหอม และสารกลุ่มพาราเบน แป้งม่วงเซ็ตหน้าโกลว์เหมาะสำหรับทุกสภาพผิว แม้ผิวที่บอบบางและแพ้ง่าย",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 198,
+  "product_id": 176,
+  "claim_th": "เนื้อเนียนละเอียด บางเบา",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 199,
+  "product_id": 176,
+  "claim_th": "ใช้ได้กับทุกโทนสีผิว",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 200,
+  "product_id": 176,
+  "claim_th": "ปราศจากพาราเบนและน้ำหอม",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ },
+ {
+  "id": 201,
+  "product_id": 176,
+  "claim_th": "ไม่มีการทดลองกับสัตว์",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 202,
+  "product_id": 178,
+  "claim_th": "110 SAND ผิวสีเนื้อโทนชมพู",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 203,
+  "product_id": 178,
+  "claim_th": "115 LIGHT BEIGE ผิวสีเนื้อโทนธรรมชาติ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 204,
+  "product_id": 178,
+  "claim_th": "120 BEIGE ผิวสีเนื้อโทนเหลือง",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 205,
+  "product_id": 178,
+  "claim_th": "130 NATURAL ผิวสองสี",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 206,
+  "product_id": 178,
+  "claim_th": "140 HONEY ผิวสีน้ำผึ้ง",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 207,
+  "product_id": 189,
+  "claim_th": "กันน้ำ กันเหงื่อ: ติดทนนานไม่เลอะระหว่างวัน",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 208,
+  "product_id": 189,
+  "claim_th": "เพิ่มความยาว ความหนา: และความโค้งงอนเด้งให้ขนตา",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 209,
+  "product_id": 189,
+  "claim_th": "บำรุงขนตา: ให้ขนตาธรรมชาติแข็งแรงอย่างอ่อนโยน",
+  "claim_en": null,
+  "claim_type": "benefit",
+  "source_id": 1
+ },
+ {
+  "id": 210,
+  "product_id": 189,
+  "claim_th": "Rose Water และ Nano Eyelash: ช่วยดูแลและฟื้นฟูขนตา ไม่ให้ขาดหลุดร่วงง่าย",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 211,
+  "product_id": 189,
+  "claim_th": "Vitamin E: มอยส์เจอร์ไรเซอร์ที่ดี ปกป้องขนตาจากมลภาวะต่างๆ",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 212,
+  "product_id": 189,
+  "claim_th": "Vitamin B5: มอบความชุ่มชื้นและเพิ่มความแข็งแรงให้กับขนตา",
+  "claim_en": null,
+  "claim_type": "ingredient_story",
+  "source_id": 1
+ },
+ {
+  "id": 213,
+  "product_id": 190,
+  "claim_th": "ปราศจากแอลกอฮอล์ ปราศจากน้ำหอม ปราศจากสาร SLS/SLES",
+  "claim_en": null,
+  "claim_type": "free_from",
+  "source_id": 1
+ }
+]

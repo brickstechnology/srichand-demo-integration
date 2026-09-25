@@ -1,0 +1,35 @@
+[
+ {
+  "id": 1,
+  "slug": "srichand",
+  "name_en": "SRICHAND",
+  "name_th": "ศรีจันทร์",
+  "price_tier": "mass",
+  "site_url": "https://srichand.com/brand/srichand/",
+  "positioning": "Thai heritage beauty house founded in 1948 (Srichand United Dispensary Co., Ltd.; rebranded 2014; CEO Rawit Hanutsaha). Known for the Translucent Powder; now spans IN-SKIN skincare, Sunlution sunscreen, base and colour makeup.",
+  "target_audience": "Mass-market women (and increasingly men) roughly 20–45 who want proven, climate-appropriate products at drugstore prices.",
+  "source_id": 4
+ },
+ {
+  "id": 2,
+  "slug": "sasi",
+  "name_en": "SASI",
+  "name_th": "ศศิ",
+  "price_tier": "value",
+  "site_url": "https://srichand.com/brand/sasi/",
+  "positioning": "Srichand's younger sister brand, launched 2017: playful colour makeup and the Acne Sol blemish-care line at value prices.",
+  "target_audience": "Teens and young adults, roughly 16–35; first-time makeup and skincare buyers.",
+  "source_id": 4
+ },
+ {
+  "id": 3,
+  "slug": "srichand-baby",
+  "name_en": "SRICHAND Baby",
+  "name_th": "ศรีจันทร์ เบบี้",
+  "price_tier": "value",
+  "site_url": "https://srichand.com/product-category/srichand-baby/",
+  "positioning": "Baby powders under the Srichand name.",
+  "target_audience": "Parents of infants and young children.",
+  "source_id": 4
+ }
+]

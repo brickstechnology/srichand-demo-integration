@@ -1,0 +1,98 @@
+[
+ {
+  "id": 1,
+  "class_a": "retinoid",
+  "class_b": "aha",
+  "interaction": "avoid_same_session",
+  "advice_en": "Do not layer a retinoid with an exfoliating-strength AHA in the same routine. In this range glycolic acid appears only at low INCI positions (Super C serum #26/36, gel cream #24/29), so the risk is small — but alternate nights if skin feels sensitised.",
+  "advice_th": "ไม่ควรใช้เรตินอยด์ร่วมกับ AHA ความเข้มข้นสูงในรอบเดียวกัน หากผิวระคายเคืองให้สลับคืนกัน"
+ },
+ {
+  "id": 2,
+  "class_a": "retinoid",
+  "class_b": "bha",
+  "interaction": "avoid_same_session",
+  "advice_en": "Alternate nights between a retinoid and a BHA toner pad until skin is fully used to both.",
+  "advice_th": "สลับคืนระหว่างเรตินอยด์กับโทนเนอร์แพด BHA"
+ },
+ {
+  "id": 3,
+  "class_a": "aha",
+  "class_b": "bha",
+  "interaction": "avoid_same_session",
+  "advice_en": "One exfoliant per session is enough; stacking raises irritation without adding benefit.",
+  "advice_th": "ใช้สารผลัดเซลล์ผิวครั้งละชนิดเดียว"
+ },
+ {
+  "id": 4,
+  "class_a": "retinoid",
+  "class_b": "retinoid_alternative",
+  "interaction": "introduce_gradually",
+  "advice_en": "Bakuchiol (Timeless) and HPR (Resurface) can be alternated; start with one, add the other after 4 weeks if wanted.",
+  "advice_th": "เริ่มทีละตัว แล้วค่อยเพิ่มหลัง 4 สัปดาห์"
+ },
+ {
+  "id": 5,
+  "class_a": "retinoid",
+  "class_b": "uv_filter",
+  "interaction": "requires_sunscreen",
+  "advice_en": "Any retinoid routine requires daily SPF50+ PA++++ in the morning.",
+  "advice_th": "ใช้เรตินอยด์ต้องทากันแดดทุกเช้า"
+ },
+ {
+  "id": 6,
+  "class_a": "aha",
+  "class_b": "uv_filter",
+  "interaction": "requires_sunscreen",
+  "advice_en": "AHAs raise sun sensitivity; daily sunscreen is mandatory.",
+  "advice_th": "ใช้ AHA ต้องทากันแดดทุกวัน"
+ },
+ {
+  "id": 7,
+  "class_a": "bha",
+  "class_b": "uv_filter",
+  "interaction": "requires_sunscreen",
+  "advice_en": "Exfoliated skin burns faster; wear sunscreen daily.",
+  "advice_th": "ผิวที่ผลัดเซลล์ไวต่อแดด ควรทากันแดดทุกวัน"
+ },
+ {
+  "id": 8,
+  "class_a": "vitamin_c",
+  "class_b": "uv_filter",
+  "interaction": "pairs_well",
+  "advice_en": "Antioxidants under sunscreen improve defence against UV-generated free radicals — use Super C in the morning under Sunlution.",
+  "advice_th": "วิตามินซีใต้กันแดดช่วยเสริมการปกป้องผิว"
+ },
+ {
+  "id": 9,
+  "class_a": "retinoid",
+  "class_b": "ceramide",
+  "interaction": "pairs_well",
+  "advice_en": "Buffer a retinoid with a barrier moisturiser (Barrier Boost Soothing Gel Cream) to improve tolerance.",
+  "advice_th": "ใช้คู่กับมอยส์เจอร์ไรเซอร์เสริมปราการผิวเพื่อลดการระคายเคือง"
+ },
+ {
+  "id": 10,
+  "class_a": "retinoid",
+  "class_b": "soothing",
+  "interaction": "pairs_well",
+  "advice_en": "Soothing layers (ectoin, panthenol, cica) on retinoid nights reduce dryness.",
+  "advice_th": "สารปลอบประโลมช่วยลดความแห้งในคืนที่ใช้เรตินอยด์"
+ },
+ {
+  "id": 11,
+  "class_a": "brightener",
+  "class_b": "vitamin_c",
+  "interaction": "pairs_well",
+  "advice_en": "Niacinamide, tranexamic acid and vitamin-C derivatives work on different steps of visible pigmentation and combine well.",
+  "advice_th": "ไนอะซินาไมด์ ทรานซามิก และวิตามินซี ใช้ร่วมกันได้ดี"
+ },
+ {
+  "id": 12,
+  "class_a": "bha",
+  "class_b": "soothing",
+  "interaction": "pairs_well",
+  "advice_en": "Follow BHA with a fragrance-free hydrating layer to offset dryness.",
+  "advice_th": "หลังใช้ BHA ควรตามด้วยผลิตภัณฑ์เติมความชุ่มชื้น"
+ }
+]

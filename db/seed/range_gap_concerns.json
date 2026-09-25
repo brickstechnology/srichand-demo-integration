@@ -1,0 +1,46 @@
+[
+ {
+  "gap_id": 1,
+  "concern_id": 3
+ },
+ {
+  "gap_id": 1,
+  "concern_id": 4
+ },
+ {
+  "gap_id": 1,
+  "concern_id": 1
+ },
+ {
+  "gap_id": 1,
+  "concern_id": 2
+ },
+ {
+  "gap_id": 2,
+  "concern_id": 16
+ },
+ {
+  "gap_id": 2,
+  "concern_id": 5
+ },
+ {
+  "gap_id": 2,
+  "concern_id": 4
+ },
+ {
+  "gap_id": 3,
+  "concern_id": 4
+ },
+ {
+  "gap_id": 4,
+  "concern_id": 9
+ },
+ {
+  "gap_id": 4,
+  "concern_id": 10
+ },
+ {
+  "gap_id": 5,
+  "concern_id": 17
+ }
+]

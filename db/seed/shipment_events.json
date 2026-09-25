@@ -1,0 +1,5802 @@
+[
+ {
+  "id": 1,
+  "shipment_id": 1,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-14T19:00:00Z"
+ },
+ {
+  "id": 2,
+  "shipment_id": 1,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-14T22:00:00Z"
+ },
+ {
+  "id": 3,
+  "shipment_id": 1,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-16T02:00:00Z"
+ },
+ {
+  "id": 4,
+  "shipment_id": 1,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-17T06:00:00Z"
+ },
+ {
+  "id": 5,
+  "shipment_id": 2,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-18T03:00:00Z"
+ },
+ {
+  "id": 6,
+  "shipment_id": 2,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-18T06:00:00Z"
+ },
+ {
+  "id": 7,
+  "shipment_id": 2,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-18T11:00:00Z"
+ },
+ {
+  "id": 8,
+  "shipment_id": 3,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-08T14:00:00Z"
+ },
+ {
+  "id": 9,
+  "shipment_id": 3,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-08T17:00:00Z"
+ },
+ {
+  "id": 10,
+  "shipment_id": 3,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-09T19:00:00Z"
+ },
+ {
+  "id": 11,
+  "shipment_id": 3,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-10T21:00:00Z"
+ },
+ {
+  "id": 12,
+  "shipment_id": 3,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-11T23:00:00Z"
+ },
+ {
+  "id": 13,
+  "shipment_id": 4,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-01T20:00:00Z"
+ },
+ {
+  "id": 14,
+  "shipment_id": 4,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-01T23:00:00Z"
+ },
+ {
+  "id": 15,
+  "shipment_id": 4,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-02T17:20:00Z"
+ },
+ {
+  "id": 16,
+  "shipment_id": 4,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-03T11:40:00Z"
+ },
+ {
+  "id": 17,
+  "shipment_id": 4,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-04T06:00:00Z"
+ },
+ {
+  "id": 18,
+  "shipment_id": 5,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-16T16:00:00Z"
+ },
+ {
+  "id": 19,
+  "shipment_id": 5,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-16T19:00:00Z"
+ },
+ {
+  "id": 20,
+  "shipment_id": 5,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-17T03:20:00Z"
+ },
+ {
+  "id": 21,
+  "shipment_id": 5,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตจตุจักร",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-17T11:40:00Z"
+ },
+ {
+  "id": 22,
+  "shipment_id": 5,
+  "status": "delivered",
+  "location": "เขตจตุจักร",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-17T20:00:00Z"
+ },
+ {
+  "id": 23,
+  "shipment_id": 6,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-20T10:00:00Z"
+ },
+ {
+  "id": 24,
+  "shipment_id": 6,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-20T13:00:00Z"
+ },
+ {
+  "id": 25,
+  "shipment_id": 6,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-21T06:00:00Z"
+ },
+ {
+  "id": 26,
+  "shipment_id": 6,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตจตุจักร",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-21T23:00:00Z"
+ },
+ {
+  "id": 27,
+  "shipment_id": 6,
+  "status": "delivered",
+  "location": "เขตจตุจักร",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-22T16:00:00Z"
+ },
+ {
+  "id": 28,
+  "shipment_id": 7,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-20T17:00:00Z"
+ },
+ {
+  "id": 29,
+  "shipment_id": 7,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-20T20:00:00Z"
+ },
+ {
+  "id": 30,
+  "shipment_id": 7,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-21T05:00:00Z"
+ },
+ {
+  "id": 31,
+  "shipment_id": 7,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตจตุจักร",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-21T14:00:00Z"
+ },
+ {
+  "id": 32,
+  "shipment_id": 7,
+  "status": "delivered",
+  "location": "เขตจตุจักร",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-21T23:00:00Z"
+ },
+ {
+  "id": 33,
+  "shipment_id": 8,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-12T00:00:00Z"
+ },
+ {
+  "id": 34,
+  "shipment_id": 8,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-12T03:00:00Z"
+ },
+ {
+  "id": 35,
+  "shipment_id": 8,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-12T21:40:00Z"
+ },
+ {
+  "id": 36,
+  "shipment_id": 8,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-13T16:20:00Z"
+ },
+ {
+  "id": 37,
+  "shipment_id": 8,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-14T11:00:00Z"
+ },
+ {
+  "id": 38,
+  "shipment_id": 9,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-10T22:00:00Z"
+ },
+ {
+  "id": 39,
+  "shipment_id": 9,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-11T01:00:00Z"
+ },
+ {
+  "id": 40,
+  "shipment_id": 9,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-11T11:20:00Z"
+ },
+ {
+  "id": 41,
+  "shipment_id": 9,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-11T21:40:00Z"
+ },
+ {
+  "id": 42,
+  "shipment_id": 9,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-12T08:00:00Z"
+ },
+ {
+  "id": 43,
+  "shipment_id": 10,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-16T05:22:17Z"
+ },
+ {
+  "id": 44,
+  "shipment_id": 10,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-16T08:22:17Z"
+ },
+ {
+  "id": 45,
+  "shipment_id": 10,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-17T10:02:17Z"
+ },
+ {
+  "id": 46,
+  "shipment_id": 10,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-18T11:42:17Z"
+ },
+ {
+  "id": 47,
+  "shipment_id": 10,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-19T13:22:17Z"
+ },
+ {
+  "id": 48,
+  "shipment_id": 11,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-19T08:02:38Z"
+ },
+ {
+  "id": 49,
+  "shipment_id": 11,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-19T11:02:38Z"
+ },
+ {
+  "id": 50,
+  "shipment_id": 11,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-20T21:42:38Z"
+ },
+ {
+  "id": 51,
+  "shipment_id": 11,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-22T08:22:38Z"
+ },
+ {
+  "id": 52,
+  "shipment_id": 11,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-23T19:02:38Z"
+ },
+ {
+  "id": 53,
+  "shipment_id": 12,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-10T13:09:49Z"
+ },
+ {
+  "id": 54,
+  "shipment_id": 12,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-10T16:09:49Z"
+ },
+ {
+  "id": 55,
+  "shipment_id": 12,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-11T09:29:49Z"
+ },
+ {
+  "id": 56,
+  "shipment_id": 12,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-12T02:49:49Z"
+ },
+ {
+  "id": 57,
+  "shipment_id": 12,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-12T20:09:49Z"
+ },
+ {
+  "id": 58,
+  "shipment_id": 13,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-18T19:23:16Z"
+ },
+ {
+  "id": 59,
+  "shipment_id": 13,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-18T22:23:16Z"
+ },
+ {
+  "id": 60,
+  "shipment_id": 13,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-19T14:43:16Z"
+ },
+ {
+  "id": 61,
+  "shipment_id": 13,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-20T07:03:16Z"
+ },
+ {
+  "id": 62,
+  "shipment_id": 13,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-20T23:23:16Z"
+ },
+ {
+  "id": 63,
+  "shipment_id": 14,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-14T13:41:17Z"
+ },
+ {
+  "id": 64,
+  "shipment_id": 14,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-14T16:41:17Z"
+ },
+ {
+  "id": 65,
+  "shipment_id": 14,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-15T10:01:17Z"
+ },
+ {
+  "id": 66,
+  "shipment_id": 14,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-16T03:21:17Z"
+ },
+ {
+  "id": 67,
+  "shipment_id": 14,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-16T20:41:17Z"
+ },
+ {
+  "id": 68,
+  "shipment_id": 15,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-21T03:05:15Z"
+ },
+ {
+  "id": 69,
+  "shipment_id": 15,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-21T06:05:15Z"
+ },
+ {
+  "id": 70,
+  "shipment_id": 15,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-22T00:05:15Z"
+ },
+ {
+  "id": 71,
+  "shipment_id": 15,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-22T18:05:15Z"
+ },
+ {
+  "id": 72,
+  "shipment_id": 15,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-23T12:05:15Z"
+ },
+ {
+  "id": 73,
+  "shipment_id": 16,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-19T17:59:17Z"
+ },
+ {
+  "id": 74,
+  "shipment_id": 16,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-19T20:59:17Z"
+ },
+ {
+  "id": 75,
+  "shipment_id": 16,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-20T14:39:17Z"
+ },
+ {
+  "id": 76,
+  "shipment_id": 16,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-21T08:19:17Z"
+ },
+ {
+  "id": 77,
+  "shipment_id": 16,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-22T01:59:17Z"
+ },
+ {
+  "id": 78,
+  "shipment_id": 17,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-18T20:55:27Z"
+ },
+ {
+  "id": 79,
+  "shipment_id": 17,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-18T23:55:27Z"
+ },
+ {
+  "id": 80,
+  "shipment_id": 17,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สงขลา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-20T00:55:27Z"
+ },
+ {
+  "id": 81,
+  "shipment_id": 17,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอหาดใหญ่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-21T01:55:27Z"
+ },
+ {
+  "id": 82,
+  "shipment_id": 17,
+  "status": "delivered",
+  "location": "อำเภอหาดใหญ่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-22T02:55:27Z"
+ },
+ {
+  "id": 83,
+  "shipment_id": 18,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-10T12:13:11Z"
+ },
+ {
+  "id": 84,
+  "shipment_id": 18,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-10T15:13:11Z"
+ },
+ {
+  "id": 85,
+  "shipment_id": 18,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นครราชสีมา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-11T16:13:11Z"
+ },
+ {
+  "id": 86,
+  "shipment_id": 18,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนครราชสีมา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-12T17:13:11Z"
+ },
+ {
+  "id": 87,
+  "shipment_id": 18,
+  "status": "delivered",
+  "location": "อำเภอเมืองนครราชสีมา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-13T18:13:11Z"
+ },
+ {
+  "id": 88,
+  "shipment_id": 19,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-31T10:07:15Z"
+ },
+ {
+  "id": 89,
+  "shipment_id": 19,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-31T13:07:15Z"
+ },
+ {
+  "id": 90,
+  "shipment_id": 19,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-01T06:07:15Z"
+ },
+ {
+  "id": 91,
+  "shipment_id": 19,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-01T23:07:15Z"
+ },
+ {
+  "id": 92,
+  "shipment_id": 19,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-02T16:07:15Z"
+ },
+ {
+  "id": 93,
+  "shipment_id": 20,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-25T22:19:27Z"
+ },
+ {
+  "id": 94,
+  "shipment_id": 20,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-26T01:19:27Z"
+ },
+ {
+  "id": 95,
+  "shipment_id": 20,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-27T09:39:27Z"
+ },
+ {
+  "id": 96,
+  "shipment_id": 20,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-28T17:59:27Z"
+ },
+ {
+  "id": 97,
+  "shipment_id": 20,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-30T02:19:27Z"
+ },
+ {
+  "id": 98,
+  "shipment_id": 21,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-14T05:32:23Z"
+ },
+ {
+  "id": 99,
+  "shipment_id": 21,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-14T08:32:23Z"
+ },
+ {
+  "id": 100,
+  "shipment_id": 21,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-15T10:32:23Z"
+ },
+ {
+  "id": 101,
+  "shipment_id": 21,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-16T12:32:23Z"
+ },
+ {
+  "id": 102,
+  "shipment_id": 21,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-17T14:32:23Z"
+ },
+ {
+  "id": 103,
+  "shipment_id": 22,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-23T01:48:44Z"
+ },
+ {
+  "id": 104,
+  "shipment_id": 22,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-23T04:48:44Z"
+ },
+ {
+  "id": 105,
+  "shipment_id": 22,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-23T14:48:44Z"
+ },
+ {
+  "id": 106,
+  "shipment_id": 22,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-24T00:48:44Z"
+ },
+ {
+  "id": 107,
+  "shipment_id": 22,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-24T10:48:44Z"
+ },
+ {
+  "id": 108,
+  "shipment_id": 23,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-05-31T13:03:22Z"
+ },
+ {
+  "id": 109,
+  "shipment_id": 23,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-05-31T16:03:22Z"
+ },
+ {
+  "id": 110,
+  "shipment_id": 23,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-01T16:23:22Z"
+ },
+ {
+  "id": 111,
+  "shipment_id": 23,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-02T16:43:22Z"
+ },
+ {
+  "id": 112,
+  "shipment_id": 23,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-03T17:03:22Z"
+ },
+ {
+  "id": 113,
+  "shipment_id": 24,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-22T03:24:25Z"
+ },
+ {
+  "id": 114,
+  "shipment_id": 24,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-22T06:24:25Z"
+ },
+ {
+  "id": 115,
+  "shipment_id": 24,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-23T07:04:25Z"
+ },
+ {
+  "id": 116,
+  "shipment_id": 24,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-24T07:44:25Z"
+ },
+ {
+  "id": 117,
+  "shipment_id": 24,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-25T08:24:25Z"
+ },
+ {
+  "id": 118,
+  "shipment_id": 25,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-03T10:19:52Z"
+ },
+ {
+  "id": 119,
+  "shipment_id": 25,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-03T13:19:52Z"
+ },
+ {
+  "id": 120,
+  "shipment_id": 25,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-04T07:39:52Z"
+ },
+ {
+  "id": 121,
+  "shipment_id": 25,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-05T01:59:52Z"
+ },
+ {
+  "id": 122,
+  "shipment_id": 25,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-05T20:19:52Z"
+ },
+ {
+  "id": 123,
+  "shipment_id": 26,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-06T19:00:36Z"
+ },
+ {
+  "id": 124,
+  "shipment_id": 26,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-06T22:00:36Z"
+ },
+ {
+  "id": 125,
+  "shipment_id": 26,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สงขลา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-08T00:20:36Z"
+ },
+ {
+  "id": 126,
+  "shipment_id": 26,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอหาดใหญ่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-09T02:40:36Z"
+ },
+ {
+  "id": 127,
+  "shipment_id": 26,
+  "status": "delivered",
+  "location": "อำเภอหาดใหญ่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-10T05:00:36Z"
+ },
+ {
+  "id": 128,
+  "shipment_id": 27,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-02T16:11:19Z"
+ },
+ {
+  "id": 129,
+  "shipment_id": 27,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-02T19:11:19Z"
+ },
+ {
+  "id": 130,
+  "shipment_id": 27,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-03T05:11:19Z"
+ },
+ {
+  "id": 131,
+  "shipment_id": 27,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-03T15:11:19Z"
+ },
+ {
+  "id": 132,
+  "shipment_id": 27,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-04T01:11:19Z"
+ },
+ {
+  "id": 133,
+  "shipment_id": 28,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-13T18:41:30Z"
+ },
+ {
+  "id": 134,
+  "shipment_id": 28,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-13T21:41:30Z"
+ },
+ {
+  "id": 135,
+  "shipment_id": 28,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-14T22:41:30Z"
+ },
+ {
+  "id": 136,
+  "shipment_id": 28,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-15T23:41:30Z"
+ },
+ {
+  "id": 137,
+  "shipment_id": 28,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-17T00:41:30Z"
+ },
+ {
+  "id": 138,
+  "shipment_id": 29,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-24T10:41:52Z"
+ },
+ {
+  "id": 139,
+  "shipment_id": 29,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-24T13:41:52Z"
+ },
+ {
+  "id": 140,
+  "shipment_id": 29,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-24T22:21:52Z"
+ },
+ {
+  "id": 141,
+  "shipment_id": 29,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-25T07:01:52Z"
+ },
+ {
+  "id": 142,
+  "shipment_id": 29,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-25T15:41:52Z"
+ },
+ {
+  "id": 143,
+  "shipment_id": 30,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-05T08:21:03Z"
+ },
+ {
+  "id": 144,
+  "shipment_id": 30,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-05T11:21:03Z"
+ },
+ {
+  "id": 145,
+  "shipment_id": 30,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-06T04:41:03Z"
+ },
+ {
+  "id": 146,
+  "shipment_id": 30,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-06T22:01:03Z"
+ },
+ {
+  "id": 147,
+  "shipment_id": 30,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-07T15:21:03Z"
+ },
+ {
+  "id": 148,
+  "shipment_id": 31,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-03T07:04:14Z"
+ },
+ {
+  "id": 149,
+  "shipment_id": 31,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-03T10:04:14Z"
+ },
+ {
+  "id": 150,
+  "shipment_id": 31,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-04T04:04:14Z"
+ },
+ {
+  "id": 151,
+  "shipment_id": 31,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-04T22:04:14Z"
+ },
+ {
+  "id": 152,
+  "shipment_id": 31,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-05T16:04:14Z"
+ },
+ {
+  "id": 153,
+  "shipment_id": 32,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-05T12:13:31Z"
+ },
+ {
+  "id": 154,
+  "shipment_id": 32,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-05T15:13:31Z"
+ },
+ {
+  "id": 155,
+  "shipment_id": 32,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-06T23:33:31Z"
+ },
+ {
+  "id": 156,
+  "shipment_id": 32,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-08T07:53:31Z"
+ },
+ {
+  "id": 157,
+  "shipment_id": 32,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-09T16:13:31Z"
+ },
+ {
+  "id": 158,
+  "shipment_id": 33,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-21T13:00:51Z"
+ },
+ {
+  "id": 159,
+  "shipment_id": 33,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-21T16:00:51Z"
+ },
+ {
+  "id": 160,
+  "shipment_id": 33,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สงขลา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-22T10:00:51Z"
+ },
+ {
+  "id": 161,
+  "shipment_id": 33,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอหาดใหญ่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-23T04:00:51Z"
+ },
+ {
+  "id": 162,
+  "shipment_id": 33,
+  "status": "delivered",
+  "location": "อำเภอหาดใหญ่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-23T22:00:51Z"
+ },
+ {
+  "id": 163,
+  "shipment_id": 34,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-27T22:14:52Z"
+ },
+ {
+  "id": 164,
+  "shipment_id": 34,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-28T01:14:52Z"
+ },
+ {
+  "id": 165,
+  "shipment_id": 34,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-29T03:34:52Z"
+ },
+ {
+  "id": 166,
+  "shipment_id": 34,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-30T05:54:52Z"
+ },
+ {
+  "id": 167,
+  "shipment_id": 34,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-31T08:14:52Z"
+ },
+ {
+  "id": 168,
+  "shipment_id": 35,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-26T22:53:31Z"
+ },
+ {
+  "id": 169,
+  "shipment_id": 35,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-27T01:53:31Z"
+ },
+ {
+  "id": 170,
+  "shipment_id": 35,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นครราชสีมา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-28T10:13:31Z"
+ },
+ {
+  "id": 171,
+  "shipment_id": 35,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนครราชสีมา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-29T18:33:31Z"
+ },
+ {
+  "id": 172,
+  "shipment_id": 35,
+  "status": "delivered",
+  "location": "อำเภอเมืองนครราชสีมา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-01T02:53:31Z"
+ },
+ {
+  "id": 173,
+  "shipment_id": 36,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-08T17:02:48Z"
+ },
+ {
+  "id": 174,
+  "shipment_id": 36,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-08T20:02:48Z"
+ },
+ {
+  "id": 175,
+  "shipment_id": 36,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นครราชสีมา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-09T20:42:48Z"
+ },
+ {
+  "id": 176,
+  "shipment_id": 36,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนครราชสีมา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-10T21:22:48Z"
+ },
+ {
+  "id": 177,
+  "shipment_id": 36,
+  "status": "delivered",
+  "location": "อำเภอเมืองนครราชสีมา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-11T22:02:48Z"
+ },
+ {
+  "id": 178,
+  "shipment_id": 37,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-24T03:34:56Z"
+ },
+ {
+  "id": 179,
+  "shipment_id": 37,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-24T06:34:56Z"
+ },
+ {
+  "id": 180,
+  "shipment_id": 37,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-25T01:14:56Z"
+ },
+ {
+  "id": 181,
+  "shipment_id": 37,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-25T19:54:56Z"
+ },
+ {
+  "id": 182,
+  "shipment_id": 37,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-26T14:34:56Z"
+ },
+ {
+  "id": 183,
+  "shipment_id": 38,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-24T11:15:50Z"
+ },
+ {
+  "id": 184,
+  "shipment_id": 38,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-24T14:15:50Z"
+ },
+ {
+  "id": 185,
+  "shipment_id": 38,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-25T14:35:50Z"
+ },
+ {
+  "id": 186,
+  "shipment_id": 38,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-26T14:55:50Z"
+ },
+ {
+  "id": 187,
+  "shipment_id": 38,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-27T15:15:50Z"
+ },
+ {
+  "id": 188,
+  "shipment_id": 39,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-25T13:52:38Z"
+ },
+ {
+  "id": 189,
+  "shipment_id": 39,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-25T16:52:38Z"
+ },
+ {
+  "id": 190,
+  "shipment_id": 39,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-26T02:12:38Z"
+ },
+ {
+  "id": 191,
+  "shipment_id": 39,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-26T11:32:38Z"
+ },
+ {
+  "id": 192,
+  "shipment_id": 39,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-26T20:52:38Z"
+ },
+ {
+  "id": 193,
+  "shipment_id": 40,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-10T09:30:54Z"
+ },
+ {
+  "id": 194,
+  "shipment_id": 40,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-10T12:30:54Z"
+ },
+ {
+  "id": 195,
+  "shipment_id": 40,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-11T13:10:54Z"
+ },
+ {
+  "id": 196,
+  "shipment_id": 40,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-12T13:50:54Z"
+ },
+ {
+  "id": 197,
+  "shipment_id": 40,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-13T14:30:54Z"
+ },
+ {
+  "id": 198,
+  "shipment_id": 41,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-06T15:05:55Z"
+ },
+ {
+  "id": 199,
+  "shipment_id": 41,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-06T18:05:55Z"
+ },
+ {
+  "id": 200,
+  "shipment_id": 41,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-08T04:25:55Z"
+ },
+ {
+  "id": 201,
+  "shipment_id": 41,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-09T14:45:55Z"
+ },
+ {
+  "id": 202,
+  "shipment_id": 41,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-11T01:05:55Z"
+ },
+ {
+  "id": 203,
+  "shipment_id": 42,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-18T03:00:15Z"
+ },
+ {
+  "id": 204,
+  "shipment_id": 42,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-18T06:00:15Z"
+ },
+ {
+  "id": 205,
+  "shipment_id": 42,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-19T00:40:15Z"
+ },
+ {
+  "id": 206,
+  "shipment_id": 42,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-19T19:20:15Z"
+ },
+ {
+  "id": 207,
+  "shipment_id": 42,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-20T14:00:15Z"
+ },
+ {
+  "id": 208,
+  "shipment_id": 43,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-06T11:38:17Z"
+ },
+ {
+  "id": 209,
+  "shipment_id": 43,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-06T14:38:17Z"
+ },
+ {
+  "id": 210,
+  "shipment_id": 43,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-07T07:18:17Z"
+ },
+ {
+  "id": 211,
+  "shipment_id": 43,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-07T23:58:17Z"
+ },
+ {
+  "id": 212,
+  "shipment_id": 43,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-08T16:38:17Z"
+ },
+ {
+  "id": 213,
+  "shipment_id": 44,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-12T19:18:30Z"
+ },
+ {
+  "id": 214,
+  "shipment_id": 44,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-12T22:18:30Z"
+ },
+ {
+  "id": 215,
+  "shipment_id": 44,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-14T08:58:30Z"
+ },
+ {
+  "id": 216,
+  "shipment_id": 44,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-15T19:38:30Z"
+ },
+ {
+  "id": 217,
+  "shipment_id": 44,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-17T06:18:30Z"
+ },
+ {
+  "id": 218,
+  "shipment_id": 45,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-29T17:57:46Z"
+ },
+ {
+  "id": 219,
+  "shipment_id": 45,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-29T20:57:46Z"
+ },
+ {
+  "id": 220,
+  "shipment_id": 45,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สงขลา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-30T13:37:46Z"
+ },
+ {
+  "id": 221,
+  "shipment_id": 45,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอหาดใหญ่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-31T06:17:46Z"
+ },
+ {
+  "id": 222,
+  "shipment_id": 45,
+  "status": "delivered",
+  "location": "อำเภอหาดใหญ่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-31T22:57:46Z"
+ },
+ {
+  "id": 223,
+  "shipment_id": 46,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-29T18:06:03Z"
+ },
+ {
+  "id": 224,
+  "shipment_id": 46,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-29T21:06:03Z"
+ },
+ {
+  "id": 225,
+  "shipment_id": 46,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นครราชสีมา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-30T21:46:03Z"
+ },
+ {
+  "id": 226,
+  "shipment_id": 46,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนครราชสีมา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-31T22:26:03Z"
+ },
+ {
+  "id": 227,
+  "shipment_id": 46,
+  "status": "delivered",
+  "location": "อำเภอเมืองนครราชสีมา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-01T23:06:03Z"
+ },
+ {
+  "id": 228,
+  "shipment_id": 47,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-06T02:25:14Z"
+ },
+ {
+  "id": 229,
+  "shipment_id": 47,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-06T05:25:14Z"
+ },
+ {
+  "id": 230,
+  "shipment_id": 47,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-06T15:05:14Z"
+ },
+ {
+  "id": 231,
+  "shipment_id": 47,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตจตุจักร",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-07T00:45:14Z"
+ },
+ {
+  "id": 232,
+  "shipment_id": 47,
+  "status": "delivered",
+  "location": "เขตจตุจักร",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-07T10:25:14Z"
+ },
+ {
+  "id": 233,
+  "shipment_id": 48,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-12T05:20:28Z"
+ },
+ {
+  "id": 234,
+  "shipment_id": 48,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-12T08:20:28Z"
+ },
+ {
+  "id": 235,
+  "shipment_id": 48,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-13T02:40:28Z"
+ },
+ {
+  "id": 236,
+  "shipment_id": 48,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-13T21:00:28Z"
+ },
+ {
+  "id": 237,
+  "shipment_id": 48,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-14T15:20:28Z"
+ },
+ {
+  "id": 238,
+  "shipment_id": 49,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-25T11:00:39Z"
+ },
+ {
+  "id": 239,
+  "shipment_id": 49,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-25T14:00:39Z"
+ },
+ {
+  "id": 240,
+  "shipment_id": 49,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-26T07:00:39Z"
+ },
+ {
+  "id": 241,
+  "shipment_id": 49,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-27T00:00:39Z"
+ },
+ {
+  "id": 242,
+  "shipment_id": 49,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-27T17:00:39Z"
+ },
+ {
+  "id": 243,
+  "shipment_id": 50,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-25T01:06:23Z"
+ },
+ {
+  "id": 244,
+  "shipment_id": 50,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-25T04:06:23Z"
+ },
+ {
+  "id": 245,
+  "shipment_id": 50,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-25T12:46:23Z"
+ },
+ {
+  "id": 246,
+  "shipment_id": 50,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-25T21:26:23Z"
+ },
+ {
+  "id": 247,
+  "shipment_id": 50,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-26T06:06:23Z"
+ },
+ {
+  "id": 248,
+  "shipment_id": 51,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-14T13:17:05Z"
+ },
+ {
+  "id": 249,
+  "shipment_id": 51,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-14T16:17:05Z"
+ },
+ {
+  "id": 250,
+  "shipment_id": 51,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-15T00:57:05Z"
+ },
+ {
+  "id": 251,
+  "shipment_id": 51,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-15T09:37:05Z"
+ },
+ {
+  "id": 252,
+  "shipment_id": 51,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-15T18:17:05Z"
+ },
+ {
+  "id": 253,
+  "shipment_id": 52,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-25T19:06:21Z"
+ },
+ {
+  "id": 254,
+  "shipment_id": 52,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-25T22:06:21Z"
+ },
+ {
+  "id": 255,
+  "shipment_id": 52,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-26T23:06:21Z"
+ },
+ {
+  "id": 256,
+  "shipment_id": 52,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-28T00:06:21Z"
+ },
+ {
+  "id": 257,
+  "shipment_id": 52,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-29T01:06:21Z"
+ },
+ {
+  "id": 258,
+  "shipment_id": 53,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-28T08:01:44Z"
+ },
+ {
+  "id": 259,
+  "shipment_id": 53,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-28T11:01:44Z"
+ },
+ {
+  "id": 260,
+  "shipment_id": 53,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-29T20:21:44Z"
+ },
+ {
+  "id": 261,
+  "shipment_id": 53,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-31T05:41:44Z"
+ },
+ {
+  "id": 262,
+  "shipment_id": 53,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-01T15:01:44Z"
+ },
+ {
+  "id": 263,
+  "shipment_id": 54,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-27T16:50:47Z"
+ },
+ {
+  "id": 264,
+  "shipment_id": 54,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-27T19:50:47Z"
+ },
+ {
+  "id": 265,
+  "shipment_id": 54,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-28T04:30:47Z"
+ },
+ {
+  "id": 266,
+  "shipment_id": 54,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-28T13:10:47Z"
+ },
+ {
+  "id": 267,
+  "shipment_id": 54,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-28T21:50:47Z"
+ },
+ {
+  "id": 268,
+  "shipment_id": 55,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-12T01:59:44Z"
+ },
+ {
+  "id": 269,
+  "shipment_id": 55,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-12T04:59:44Z"
+ },
+ {
+  "id": 270,
+  "shipment_id": 55,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-12T13:59:44Z"
+ },
+ {
+  "id": 271,
+  "shipment_id": 55,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตจตุจักร",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-12T22:59:44Z"
+ },
+ {
+  "id": 272,
+  "shipment_id": 55,
+  "status": "delivered",
+  "location": "เขตจตุจักร",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-13T07:59:44Z"
+ },
+ {
+  "id": 273,
+  "shipment_id": 56,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-24T14:29:04Z"
+ },
+ {
+  "id": 274,
+  "shipment_id": 56,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-24T17:29:04Z"
+ },
+ {
+  "id": 275,
+  "shipment_id": 56,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-25T03:49:04Z"
+ },
+ {
+  "id": 276,
+  "shipment_id": 56,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-25T14:09:04Z"
+ },
+ {
+  "id": 277,
+  "shipment_id": 56,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-26T00:29:04Z"
+ },
+ {
+  "id": 278,
+  "shipment_id": 57,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-04T17:06:41Z"
+ },
+ {
+  "id": 279,
+  "shipment_id": 57,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-04T20:06:41Z"
+ },
+ {
+  "id": 280,
+  "shipment_id": 57,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-05T13:06:41Z"
+ },
+ {
+  "id": 281,
+  "shipment_id": 57,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-06T06:06:41Z"
+ },
+ {
+  "id": 282,
+  "shipment_id": 57,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-06T23:06:41Z"
+ },
+ {
+  "id": 283,
+  "shipment_id": 58,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-25T01:43:21Z"
+ },
+ {
+  "id": 284,
+  "shipment_id": 58,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-25T04:43:21Z"
+ },
+ {
+  "id": 285,
+  "shipment_id": 58,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-26T07:23:21Z"
+ },
+ {
+  "id": 286,
+  "shipment_id": 58,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-27T10:03:21Z"
+ },
+ {
+  "id": 287,
+  "shipment_id": 58,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-28T12:43:21Z"
+ },
+ {
+  "id": 288,
+  "shipment_id": 59,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-26T06:58:47Z"
+ },
+ {
+  "id": 289,
+  "shipment_id": 59,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-26T09:58:47Z"
+ },
+ {
+  "id": 290,
+  "shipment_id": 59,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-27T12:18:47Z"
+ },
+ {
+  "id": 291,
+  "shipment_id": 59,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-28T14:38:47Z"
+ },
+ {
+  "id": 292,
+  "shipment_id": 59,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-29T16:58:47Z"
+ },
+ {
+  "id": 293,
+  "shipment_id": 60,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-14T16:19:10Z"
+ },
+ {
+  "id": 294,
+  "shipment_id": 60,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-14T19:19:10Z"
+ },
+ {
+  "id": 295,
+  "shipment_id": 60,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-15T20:39:10Z"
+ },
+ {
+  "id": 296,
+  "shipment_id": 60,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-16T21:59:10Z"
+ },
+ {
+  "id": 297,
+  "shipment_id": 60,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-17T23:19:10Z"
+ },
+ {
+  "id": 298,
+  "shipment_id": 61,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-03T07:41:49Z"
+ },
+ {
+  "id": 299,
+  "shipment_id": 61,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-03T10:41:49Z"
+ },
+ {
+  "id": 300,
+  "shipment_id": 61,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-04T03:41:49Z"
+ },
+ {
+  "id": 301,
+  "shipment_id": 61,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-04T20:41:49Z"
+ },
+ {
+  "id": 302,
+  "shipment_id": 61,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-05T13:41:49Z"
+ },
+ {
+  "id": 303,
+  "shipment_id": 62,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-05-27T01:58:04Z"
+ },
+ {
+  "id": 304,
+  "shipment_id": 62,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-05-27T04:58:04Z"
+ },
+ {
+  "id": 305,
+  "shipment_id": 62,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-05-27T23:18:04Z"
+ },
+ {
+  "id": 306,
+  "shipment_id": 62,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-05-28T17:38:04Z"
+ },
+ {
+  "id": 307,
+  "shipment_id": 62,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-05-29T11:58:04Z"
+ },
+ {
+  "id": 308,
+  "shipment_id": 63,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-16T15:56:52Z"
+ },
+ {
+  "id": 309,
+  "shipment_id": 63,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-16T18:56:52Z"
+ },
+ {
+  "id": 310,
+  "shipment_id": 63,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-18T05:16:52Z"
+ },
+ {
+  "id": 311,
+  "shipment_id": 63,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-19T15:36:52Z"
+ },
+ {
+  "id": 312,
+  "shipment_id": 63,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-21T01:56:52Z"
+ },
+ {
+  "id": 313,
+  "shipment_id": 64,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-01T12:47:44Z"
+ },
+ {
+  "id": 314,
+  "shipment_id": 64,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-01T15:47:44Z"
+ },
+ {
+  "id": 315,
+  "shipment_id": 64,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-02T00:47:44Z"
+ },
+ {
+  "id": 316,
+  "shipment_id": 64,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-02T09:47:44Z"
+ },
+ {
+  "id": 317,
+  "shipment_id": 64,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-02T18:47:44Z"
+ },
+ {
+  "id": 318,
+  "shipment_id": 65,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-21T00:56:01Z"
+ },
+ {
+  "id": 319,
+  "shipment_id": 65,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-21T03:56:01Z"
+ },
+ {
+  "id": 320,
+  "shipment_id": 65,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-21T20:56:01Z"
+ },
+ {
+  "id": 321,
+  "shipment_id": 65,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-22T13:56:01Z"
+ },
+ {
+  "id": 322,
+  "shipment_id": 65,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-23T06:56:01Z"
+ },
+ {
+  "id": 323,
+  "shipment_id": 66,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-08T12:19:49Z"
+ },
+ {
+  "id": 324,
+  "shipment_id": 66,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-08T15:19:49Z"
+ },
+ {
+  "id": 325,
+  "shipment_id": 66,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-09T08:39:49Z"
+ },
+ {
+  "id": 326,
+  "shipment_id": 66,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-10T01:59:49Z"
+ },
+ {
+  "id": 327,
+  "shipment_id": 66,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-10T19:19:49Z"
+ },
+ {
+  "id": 328,
+  "shipment_id": 67,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-09T02:20:18Z"
+ },
+ {
+  "id": 329,
+  "shipment_id": 67,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-09T05:20:18Z"
+ },
+ {
+  "id": 330,
+  "shipment_id": 67,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-09T14:20:18Z"
+ },
+ {
+  "id": 331,
+  "shipment_id": 67,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-09T23:20:18Z"
+ },
+ {
+  "id": 332,
+  "shipment_id": 67,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-10T08:20:18Z"
+ },
+ {
+  "id": 333,
+  "shipment_id": 68,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-05T03:12:13Z"
+ },
+ {
+  "id": 334,
+  "shipment_id": 68,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-05T06:12:13Z"
+ },
+ {
+  "id": 335,
+  "shipment_id": 68,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-05T14:32:13Z"
+ },
+ {
+  "id": 336,
+  "shipment_id": 68,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-05T22:52:13Z"
+ },
+ {
+  "id": 337,
+  "shipment_id": 68,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-06T07:12:13Z"
+ },
+ {
+  "id": 338,
+  "shipment_id": 69,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-17T14:14:04Z"
+ },
+ {
+  "id": 339,
+  "shipment_id": 69,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-17T17:14:04Z"
+ },
+ {
+  "id": 340,
+  "shipment_id": 69,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-18T11:54:04Z"
+ },
+ {
+  "id": 341,
+  "shipment_id": 69,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-19T06:34:04Z"
+ },
+ {
+  "id": 342,
+  "shipment_id": 69,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-20T01:14:04Z"
+ },
+ {
+  "id": 343,
+  "shipment_id": 70,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-18T10:38:10Z"
+ },
+ {
+  "id": 344,
+  "shipment_id": 70,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-18T13:38:10Z"
+ },
+ {
+  "id": 345,
+  "shipment_id": 70,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ชลบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-19T06:58:10Z"
+ },
+ {
+  "id": 346,
+  "shipment_id": 70,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองชลบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-20T00:18:10Z"
+ },
+ {
+  "id": 347,
+  "shipment_id": 70,
+  "status": "delivered",
+  "location": "อำเภอเมืองชลบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-20T17:38:10Z"
+ },
+ {
+  "id": 348,
+  "shipment_id": 71,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-05-30T18:29:07Z"
+ },
+ {
+  "id": 349,
+  "shipment_id": 71,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-05-30T21:29:07Z"
+ },
+ {
+  "id": 350,
+  "shipment_id": 71,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-05-31T07:09:07Z"
+ },
+ {
+  "id": 351,
+  "shipment_id": 71,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-05-31T16:49:07Z"
+ },
+ {
+  "id": 352,
+  "shipment_id": 71,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-01T02:29:07Z"
+ },
+ {
+  "id": 353,
+  "shipment_id": 72,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-08T15:11:25Z"
+ },
+ {
+  "id": 354,
+  "shipment_id": 72,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-08T18:11:25Z"
+ },
+ {
+  "id": 355,
+  "shipment_id": 72,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-09T11:31:25Z"
+ },
+ {
+  "id": 356,
+  "shipment_id": 72,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-10T04:51:25Z"
+ },
+ {
+  "id": 357,
+  "shipment_id": 72,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-10T22:11:25Z"
+ },
+ {
+  "id": 358,
+  "shipment_id": 73,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-05T22:30:54Z"
+ },
+ {
+  "id": 359,
+  "shipment_id": 73,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-06T01:30:54Z"
+ },
+ {
+  "id": 360,
+  "shipment_id": 73,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-06T19:10:54Z"
+ },
+ {
+  "id": 361,
+  "shipment_id": 73,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-07T12:50:54Z"
+ },
+ {
+  "id": 362,
+  "shipment_id": 73,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-08T06:30:54Z"
+ },
+ {
+  "id": 363,
+  "shipment_id": 74,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-25T21:32:47Z"
+ },
+ {
+  "id": 364,
+  "shipment_id": 74,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-26T00:32:47Z"
+ },
+ {
+  "id": 365,
+  "shipment_id": 74,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-26T17:52:47Z"
+ },
+ {
+  "id": 366,
+  "shipment_id": 74,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-27T11:12:47Z"
+ },
+ {
+  "id": 367,
+  "shipment_id": 74,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-28T04:32:47Z"
+ },
+ {
+  "id": 368,
+  "shipment_id": 75,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-23T16:09:39Z"
+ },
+ {
+  "id": 369,
+  "shipment_id": 75,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-23T19:09:39Z"
+ },
+ {
+  "id": 370,
+  "shipment_id": 75,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-24T04:29:39Z"
+ },
+ {
+  "id": 371,
+  "shipment_id": 75,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-24T13:49:39Z"
+ },
+ {
+  "id": 372,
+  "shipment_id": 75,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-24T23:09:39Z"
+ },
+ {
+  "id": 373,
+  "shipment_id": 76,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-09T21:22:25Z"
+ },
+ {
+  "id": 374,
+  "shipment_id": 76,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-10T00:22:25Z"
+ },
+ {
+  "id": 375,
+  "shipment_id": 76,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-10T08:42:25Z"
+ },
+ {
+  "id": 376,
+  "shipment_id": 76,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-10T17:02:25Z"
+ },
+ {
+  "id": 377,
+  "shipment_id": 76,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-11T01:22:25Z"
+ },
+ {
+  "id": 378,
+  "shipment_id": 77,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-28T14:29:35Z"
+ },
+ {
+  "id": 379,
+  "shipment_id": 77,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-28T17:29:35Z"
+ },
+ {
+  "id": 380,
+  "shipment_id": 77,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-29T10:29:35Z"
+ },
+ {
+  "id": 381,
+  "shipment_id": 77,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-30T03:29:35Z"
+ },
+ {
+  "id": 382,
+  "shipment_id": 77,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-30T20:29:35Z"
+ },
+ {
+  "id": 383,
+  "shipment_id": 78,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-23T20:07:14Z"
+ },
+ {
+  "id": 384,
+  "shipment_id": 78,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-23T23:07:14Z"
+ },
+ {
+  "id": 385,
+  "shipment_id": 78,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-24T08:27:14Z"
+ },
+ {
+  "id": 386,
+  "shipment_id": 78,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-24T17:47:14Z"
+ },
+ {
+  "id": 387,
+  "shipment_id": 78,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-25T03:07:14Z"
+ },
+ {
+  "id": 388,
+  "shipment_id": 79,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-05T13:52:31Z"
+ },
+ {
+  "id": 389,
+  "shipment_id": 79,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-05T16:52:31Z"
+ },
+ {
+  "id": 390,
+  "shipment_id": 79,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-07T01:52:31Z"
+ },
+ {
+  "id": 391,
+  "shipment_id": 79,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-08T10:52:31Z"
+ },
+ {
+  "id": 392,
+  "shipment_id": 79,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-09T19:52:31Z"
+ },
+ {
+  "id": 393,
+  "shipment_id": 80,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-13T01:22:55Z"
+ },
+ {
+  "id": 394,
+  "shipment_id": 80,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-13T04:22:55Z"
+ },
+ {
+  "id": 395,
+  "shipment_id": 80,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ชลบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-14T13:22:55Z"
+ },
+ {
+  "id": 396,
+  "shipment_id": 80,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองชลบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-15T22:22:55Z"
+ },
+ {
+  "id": 397,
+  "shipment_id": 80,
+  "status": "delivered",
+  "location": "อำเภอเมืองชลบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-17T07:22:55Z"
+ },
+ {
+  "id": 398,
+  "shipment_id": 81,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-13T09:32:04Z"
+ },
+ {
+  "id": 399,
+  "shipment_id": 81,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-13T12:32:04Z"
+ },
+ {
+  "id": 400,
+  "shipment_id": 81,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-14T06:52:04Z"
+ },
+ {
+  "id": 401,
+  "shipment_id": 81,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตจตุจักร",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-15T01:12:04Z"
+ },
+ {
+  "id": 402,
+  "shipment_id": 81,
+  "status": "delivered",
+  "location": "เขตจตุจักร",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-15T19:32:04Z"
+ },
+ {
+  "id": 403,
+  "shipment_id": 82,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-25T00:39:58Z"
+ },
+ {
+  "id": 404,
+  "shipment_id": 82,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-25T03:39:58Z"
+ },
+ {
+  "id": 405,
+  "shipment_id": 82,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-26T11:59:58Z"
+ },
+ {
+  "id": 406,
+  "shipment_id": 82,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-27T20:19:58Z"
+ },
+ {
+  "id": 407,
+  "shipment_id": 82,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-29T04:39:58Z"
+ },
+ {
+  "id": 408,
+  "shipment_id": 83,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-11T14:40:04Z"
+ },
+ {
+  "id": 409,
+  "shipment_id": 83,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-11T17:40:04Z"
+ },
+ {
+  "id": 410,
+  "shipment_id": 83,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-12T11:20:04Z"
+ },
+ {
+  "id": 411,
+  "shipment_id": 83,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-13T05:00:04Z"
+ },
+ {
+  "id": 412,
+  "shipment_id": 83,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-13T22:40:04Z"
+ },
+ {
+  "id": 413,
+  "shipment_id": 84,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-06T18:32:43Z"
+ },
+ {
+  "id": 414,
+  "shipment_id": 84,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-06T21:32:43Z"
+ },
+ {
+  "id": 415,
+  "shipment_id": 84,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-07T07:52:43Z"
+ },
+ {
+  "id": 416,
+  "shipment_id": 84,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-07T18:12:43Z"
+ },
+ {
+  "id": 417,
+  "shipment_id": 84,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-08T04:32:43Z"
+ },
+ {
+  "id": 418,
+  "shipment_id": 85,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-29T16:25:03Z"
+ },
+ {
+  "id": 419,
+  "shipment_id": 85,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-29T19:25:03Z"
+ },
+ {
+  "id": 420,
+  "shipment_id": 85,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-30T05:45:03Z"
+ },
+ {
+  "id": 421,
+  "shipment_id": 85,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-30T16:05:03Z"
+ },
+ {
+  "id": 422,
+  "shipment_id": 85,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-01T02:25:03Z"
+ },
+ {
+  "id": 423,
+  "shipment_id": 86,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-01T15:15:21Z"
+ },
+ {
+  "id": 424,
+  "shipment_id": 86,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-01T18:15:21Z"
+ },
+ {
+  "id": 425,
+  "shipment_id": 86,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ชลบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-02T18:35:21Z"
+ },
+ {
+  "id": 426,
+  "shipment_id": 86,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองชลบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-03T18:55:21Z"
+ },
+ {
+  "id": 427,
+  "shipment_id": 86,
+  "status": "delivered",
+  "location": "อำเภอเมืองชลบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-04T19:15:21Z"
+ },
+ {
+  "id": 428,
+  "shipment_id": 87,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-31T19:58:29Z"
+ },
+ {
+  "id": 429,
+  "shipment_id": 87,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-31T22:58:29Z"
+ },
+ {
+  "id": 430,
+  "shipment_id": 87,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-01T08:38:29Z"
+ },
+ {
+  "id": 431,
+  "shipment_id": 87,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-01T18:18:29Z"
+ },
+ {
+  "id": 432,
+  "shipment_id": 87,
+  "status": "delivered",
+  "location": "เขตบางนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-02T03:58:29Z"
+ },
+ {
+  "id": 433,
+  "shipment_id": 88,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-16T19:30:06Z"
+ },
+ {
+  "id": 434,
+  "shipment_id": 88,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-16T22:30:06Z"
+ },
+ {
+  "id": 435,
+  "shipment_id": 88,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-17T06:50:06Z"
+ },
+ {
+  "id": 436,
+  "shipment_id": 88,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-17T15:10:06Z"
+ },
+ {
+  "id": 437,
+  "shipment_id": 88,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-17T23:30:06Z"
+ },
+ {
+  "id": 438,
+  "shipment_id": 89,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-08T21:02:20Z"
+ },
+ {
+  "id": 439,
+  "shipment_id": 89,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-09T00:02:20Z"
+ },
+ {
+  "id": 440,
+  "shipment_id": 89,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-10T00:22:20Z"
+ },
+ {
+  "id": 441,
+  "shipment_id": 89,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-11T00:42:20Z"
+ },
+ {
+  "id": 442,
+  "shipment_id": 89,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-12T01:02:20Z"
+ },
+ {
+  "id": 443,
+  "shipment_id": 90,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-06T14:42:58Z"
+ },
+ {
+  "id": 444,
+  "shipment_id": 90,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-06T17:42:58Z"
+ },
+ {
+  "id": 445,
+  "shipment_id": 90,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-07T10:42:58Z"
+ },
+ {
+  "id": 446,
+  "shipment_id": 90,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-08T03:42:58Z"
+ },
+ {
+  "id": 447,
+  "shipment_id": 90,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-08T20:42:58Z"
+ },
+ {
+  "id": 448,
+  "shipment_id": 91,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-16T05:40:27Z"
+ },
+ {
+  "id": 449,
+  "shipment_id": 91,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-16T08:40:27Z"
+ },
+ {
+  "id": 450,
+  "shipment_id": 91,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-17T17:00:27Z"
+ },
+ {
+  "id": 451,
+  "shipment_id": 91,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-19T01:20:27Z"
+ },
+ {
+  "id": 452,
+  "shipment_id": 91,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-20T09:40:27Z"
+ },
+ {
+  "id": 453,
+  "shipment_id": 92,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-18T21:02:02Z"
+ },
+ {
+  "id": 454,
+  "shipment_id": 92,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-19T00:02:02Z"
+ },
+ {
+  "id": 455,
+  "shipment_id": 92,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-19T09:22:02Z"
+ },
+ {
+  "id": 456,
+  "shipment_id": 92,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-19T18:42:02Z"
+ },
+ {
+  "id": 457,
+  "shipment_id": 92,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-20T04:02:02Z"
+ },
+ {
+  "id": 458,
+  "shipment_id": 93,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-03T21:10:15Z"
+ },
+ {
+  "id": 459,
+  "shipment_id": 93,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-04T00:10:15Z"
+ },
+ {
+  "id": 460,
+  "shipment_id": 93,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-05T01:30:15Z"
+ },
+ {
+  "id": 461,
+  "shipment_id": 93,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-06T02:50:15Z"
+ },
+ {
+  "id": 462,
+  "shipment_id": 93,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-07T04:10:15Z"
+ },
+ {
+  "id": 463,
+  "shipment_id": 94,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-29T16:19:08Z"
+ },
+ {
+  "id": 464,
+  "shipment_id": 94,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-29T19:19:08Z"
+ },
+ {
+  "id": 465,
+  "shipment_id": 94,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สงขลา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-30T13:39:08Z"
+ },
+ {
+  "id": 466,
+  "shipment_id": 94,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอหาดใหญ่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-31T07:59:08Z"
+ },
+ {
+  "id": 467,
+  "shipment_id": 94,
+  "status": "delivered",
+  "location": "อำเภอหาดใหญ่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-01T02:19:08Z"
+ },
+ {
+  "id": 468,
+  "shipment_id": 95,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-02T03:59:09Z"
+ },
+ {
+  "id": 469,
+  "shipment_id": 95,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-02T06:59:09Z"
+ },
+ {
+  "id": 470,
+  "shipment_id": 95,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-03T00:59:09Z"
+ },
+ {
+  "id": 471,
+  "shipment_id": 95,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-03T18:59:09Z"
+ },
+ {
+  "id": 472,
+  "shipment_id": 95,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-04T12:59:09Z"
+ },
+ {
+  "id": 473,
+  "shipment_id": 96,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-16T12:34:39Z"
+ },
+ {
+  "id": 474,
+  "shipment_id": 96,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-16T15:34:39Z"
+ },
+ {
+  "id": 475,
+  "shipment_id": 96,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-17T08:54:39Z"
+ },
+ {
+  "id": 476,
+  "shipment_id": 96,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-18T02:14:39Z"
+ },
+ {
+  "id": 477,
+  "shipment_id": 96,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-18T19:34:39Z"
+ },
+ {
+  "id": 478,
+  "shipment_id": 97,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-17T10:09:40Z"
+ },
+ {
+  "id": 479,
+  "shipment_id": 97,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-17T13:09:40Z"
+ },
+ {
+  "id": 480,
+  "shipment_id": 97,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-17T22:29:40Z"
+ },
+ {
+  "id": 481,
+  "shipment_id": 97,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตจตุจักร",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-18T07:49:40Z"
+ },
+ {
+  "id": 482,
+  "shipment_id": 97,
+  "status": "delivered",
+  "location": "เขตจตุจักร",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-18T17:09:40Z"
+ },
+ {
+  "id": 483,
+  "shipment_id": 98,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-31T20:39:35Z"
+ },
+ {
+  "id": 484,
+  "shipment_id": 98,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-31T23:39:35Z"
+ },
+ {
+  "id": 485,
+  "shipment_id": 98,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นครราชสีมา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-02T00:59:35Z"
+ },
+ {
+  "id": 486,
+  "shipment_id": 98,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนครราชสีมา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-03T02:19:35Z"
+ },
+ {
+  "id": 487,
+  "shipment_id": 98,
+  "status": "delivered",
+  "location": "อำเภอเมืองนครราชสีมา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-04T03:39:35Z"
+ },
+ {
+  "id": 488,
+  "shipment_id": 99,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-25T07:27:53Z"
+ },
+ {
+  "id": 489,
+  "shipment_id": 99,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-25T10:27:53Z"
+ },
+ {
+  "id": 490,
+  "shipment_id": 99,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-25T18:47:53Z"
+ },
+ {
+  "id": 491,
+  "shipment_id": 99,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-26T03:07:53Z"
+ },
+ {
+  "id": 492,
+  "shipment_id": 99,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-26T11:27:53Z"
+ },
+ {
+  "id": 493,
+  "shipment_id": 100,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-07T22:07:36Z"
+ },
+ {
+  "id": 494,
+  "shipment_id": 100,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-08T01:07:36Z"
+ },
+ {
+  "id": 495,
+  "shipment_id": 100,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-09T10:27:36Z"
+ },
+ {
+  "id": 496,
+  "shipment_id": 100,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-10T19:47:36Z"
+ },
+ {
+  "id": 497,
+  "shipment_id": 100,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-12T05:07:36Z"
+ },
+ {
+  "id": 498,
+  "shipment_id": 101,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-14T05:21:40Z"
+ },
+ {
+  "id": 499,
+  "shipment_id": 101,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-14T08:21:40Z"
+ },
+ {
+  "id": 500,
+  "shipment_id": 101,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า เชียงใหม่",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-15T01:01:40Z"
+ },
+ {
+  "id": 501,
+  "shipment_id": 101,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองเชียงใหม่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-15T17:41:40Z"
+ },
+ {
+  "id": 502,
+  "shipment_id": 101,
+  "status": "delivered",
+  "location": "อำเภอเมืองเชียงใหม่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-16T10:21:40Z"
+ },
+ {
+  "id": 503,
+  "shipment_id": 102,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-01T18:13:59Z"
+ },
+ {
+  "id": 504,
+  "shipment_id": 102,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-01T21:13:59Z"
+ },
+ {
+  "id": 505,
+  "shipment_id": 102,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-02T15:53:59Z"
+ },
+ {
+  "id": 506,
+  "shipment_id": 102,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-03T10:33:59Z"
+ },
+ {
+  "id": 507,
+  "shipment_id": 102,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-04T05:13:59Z"
+ },
+ {
+  "id": 508,
+  "shipment_id": 103,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-14T11:45:41Z"
+ },
+ {
+  "id": 509,
+  "shipment_id": 103,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-14T14:45:41Z"
+ },
+ {
+  "id": 510,
+  "shipment_id": 103,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-15T08:05:41Z"
+ },
+ {
+  "id": 511,
+  "shipment_id": 103,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตจตุจักร",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-16T01:25:41Z"
+ },
+ {
+  "id": 512,
+  "shipment_id": 103,
+  "status": "delivered",
+  "location": "เขตจตุจักร",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-16T18:45:41Z"
+ },
+ {
+  "id": 513,
+  "shipment_id": 104,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-04T18:44:35Z"
+ },
+ {
+  "id": 514,
+  "shipment_id": 104,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-04T21:44:35Z"
+ },
+ {
+  "id": 515,
+  "shipment_id": 104,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-05T06:04:35Z"
+ },
+ {
+  "id": 516,
+  "shipment_id": 104,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-05T14:24:35Z"
+ },
+ {
+  "id": 517,
+  "shipment_id": 104,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-05T22:44:35Z"
+ },
+ {
+  "id": 518,
+  "shipment_id": 105,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-08T14:45:55Z"
+ },
+ {
+  "id": 519,
+  "shipment_id": 105,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-08T17:45:55Z"
+ },
+ {
+  "id": 520,
+  "shipment_id": 105,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-09T03:45:55Z"
+ },
+ {
+  "id": 521,
+  "shipment_id": 105,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-09T13:45:55Z"
+ },
+ {
+  "id": 522,
+  "shipment_id": 105,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-09T23:45:55Z"
+ },
+ {
+  "id": 523,
+  "shipment_id": 106,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-16T16:11:09Z"
+ },
+ {
+  "id": 524,
+  "shipment_id": 106,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-16T19:11:09Z"
+ },
+ {
+  "id": 525,
+  "shipment_id": 106,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-17T04:51:09Z"
+ },
+ {
+  "id": 526,
+  "shipment_id": 106,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-17T14:31:09Z"
+ },
+ {
+  "id": 527,
+  "shipment_id": 106,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-18T00:11:09Z"
+ },
+ {
+  "id": 528,
+  "shipment_id": 107,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-31T11:01:02Z"
+ },
+ {
+  "id": 529,
+  "shipment_id": 107,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-31T14:01:02Z"
+ },
+ {
+  "id": 530,
+  "shipment_id": 107,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-01T08:21:02Z"
+ },
+ {
+  "id": 531,
+  "shipment_id": 107,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-02T02:41:02Z"
+ },
+ {
+  "id": 532,
+  "shipment_id": 107,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-02T21:01:02Z"
+ },
+ {
+  "id": 533,
+  "shipment_id": 108,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-12T16:51:59Z"
+ },
+ {
+  "id": 534,
+  "shipment_id": 108,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-12T19:51:59Z"
+ },
+ {
+  "id": 535,
+  "shipment_id": 108,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-13T12:51:59Z"
+ },
+ {
+  "id": 536,
+  "shipment_id": 108,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-14T05:51:59Z"
+ },
+ {
+  "id": 537,
+  "shipment_id": 108,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-14T22:51:59Z"
+ },
+ {
+  "id": 538,
+  "shipment_id": 109,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-09T01:26:53Z"
+ },
+ {
+  "id": 539,
+  "shipment_id": 109,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-09T04:26:53Z"
+ },
+ {
+  "id": 540,
+  "shipment_id": 109,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-09T14:26:53Z"
+ },
+ {
+  "id": 541,
+  "shipment_id": 109,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-10T00:26:53Z"
+ },
+ {
+  "id": 542,
+  "shipment_id": 109,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-10T10:26:53Z"
+ },
+ {
+  "id": 543,
+  "shipment_id": 110,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-31T21:24:58Z"
+ },
+ {
+  "id": 544,
+  "shipment_id": 110,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-01T00:24:58Z"
+ },
+ {
+  "id": 545,
+  "shipment_id": 110,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-01T19:04:58Z"
+ },
+ {
+  "id": 546,
+  "shipment_id": 110,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตจตุจักร",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-02T13:44:58Z"
+ },
+ {
+  "id": 547,
+  "shipment_id": 110,
+  "status": "delivered",
+  "location": "เขตจตุจักร",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-03T08:24:58Z"
+ },
+ {
+  "id": 548,
+  "shipment_id": 111,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-06T22:17:59Z"
+ },
+ {
+  "id": 549,
+  "shipment_id": 111,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-07T01:17:59Z"
+ },
+ {
+  "id": 550,
+  "shipment_id": 111,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สมุทรปราการ",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-07T09:57:59Z"
+ },
+ {
+  "id": 551,
+  "shipment_id": 111,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอบางพลี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-07T18:37:59Z"
+ },
+ {
+  "id": 552,
+  "shipment_id": 111,
+  "status": "delivered",
+  "location": "อำเภอบางพลี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-08T03:17:59Z"
+ },
+ {
+  "id": 553,
+  "shipment_id": 112,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-03T09:56:28Z"
+ },
+ {
+  "id": 554,
+  "shipment_id": 112,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-03T12:56:28Z"
+ },
+ {
+  "id": 555,
+  "shipment_id": 112,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-03T22:36:28Z"
+ },
+ {
+  "id": 556,
+  "shipment_id": 112,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-04T08:16:28Z"
+ },
+ {
+  "id": 557,
+  "shipment_id": 112,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-04T17:56:28Z"
+ },
+ {
+  "id": 558,
+  "shipment_id": 113,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-08T19:50:54Z"
+ },
+ {
+  "id": 559,
+  "shipment_id": 113,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-08T22:50:54Z"
+ },
+ {
+  "id": 560,
+  "shipment_id": 113,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-09T15:50:54Z"
+ },
+ {
+  "id": 561,
+  "shipment_id": 113,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-10T08:50:54Z"
+ },
+ {
+  "id": 562,
+  "shipment_id": 113,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-11T01:50:54Z"
+ },
+ {
+  "id": 563,
+  "shipment_id": 114,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-22T07:44:59Z"
+ },
+ {
+  "id": 564,
+  "shipment_id": 114,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-22T10:44:59Z"
+ },
+ {
+  "id": 565,
+  "shipment_id": 114,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-23T04:44:59Z"
+ },
+ {
+  "id": 566,
+  "shipment_id": 114,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-23T22:44:59Z"
+ },
+ {
+  "id": 567,
+  "shipment_id": 114,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-24T16:44:59Z"
+ },
+ {
+  "id": 568,
+  "shipment_id": 115,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-05T14:11:36Z"
+ },
+ {
+  "id": 569,
+  "shipment_id": 115,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-05T17:11:36Z"
+ },
+ {
+  "id": 570,
+  "shipment_id": 115,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-06T01:31:36Z"
+ },
+ {
+  "id": 571,
+  "shipment_id": 115,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-06T09:51:36Z"
+ },
+ {
+  "id": 572,
+  "shipment_id": 115,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-06T18:11:36Z"
+ },
+ {
+  "id": 573,
+  "shipment_id": 116,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-04T23:50:16Z"
+ },
+ {
+  "id": 574,
+  "shipment_id": 116,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-05T02:50:16Z"
+ },
+ {
+  "id": 575,
+  "shipment_id": 116,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-05T20:10:16Z"
+ },
+ {
+  "id": 576,
+  "shipment_id": 116,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-06T13:30:16Z"
+ },
+ {
+  "id": 577,
+  "shipment_id": 116,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-07T06:50:16Z"
+ },
+ {
+  "id": 578,
+  "shipment_id": 117,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-30T02:53:01Z"
+ },
+ {
+  "id": 579,
+  "shipment_id": 117,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-30T05:53:01Z"
+ },
+ {
+  "id": 580,
+  "shipment_id": 117,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-31T00:13:01Z"
+ },
+ {
+  "id": 581,
+  "shipment_id": 117,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-31T18:33:01Z"
+ },
+ {
+  "id": 582,
+  "shipment_id": 117,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-01T12:53:01Z"
+ },
+ {
+  "id": 583,
+  "shipment_id": 118,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-14T18:09:25Z"
+ },
+ {
+  "id": 584,
+  "shipment_id": 118,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-14T21:09:25Z"
+ },
+ {
+  "id": 585,
+  "shipment_id": 118,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-15T06:49:25Z"
+ },
+ {
+  "id": 586,
+  "shipment_id": 118,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-15T16:29:25Z"
+ },
+ {
+  "id": 587,
+  "shipment_id": 118,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-16T02:09:25Z"
+ },
+ {
+  "id": 588,
+  "shipment_id": 119,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-02T14:08:30Z"
+ },
+ {
+  "id": 589,
+  "shipment_id": 119,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-02T17:08:30Z"
+ },
+ {
+  "id": 590,
+  "shipment_id": 119,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-04T03:48:30Z"
+ },
+ {
+  "id": 591,
+  "shipment_id": 119,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-05T14:28:30Z"
+ },
+ {
+  "id": 592,
+  "shipment_id": 119,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-07T01:08:30Z"
+ },
+ {
+  "id": 593,
+  "shipment_id": 120,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-06T08:30:11Z"
+ },
+ {
+  "id": 594,
+  "shipment_id": 120,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-06T11:30:11Z"
+ },
+ {
+  "id": 595,
+  "shipment_id": 120,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ชลบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-07T13:50:11Z"
+ },
+ {
+  "id": 596,
+  "shipment_id": 120,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองชลบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-08T16:10:11Z"
+ },
+ {
+  "id": 597,
+  "shipment_id": 120,
+  "status": "delivered",
+  "location": "อำเภอเมืองชลบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-09T18:30:11Z"
+ },
+ {
+  "id": 598,
+  "shipment_id": 121,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-05T20:16:26Z"
+ },
+ {
+  "id": 599,
+  "shipment_id": 121,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-05T23:16:26Z"
+ },
+ {
+  "id": 600,
+  "shipment_id": 121,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ชลบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-07T09:36:26Z"
+ },
+ {
+  "id": 601,
+  "shipment_id": 121,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองชลบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-08T19:56:26Z"
+ },
+ {
+  "id": 602,
+  "shipment_id": 121,
+  "status": "delivered",
+  "location": "อำเภอเมืองชลบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-10T06:16:26Z"
+ },
+ {
+  "id": 603,
+  "shipment_id": 122,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-18T00:14:47Z"
+ },
+ {
+  "id": 604,
+  "shipment_id": 122,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-18T03:14:47Z"
+ },
+ {
+  "id": 605,
+  "shipment_id": 122,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-19T13:34:47Z"
+ },
+ {
+  "id": 606,
+  "shipment_id": 122,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-20T23:54:47Z"
+ },
+ {
+  "id": 607,
+  "shipment_id": 122,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-22T10:14:47Z"
+ },
+ {
+  "id": 608,
+  "shipment_id": 123,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-28T09:23:42Z"
+ },
+ {
+  "id": 609,
+  "shipment_id": 123,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-28T12:23:42Z"
+ },
+ {
+  "id": 610,
+  "shipment_id": 123,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นครราชสีมา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-29T22:43:42Z"
+ },
+ {
+  "id": 611,
+  "shipment_id": 123,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนครราชสีมา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-01T09:03:42Z"
+ },
+ {
+  "id": 612,
+  "shipment_id": 123,
+  "status": "delivered",
+  "location": "อำเภอเมืองนครราชสีมา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-02T19:23:42Z"
+ },
+ {
+  "id": 613,
+  "shipment_id": 124,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-19T00:12:48Z"
+ },
+ {
+  "id": 614,
+  "shipment_id": 124,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-19T03:12:48Z"
+ },
+ {
+  "id": 615,
+  "shipment_id": 124,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-19T13:52:48Z"
+ },
+ {
+  "id": 616,
+  "shipment_id": 124,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-20T00:32:48Z"
+ },
+ {
+  "id": 617,
+  "shipment_id": 124,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-20T11:12:48Z"
+ },
+ {
+  "id": 618,
+  "shipment_id": 125,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-30T20:42:03Z"
+ },
+ {
+  "id": 619,
+  "shipment_id": 125,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-30T23:42:03Z"
+ },
+ {
+  "id": 620,
+  "shipment_id": 125,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-31T16:02:03Z"
+ },
+ {
+  "id": 621,
+  "shipment_id": 125,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-01T08:22:03Z"
+ },
+ {
+  "id": 622,
+  "shipment_id": 125,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-02T00:42:03Z"
+ },
+ {
+  "id": 623,
+  "shipment_id": 126,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-17T05:39:26Z"
+ },
+ {
+  "id": 624,
+  "shipment_id": 126,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-17T08:39:26Z"
+ },
+ {
+  "id": 625,
+  "shipment_id": 126,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-17T18:59:26Z"
+ },
+ {
+  "id": 626,
+  "shipment_id": 126,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-18T05:19:26Z"
+ },
+ {
+  "id": 627,
+  "shipment_id": 126,
+  "status": "delivered",
+  "location": "เขตบางนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-18T15:39:26Z"
+ },
+ {
+  "id": 628,
+  "shipment_id": 127,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-13T17:05:17Z"
+ },
+ {
+  "id": 629,
+  "shipment_id": 127,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-13T20:05:17Z"
+ },
+ {
+  "id": 630,
+  "shipment_id": 127,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-14T06:45:17Z"
+ },
+ {
+  "id": 631,
+  "shipment_id": 127,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-14T17:25:17Z"
+ },
+ {
+  "id": 632,
+  "shipment_id": 127,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-15T04:05:17Z"
+ },
+ {
+  "id": 633,
+  "shipment_id": 128,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-07T00:15:20Z"
+ },
+ {
+  "id": 634,
+  "shipment_id": 128,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-07T03:15:20Z"
+ },
+ {
+  "id": 635,
+  "shipment_id": 128,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-08T13:55:20Z"
+ },
+ {
+  "id": 636,
+  "shipment_id": 128,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-10T00:35:20Z"
+ },
+ {
+  "id": 637,
+  "shipment_id": 128,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-11T11:15:20Z"
+ },
+ {
+  "id": 638,
+  "shipment_id": 129,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-07T12:58:23Z"
+ },
+ {
+  "id": 639,
+  "shipment_id": 129,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-07T15:58:23Z"
+ },
+ {
+  "id": 640,
+  "shipment_id": 129,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สงขลา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-09T01:58:23Z"
+ },
+ {
+  "id": 641,
+  "shipment_id": 129,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอหาดใหญ่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-10T11:58:23Z"
+ },
+ {
+  "id": 642,
+  "shipment_id": 129,
+  "status": "delivered",
+  "location": "อำเภอหาดใหญ่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-11T21:58:23Z"
+ },
+ {
+  "id": 643,
+  "shipment_id": 130,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-09T11:27:45Z"
+ },
+ {
+  "id": 644,
+  "shipment_id": 130,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-09T14:27:45Z"
+ },
+ {
+  "id": 645,
+  "shipment_id": 130,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-09T23:47:45Z"
+ },
+ {
+  "id": 646,
+  "shipment_id": 130,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-10T09:07:45Z"
+ },
+ {
+  "id": 647,
+  "shipment_id": 130,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-10T18:27:45Z"
+ },
+ {
+  "id": 648,
+  "shipment_id": 131,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-22T12:46:50Z"
+ },
+ {
+  "id": 649,
+  "shipment_id": 131,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-22T15:46:50Z"
+ },
+ {
+  "id": 650,
+  "shipment_id": 131,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-23T02:26:50Z"
+ },
+ {
+  "id": 651,
+  "shipment_id": 131,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-23T13:06:50Z"
+ },
+ {
+  "id": 652,
+  "shipment_id": 131,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-23T23:46:50Z"
+ },
+ {
+  "id": 653,
+  "shipment_id": 132,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-09T04:55:04Z"
+ },
+ {
+  "id": 654,
+  "shipment_id": 132,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-09T07:55:04Z"
+ },
+ {
+  "id": 655,
+  "shipment_id": 132,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นครราชสีมา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-10T17:15:04Z"
+ },
+ {
+  "id": 656,
+  "shipment_id": 132,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนครราชสีมา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-12T02:35:04Z"
+ },
+ {
+  "id": 657,
+  "shipment_id": 132,
+  "status": "delivered",
+  "location": "อำเภอเมืองนครราชสีมา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-13T11:55:04Z"
+ },
+ {
+  "id": 658,
+  "shipment_id": 133,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-18T16:09:26Z"
+ },
+ {
+  "id": 659,
+  "shipment_id": 133,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-18T19:09:26Z"
+ },
+ {
+  "id": 660,
+  "shipment_id": 133,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-20T05:09:26Z"
+ },
+ {
+  "id": 661,
+  "shipment_id": 133,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-21T15:09:26Z"
+ },
+ {
+  "id": 662,
+  "shipment_id": 133,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-23T01:09:26Z"
+ },
+ {
+  "id": 663,
+  "shipment_id": 134,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-05T15:50:02Z"
+ },
+ {
+  "id": 664,
+  "shipment_id": 134,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-05T18:50:02Z"
+ },
+ {
+  "id": 665,
+  "shipment_id": 134,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-06T05:10:02Z"
+ },
+ {
+  "id": 666,
+  "shipment_id": 134,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-06T15:30:02Z"
+ },
+ {
+  "id": 667,
+  "shipment_id": 134,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-07T01:50:02Z"
+ },
+ {
+  "id": 668,
+  "shipment_id": 135,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-27T04:47:12Z"
+ },
+ {
+  "id": 669,
+  "shipment_id": 135,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-27T07:47:12Z"
+ },
+ {
+  "id": 670,
+  "shipment_id": 135,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-27T17:47:12Z"
+ },
+ {
+  "id": 671,
+  "shipment_id": 135,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-28T03:47:12Z"
+ },
+ {
+  "id": 672,
+  "shipment_id": 135,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-28T13:47:12Z"
+ },
+ {
+  "id": 673,
+  "shipment_id": 136,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-11T16:18:27Z"
+ },
+ {
+  "id": 674,
+  "shipment_id": 136,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-11T19:18:27Z"
+ },
+ {
+  "id": 675,
+  "shipment_id": 136,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ภูเก็ต",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-12T21:18:27Z"
+ },
+ {
+  "id": 676,
+  "shipment_id": 136,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองภูเก็ต",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-13T23:18:27Z"
+ },
+ {
+  "id": 677,
+  "shipment_id": 136,
+  "status": "delivered",
+  "location": "อำเภอเมืองภูเก็ต",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-15T01:18:27Z"
+ },
+ {
+  "id": 678,
+  "shipment_id": 137,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-14T02:40:17Z"
+ },
+ {
+  "id": 679,
+  "shipment_id": 137,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-14T05:40:17Z"
+ },
+ {
+  "id": 680,
+  "shipment_id": 137,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-14T23:20:17Z"
+ },
+ {
+  "id": 681,
+  "shipment_id": 137,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-15T17:00:17Z"
+ },
+ {
+  "id": 682,
+  "shipment_id": 137,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-16T10:40:17Z"
+ },
+ {
+  "id": 683,
+  "shipment_id": 138,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-03T04:25:50Z"
+ },
+ {
+  "id": 684,
+  "shipment_id": 138,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-03T07:25:50Z"
+ },
+ {
+  "id": 685,
+  "shipment_id": 138,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-03T17:25:50Z"
+ },
+ {
+  "id": 686,
+  "shipment_id": 138,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตวัฒนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-09-04T03:25:50Z"
+ },
+ {
+  "id": 687,
+  "shipment_id": 138,
+  "status": "delivered",
+  "location": "เขตวัฒนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-09-04T13:25:50Z"
+ },
+ {
+  "id": 688,
+  "shipment_id": 139,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-06-20T10:17:35Z"
+ },
+ {
+  "id": 689,
+  "shipment_id": 139,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-06-20T13:17:35Z"
+ },
+ {
+  "id": 690,
+  "shipment_id": 139,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า นนทบุรี",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-06-20T23:17:35Z"
+ },
+ {
+  "id": 691,
+  "shipment_id": 139,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองนนทบุรี",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-06-21T09:17:35Z"
+ },
+ {
+  "id": 692,
+  "shipment_id": 139,
+  "status": "delivered",
+  "location": "อำเภอเมืองนนทบุรี",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-06-21T19:17:35Z"
+ },
+ {
+  "id": 693,
+  "shipment_id": 140,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-04T14:34:34Z"
+ },
+ {
+  "id": 694,
+  "shipment_id": 140,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-04T17:34:34Z"
+ },
+ {
+  "id": 695,
+  "shipment_id": 140,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-05T03:54:34Z"
+ },
+ {
+  "id": 696,
+  "shipment_id": 140,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-05T14:14:34Z"
+ },
+ {
+  "id": 697,
+  "shipment_id": 140,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-06T00:34:34Z"
+ },
+ {
+  "id": 698,
+  "shipment_id": 141,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-21T22:15:08Z"
+ },
+ {
+  "id": 699,
+  "shipment_id": 141,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-22T01:15:08Z"
+ },
+ {
+  "id": 700,
+  "shipment_id": 141,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า สงขลา",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-22T18:35:08Z"
+ },
+ {
+  "id": 701,
+  "shipment_id": 141,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอหาดใหญ่",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-23T11:55:08Z"
+ },
+ {
+  "id": 702,
+  "shipment_id": 141,
+  "status": "delivered",
+  "location": "อำเภอหาดใหญ่",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-24T05:15:08Z"
+ },
+ {
+  "id": 703,
+  "shipment_id": 142,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-12T08:23:00Z"
+ },
+ {
+  "id": 704,
+  "shipment_id": 142,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-12T11:23:00Z"
+ },
+ {
+  "id": 705,
+  "shipment_id": 142,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-12T21:03:00Z"
+ },
+ {
+  "id": 706,
+  "shipment_id": 142,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางรัก",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-13T06:43:00Z"
+ },
+ {
+  "id": 707,
+  "shipment_id": 142,
+  "status": "delivered",
+  "location": "เขตบางรัก",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-13T16:23:00Z"
+ },
+ {
+  "id": 708,
+  "shipment_id": 143,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-16T20:12:47Z"
+ },
+ {
+  "id": 709,
+  "shipment_id": 143,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-16T23:12:47Z"
+ },
+ {
+  "id": 710,
+  "shipment_id": 143,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า ขอนแก่น",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-17T16:32:47Z"
+ },
+ {
+  "id": 711,
+  "shipment_id": 143,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง อำเภอเมืองขอนแก่น",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-18T09:52:47Z"
+ },
+ {
+  "id": 712,
+  "shipment_id": 143,
+  "status": "delivered",
+  "location": "อำเภอเมืองขอนแก่น",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-19T03:12:47Z"
+ },
+ {
+  "id": 713,
+  "shipment_id": 144,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-07-11T05:00:00Z"
+ },
+ {
+  "id": 714,
+  "shipment_id": 144,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-07-11T08:00:00Z"
+ },
+ {
+  "id": 715,
+  "shipment_id": 144,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-07-12T02:00:00Z"
+ },
+ {
+  "id": 716,
+  "shipment_id": 144,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-07-12T20:00:00Z"
+ },
+ {
+  "id": 717,
+  "shipment_id": 144,
+  "status": "delivered",
+  "location": "เขตบางนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-07-13T14:00:00Z"
+ },
+ {
+  "id": 718,
+  "shipment_id": 145,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-08-16T07:00:00Z"
+ },
+ {
+  "id": 719,
+  "shipment_id": 145,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-08-16T10:00:00Z"
+ },
+ {
+  "id": 720,
+  "shipment_id": 145,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-08-16T18:20:00Z"
+ },
+ {
+  "id": 721,
+  "shipment_id": 145,
+  "status": "out_for_delivery",
+  "location": "สาขาปลายทาง เขตบางนา",
+  "description_th": "พัสดุกำลังนำจ่าย",
+  "occurred_at": "2026-08-17T02:40:00Z"
+ },
+ {
+  "id": 722,
+  "shipment_id": 145,
+  "status": "delivered",
+  "location": "เขตบางนา",
+  "description_th": "จัดส่งสำเร็จ ผู้รับเซ็นรับแล้ว",
+  "occurred_at": "2026-08-17T11:00:00Z"
+ },
+ {
+  "id": 723,
+  "shipment_id": 146,
+  "status": "label_created",
+  "location": "คลังสินค้า บางพลี สมุทรปราการ",
+  "description_th": "ร้านค้าสร้างรายการจัดส่งแล้ว",
+  "occurred_at": "2026-09-17T13:00:00Z"
+ },
+ {
+  "id": 724,
+  "shipment_id": 146,
+  "status": "picked_up",
+  "location": "ศูนย์คัดแยก บางนา",
+  "description_th": "บริษัทขนส่งเข้ารับพัสดุแล้ว",
+  "occurred_at": "2026-09-17T16:00:00Z"
+ },
+ {
+  "id": 725,
+  "shipment_id": 146,
+  "status": "in_transit",
+  "location": "ศูนย์กระจายสินค้า กรุงเทพมหานคร",
+  "description_th": "พัสดุอยู่ระหว่างขนส่ง",
+  "occurred_at": "2026-09-18T11:00:00Z"
+ }
+]

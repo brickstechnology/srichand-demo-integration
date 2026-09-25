@@ -1,0 +1,262 @@
+[
+ {
+  "tool": "list_reference_data",
+  "kind": "read",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "search_products",
+  "kind": "read",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "get_product",
+  "kind": "read",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "match_shade",
+  "kind": "read",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "check_stock",
+  "kind": "read",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "get_promotions",
+  "kind": "read",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "recommend_routine",
+  "kind": "read",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "check_ingredient_conflicts",
+  "kind": "read",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "get_range_gaps",
+  "kind": "read",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "get_customer",
+  "kind": "read",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "get_order_status",
+  "kind": "read",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "get_loyalty",
+  "kind": "read",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "cart_view",
+  "kind": "read",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "never",
+  "approval_reason": "Read-only (readOnlyHint: true); proven by test to change nothing.",
+  "hints": ""
+ },
+ {
+  "tool": "register_member",
+  "kind": "write",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "when guardian_confirmed = true",
+  "approval_reason": "Adult sign-ups stay instant (explicit yes collected in chat, duplicates blocked by the tool). The tool accepts a 16–19-year-old only when this flag is set, and the model cannot verify a parent — so a person does.",
+  "hints": ""
+ },
+ {
+  "tool": "cart_add_item",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "when quantity > 5 — add the same rule on items[].quantity",
+  "approval_reason": "Normal purchases stay instant. Bulk / reseller buying belongs with staff. The tool also caps one item at 10 units per cart, counting earlier lines of the same batched call, so repeated small adds cannot slip past. The batched form carries its quantities in `items[].quantity`, so the rule needs BOTH paths.",
+  "hints": ""
+ },
+ {
+  "tool": "cart_update_item",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "when quantity > 5",
+  "approval_reason": "Same as cart_add_item.",
+  "hints": "idempotent"
+ },
+ {
+  "tool": "clear_cart_item",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "when all = true",
+  "approval_reason": "Dropping the SKUs a customer asked to drop stays instant. Emptying the WHOLE basket in one call (destructiveHint) gets a human look — it is the one shape of this call the customer cannot undo by re-adding one item, and a mis-set flag would wipe a basket mid-sale. Removing named SKUs needs no approval.",
+  "hints": "destructive idempotent"
+ },
+ {
+  "tool": "create_order",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "when redeem_points > 500",
+  "approval_reason": "Orders stay instant: the journey reads the total back and waits for a clear yes, and nothing is charged. A large points redemption gets a human look (phone numbers are unverified in the prototype). Tune the threshold.",
+  "hints": ""
+ },
+ {
+  "tool": "confirm_payment_mock",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "always",
+  "approval_reason": "DEMO ONLY stand-in for the payment gateway. The presenter approving it is the 'payment received' moment. Disable this tool in production.",
+  "hints": "idempotent"
+ },
+ {
+  "tool": "record_consent",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "when guardian_confirmed = true",
+  "approval_reason": "Adult consents stay instant. A minor's photo consent is only accepted with this flag, which the model cannot verify — so a person does. Fires for exactly those cases.",
+  "hints": ""
+ },
+ {
+  "tool": "set_marketing_preference",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "never",
+  "approval_reason": "PDPA: opting out must be as easy and as quick as opting in.",
+  "hints": "idempotent"
+ },
+ {
+  "tool": "withdraw_consent_and_erase",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "always",
+  "approval_reason": "Irreversible deletion (destructiveHint). The customer confirms in chat; staff approval guards against a misfire. PDPA allows up to 30 days, so a short wait is acceptable.",
+  "hints": "destructive idempotent"
+ },
+ {
+  "tool": "save_skin_profile",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "never",
+  "approval_reason": "Overwrites only the customer's own profile; needs their consent, enforced by the tool.",
+  "hints": "idempotent"
+ },
+ {
+  "tool": "save_skin_analysis",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "never",
+  "approval_reason": "Needs photo + cross-border consent, enforced by the tool.",
+  "hints": ""
+ },
+ {
+  "tool": "save_routine",
+  "kind": "write",
+  "scope_path": "line_user_id",
+  "scope_action": "scope path = line_user_id",
+  "unpaired": "fails closed (correct: it needs the member)",
+  "approval": "never",
+  "approval_reason": "Low risk; replaces the customer's own saved routine.",
+  "hints": ""
+ },
+ {
+  "tool": "log_range_gap",
+  "kind": "write",
+  "scope_path": null,
+  "scope_action": "press “ประกาศว่า tool นี้ไม่ผูกกับลูกค้า” (not bound to a customer)",
+  "unpaired": "works",
+  "approval": "never",
+  "approval_reason": "Anonymous analytics; must never be blocked.",
+  "hints": ""
+ }
+]
